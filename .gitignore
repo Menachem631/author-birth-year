@@ -1,0 +1,6 @@
+venv2/
+*.pkl
+*.joblib
+*.parquet
+ __pycache__/
+ .ipynb_checkpoints/

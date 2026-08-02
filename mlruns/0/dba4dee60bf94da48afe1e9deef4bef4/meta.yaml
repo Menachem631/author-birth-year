@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/menac/PycharmProjects/Text%20Analysis/mlruns/0/dba4dee60bf94da48afe1e9deef4bef4/artifacts
+end_time: 1783830855703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dba4dee60bf94da48afe1e9deef4bef4
+run_name: experiment1
+run_uuid: dba4dee60bf94da48afe1e9deef4bef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783830847788
+status: 4
+tags: []
+user_id: menac

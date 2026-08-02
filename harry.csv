@@ -1,0 +1,2218 @@
+,birthyear,author,title,pub_year
+0,1832.0,Lewis Carroll,Alice's Adventures in Wonderland,1865.0
+1,1832.0,Lewis Carroll,Through the Looking-Glass,1871.0
+2,1819.0,Herman Melville,Moby-Dick,1851.0
+3,1860.0,J. M. Barrie,Peter Pan,1911.0
+4,1840.0,Thomas Hardy,Far from the Madding Crowd,1874.0
+5,1860.0,Charlotte Perkins Gilman,Herland,1915.0
+6,1804.0,Nathaniel Hawthorne,The Scarlet Letter,1850.0
+7,1866.0,H. G. Wells,The Time Machine,1895.0
+8,1866.0,H. G. Wells,The War of the Worlds,1897.0
+9,1783.0,Washington Irving,The Legend of Sleepy Hollow,1864.0
+10,1850.0,Robert Louis Stevenson,The Strange Case of Dr. Jekyll and Mr. Hyde,
+11,1850.0,Robert Louis Stevenson,The Strange Case of Dr. Jekyll and Mr. Hyde,
+12,1874.0,Lucy Maud Montgomery,Anne of Green Gables,1908.0
+13,,Charles Dickens,A Christmas Carol in Prose; Being a Ghost Story of Christmas,
+14,1874.0,Lucy Maud Montgomery,Anne of Avonlea,1909.0
+15,1874.0,Lucy Maud Montgomery,Anne of the Island,1915.0
+16,1856.0,L. Frank Baum,The Marvelous Land of Oz,1904.0
+17,1856.0,L. Frank Baum,The Wonderful Wizard of Oz,1900.0
+18,1875.0,Edgar Rice Burroughs,A Princess of Mars,1912.0
+19,1875.0,Edgar Rice Burroughs,The Gods of Mars,1918.0
+20,1875.0,Edgar Rice Burroughs,The warlord of Mars,
+21,1875.0,Edgar Rice Burroughs,"Thuvia, Maid of Mars",1920.0
+22,1871.0,Stephen Crane,The Red Badge of Courage: An Episode of the American Civil War,
+23,1835.0,Mark Twain,The Adventures of Tom Sawyer,1876.0
+24,,Mark Twain,Adventures of Huckleberry Finn,1884.0
+25,1804.0,Nathaniel Hawthorne,The House of the Seven Gables,1851.0
+26,1875.0,Edgar Rice Burroughs,Tarzan of the Apes,1912.0
+27,1875.0,Edgar Rice Burroughs,The Return of Tarzan,1915.0
+28,1771.0,Walter Scott,Ivanhoe: A Romance,
+29,1828.0,Jules Verne,"From the Earth to the Moon; and, Round the Moon",
+30,1797.0,Mary Wollstonecraft Shelley,Frankenstein,
+31,1875.0,Edgar Rice Burroughs,The Beasts of Tarzan,1914.0
+32,1835.0,Mark Twain,A Connecticut Yankee in King Arthur's Court,1889.0
+33,1875.0,Edgar Rice Burroughs,The Son of Tarzan,1915.0
+34,1835.0,Mark Twain,Tom Sawyer Abroad,1894.0
+35,1875.0,Edgar Rice Burroughs,Tarzan and the Jewels of Opar,1916.0
+36,1835.0,Mark Twain,"Tom Sawyer, Detective",1896.0
+37,1873.0,Willa Cather,Alexander's Bridge,1912.0
+38,1863.0,Anthony Hope,The Prisoner of Zenda,1894.0
+39,1875.0,Edgar Rice Burroughs,The Monster Men,1929.0
+40,1838.0,Edwin Abbott Abbott,Flatland: A Romance of Many Dimensions,
+41,1835.0,Mark Twain,The Tragedy of Pudd'nhead Wilson,
+42,1828.0,Jules Verne,Around the World in Eighty Days,1872.0
+43,1775.0,Jane Austen,Persuasion,1817.0
+44,1875.0,Edgar Rice Burroughs,Jungle Tales of Tarzan,1919.0
+45,1840.0,Thomas Hardy,Far from the Madding Crowd,1874.0
+46,1859.0,Arthur Conan Doyle,The Return of Sherlock Holmes,1905.0
+47,1840.0,Thomas Hardy,Tess of the d'Urbervilles: A Pure Woman,
+48,1863.0,Gene Stratton-Porter,Freckles,1904.0
+49,1835.0,Mark Twain,A Tramp Abroad,1880.0
+50,,Robert Louis Stevenson,Treasure Island,1883.0
+51,1775.0,Jane Austen,Northanger Abbey,1818.0
+52,1840.0,Thomas Hardy,The Return of the Native,1878.0
+53,1875.0,Edgar Rice Burroughs,At the Earth's Core,1914.0
+54,1863.0,Gene Stratton-Porter,A Girl of the Limberlost,
+55,1859.0,Arthur Conan Doyle,The Poison Belt,1913.0
+56,1628.0,John Bunyan,"The Pilgrim's Progress from this world to that which is to come
+Delivered under the similitude of a dream, by John Bunyan",
+57,1856.0,Harold Frederic,The Damnation of Theron Ware,1896.0
+58,1759.0,Mary Wollstonecraft,Maria,
+59,1859.0,Arthur Conan Doyle,The Lost World,1912.0
+60,1878.0,Upton Sinclair,The Jungle,1905.0
+61,1775.0,Jane Austen,Mansfield Park,1814.0
+62,1835.0,Mark Twain,"The $30,000 Bequest, and Other Stories",
+63,1840.0,Thomas Hardy,The Mayor of Casterbridge,1886.0
+64,1882.0,Virginia Woolf,The Voyage Out,1915.0
+65,1819.0,George Eliot,Middlemarch,1871.0
+66,1875.0,Edgar Rice Burroughs,The Lost Continent,
+67,1840.0,Thomas Hardy,Jude the Obscure,1895.0
+68,1837.0,William Dean Howells,The Rise of Silas Lapham,1885.0
+69,1824.0,Wilkie Collins,The Moonstone,1868.0
+70,1775.0,Jane Austen,Emma,1815.0
+71,1866.0,H. G. Wells,The island of Doctor Moreau,
+72,1850.0,Kate Chopin,"The Awakening, and Selected Short Stories",
+73,1775.0,Jane Austen,Sense and Sensibility,1811.0
+74,1832.0,Louisa May Alcott,Flower Fables,
+75,1828.0,Jules Verne,Twenty Thousand Leagues under the Sea,
+76,1870.0,Frank Norris,McTeague: A Story of San Francisco,
+77,1862.0,Edith Wharton,Summer,1917.0
+78,1834.0,William Morris,The Well at the World's End: A Tale,
+79,1824.0,Wilkie Collins,The Haunted Hotel: A Mystery of Modern Venice,1879.0
+80,1762.0,Mrs. Rowson,Charlotte Temple,
+81,1890.0,Christopher Morley,The Haunted Bookshop,1919.0
+82,1883.0,Sax Rohmer,The Insidious Dr. Fu Manchu,
+83,1854.0,Oscar Wilde,The Picture of Dorian Gray,1890.0
+84,1843.0,Henry James,Roderick Hudson,1875.0
+85,1843.0,Henry James,Confidence,1879.0
+86,1843.0,Henry James,The Europeans,1878.0
+87,1838.0,Edwin Abbott Abbott,Flatland: A Romance of Many Dimensions,
+88,1811.0,Harriet Beecher Stowe,Uncle Tom's Cabin,1852.0
+89,1874.0,G. K. Chesterton,The Innocence of Father Brown,1911.0
+90,1843.0,Henry James,Daisy Miller: A Study,
+91,1843.0,Henry James,The Turn of the Screw,1898.0
+92,1843.0,Henry James,An International Episode,1878.0
+93,1843.0,Henry James,The Aspern Papers,1888.0
+94,1876.0,Jack London,The Call of the Wild,1388.0
+95,1885.0,D. H. Lawrence,Sons and Lovers,1913.0
+96,1857.0,Joseph Conrad,Heart of Darkness,1899.0
+97,1857.0,Joseph Conrad,The Secret Sharer,1912.0
+98,1859.0,Arthur Conan Doyle,The Return of Sherlock Holmes,1905.0
+99,1874.0,G. K. Chesterton,The Wisdom of Father Brown,1914.0
+100,1840.0,Thomas Hardy,A Pair of Blue Eyes,1873.0
+101,1871.0,Theodore Dreiser,Sister Carrie: A Novel,
+102,1834.0,William Morris,Child Christopher and Goldilind the Fair,1895.0
+103,1865.0,Rudyard Kipling,The Jungle Book,1894.0
+104,1876.0,Jean Webster,Dear Enemy,1915.0
+105,,William Wells Brown,Clotelle,
+106,1873.0,Willa Cather,My Ántonia,1918.0
+107,1859.0,Arthur Conan Doyle,A Study in Scarlet,1887.0
+108,1862.0,Edith Wharton,The Touchstone,1900.0
+109,1870.0,Frank Norris,The Octopus : A Story of California,
+110,1859.0,Kenneth Grahame,Dream Days,
+111,1820.0,Anna Sewell,Black Beauty,1877.0
+112,1862.0,Edith Wharton,The House of Mirth,1905.0
+113,1866.0,Charles John Cutcliffe Wright Hyne,The Lost Continent,
+114,1863.0,Gene Stratton-Porter,Laddie: A True Blue Story,
+115,1831.0,Amelia E. Barr,Remember the Alamo,
+116,1879.0,James Branch Cabell,The Certain Hour (Dizain des Poëtes),
+117,1859.0,Kenneth Grahame,The Wind in the Willows,1908.0
+118,1859.0,Arthur Conan Doyle,"The Stark Munro Letters
+Being series of twelve letters written by J. Stark Munro, M.B., to his friend and former fellow-student, Herbert Swanborough, of Lowell, Massachusetts, during the years 1881-1884",
+119,1859.0,Kenneth Grahame,The Golden Age,
+120,1825.0,Bayard Taylor,"Beauty and the Beast, and Tales of Home",
+121,1832.0,Horatio Alger,Paul Prescott's Charge,
+122,1859.0,Arthur Conan Doyle,"The Captain of the Polestar, and Other Tales",
+123,1862.0,Edith Wharton,The Early Short Fiction of Edith Wharton — Part 1,
+124,1832.0,Horatio Alger,The Cash Boy,
+125,1869.0,Booth Tarkington,The Flirt,
+126,1856.0,Harold Frederic,The Market-Place,
+127,1848.0,Hjalmar Hjorth Boyesen,Tales from Two Hemispheres,
+128,1832.0,Emile Gaboriau,The Count's Millions,
+129,1862.0,Edith Wharton,The Early Short Fiction of Edith Wharton — Part 2,
+130,1864.0,A. B. Paterson,"Three Elephant Power, and Other Stories",
+131,1859.0,Jerome K. Jerome,Three Men in a Boat (To Say Nothing of the Dog),
+132,1876.0,Jack London,Before Adam,1907.0
+133,1862.0,Edith Wharton,Bunner Sisters,
+134,1874.0,Lucy Maud Montgomery,The Golden Road,1913.0
+135,1870.0,Frank Norris,Moran of the Lady Letty,
+136,1862.0,John Fox,A Knight of the Cumberland,
+137,1824.0,George MacDonald,Phantastes: A Faerie Romance for Men and Women,
+138,1864.0,Richard Harding Davis,The Princess Aline,
+139,1850.0,Robert Louis Stevenson,Island Nights' Entertainments,1893.0
+140,1876.0,Mary Roberts Rinehart,Where There's a Will,
+141,1875.0,Edgar Rice Burroughs,The Mucker,1921.0
+142,1853.0,Thomas Nelson Page,The Burial of the Guns,
+143,1864.0,Richard Harding Davis,Episodes in Van Bibber's Life,
+144,1858.0,Charles A. Eastman,Old Indian Days,
+145,1850.0,Robert Louis Stevenson,Fables,
+146,1850.0,Robert Louis Stevenson,"The Merry Men, and Other Tales and Fables",
+147,1847.0,Bram Stoker,Dracula,1897.0
+148,1873.0,Willa Cather,"The Troll Garden, and Selected Stories",
+149,,,The Saga of Grettir the Strong: Grettir's Saga,
+150,1863.0,Gene Stratton-Porter,The Harvester,
+151,1885.0,Edna Ferber,Fanny Herself,
+152,1874.0,W. Somerset Maugham,Of Human Bondage,
+153,1885.0,Edna Ferber,Buttered Side Down: Stories,
+154,1859.0,Arthur Conan Doyle,The Parasite: A Story,
+155,1859.0,Arthur Conan Doyle,Beyond the City,1892.0
+156,1834.0,William Morris,"A Dream of John Ball; and, A King's Lesson",
+157,1864.0,Richard Harding Davis,The Scarlet Car,
+158,1868.0,Eleanor H. Porter,Miss Billy — Married,
+159,1868.0,Eleanor H. Porter,Miss Billy's Decision,
+160,1875.0,Edgar Rice Burroughs,The Oakdale Affair,1918.0
+161,1875.0,Edgar Rice Burroughs,The Mad King,1926.0
+162,1876.0,Mary Roberts Rinehart,Bab: A Sub-Deb,
+163,1849.0,Sarah Orne Jewett,The Country of the Pointed Firs,1896.0
+164,1875.0,Edgar Rice Burroughs,The Outlaw of Torn,1927.0
+165,,Daniel Defoe,The Fortunes and Misfortunes of the Famous Moll Flanders,
+166,,Ambrose Bierce,An Occurrence at Owl Creek Bridge,1890.0
+167,,Daniel Defoe,"A Journal of the Plague Year
+Being Observations or Memorials of the Most Remarkable Occurrences, as Well Public as Private, Which Happened in London During the Last Great Visitation in 1665. Written by a Citizen Who Continued All the While in London",
+168,1850.0,Robert Louis Stevenson,Weir of Hermiston: An Unfinished Romance,1896.0
+169,1872.0,Zane Grey,"The Redheaded Outfield, and Other Baseball Stories",
+170,1871.0,Winston Churchill,The Crossing,1904.0
+171,1863.0,Arthur Machen,The Great God Pan,1894.0
+172,1863.0,H. De Vere Stacpoole,The Blue Lagoon: A Romance,
+173,,Elizabeth Gaskell,Cranford,1851.0
+174,1628.0,John Bunyan,"The Holy War, Made by King Shaddai Upon Diabolus, for the Regaining of the Metropolis of the World",
+175,1832.0,Horatio Alger,Cast Upon the Breakers,
+176,1870.0,Frank Norris,Blix,
+177,1869.0,Booth Tarkington,Penrod,1914.0
+178,1864.0,Richard Harding Davis,Soldiers of Fortune,
+179,1864.0,Richard Harding Davis,The Reporter Who Made Himself King,
+180,1862.0,John Fox,Hell Fer Sartain and Other Stories,
+181,1864.0,Richard Harding Davis,The King's Jackal,
+182,1876.0,Sherwood Anderson,"Winesburg, Ohio: A Group of Tales of Ohio Small Town Life",
+183,1856.0,L. Frank Baum,The Magic of Oz,1919.0
+184,1856.0,L. Frank Baum,Dorothy and the Wizard in Oz,1908.0
+185,1850.0,Robert Louis Stevenson,Kidnapped,1886.0
+186,1803.0,George Borrow,The Romany Rye,
+187,1859.0,Arthur Conan Doyle,Round the Red Lamp: Being Facts and Fancies of Medical Life,
+188,1834.0,Frank Richard Stockton,The Great War Syndicate,
+189,1863.0,Anthony Hope,Frivolous Cupid,
+190,1834.0,Frank Richard Stockton,"The Magic Egg, and Other Stories",
+191,,David Graham Phillips,The Grain of Dust: A Novel,
+192,1867.0,David Graham Phillips,The Fortune Hunter,
+193,1867.0,David Graham Phillips,The Conflict,1911.0
+194,1876.0,Mary Roberts Rinehart,The Circular Staircase,1908.0
+195,1856.0,L. Frank Baum,"The Master Key
+An Electrical Fairy Tale Founded Upon the Mysteries of Electricity",
+196,1868.0,Eleanor H. Porter,Just David,1916.0
+197,1870.0,H. B. Irving,A Book of Remarkable Criminals,
+198,1871.0,Stephen Crane,Maggie: A Girl of the Streets,1893.0
+199,1857.0,Joseph Conrad,The Shadow Line: A Confession,
+200,,George Borrow,"Lavengro: The Scholar, the Gypsy, the Priest",
+201,1885.0,Edna Ferber,Emma McChesney and Co.,
+202,1866.0,H. G. Wells,"The Door in the Wall, and Other Stories",
+203,1867.0,David Graham Phillips,The Price She Paid,
+204,1866.0,Richard Le Gallienne,The Quest of the Golden Girl: A Romance,1896.0
+205,1832.0,Horatio Alger,The Errand Boy,
+206,1871.0,Stephen Crane,The Red Badge of Courage: An Episode of the American Civil War,
+207,1697.0,abbé Prévost,Manon Lescaut,
+208,1771.0,Walter Scott,The Bride of Lammermoor,1819.0
+209,1858.0,Charles W. Chesnutt,The House Behind the Cedars,
+210,1867.0,David Graham Phillips,The Cost,
+211,1870.0,Miriam Michelson,In the Bishop's Carriage,
+212,1840.0,Thomas Hardy,The Woodlanders,1887.0
+213,1869.0,Booth Tarkington,The Conquest of Canaan,
+214,1822.0,Oliver Optic,Poor and Proud,
+215,1856.0,L. Frank Baum,The Road to Oz,1909.0
+216,1856.0,L. Frank Baum,"Ozma of Oz
+A Record of Her Adventures with Dorothy Gale of Kansas, the Yellow Hen, the Scarecrow, the Tin Woodman, Tiktok, the Cowardly Lion, and the Hungry Tiger; Besides Other Good People too Numerous to Mention Faithfully Recorded Herein",
+217,1885.0,Edna Ferber,One Basket,
+218,1857.0,Gertrude Franklin Horn Atherton,Rezanov,
+219,1857.0,Joseph Conrad,Falk: A Reminiscence,
+220,1857.0,Joseph Conrad,To-morrow,1902.0
+221,1857.0,Joseph Conrad,Amy Foster,1901.0
+222,1826.0,Dinah Maria Mulock Craik,The Little Lame Prince,
+223,1856.0,Kate Douglas Wiggin,Rebecca of Sunnybrook Farm,1903.0
+224,,Victor Appleton,Tom Swift in the Land of Wonders,1917.0
+225,,Hugh Lofting,The Story of Doctor Dolittle,1920.0
+226,1872.0,Zane Grey,Desert Gold,1913.0
+227,1854.0,John Philip Sousa,The Fifth String,1902.0
+228,1819.0,George Eliot,Adam Bede,1859.0
+229,1804.0,Nathaniel Hawthorne,Twice-Told Tales,1837.0
+230,1814.0,Joseph Sheridan Le Fanu,The Purcell Papers — Volume 1,
+231,1814.0,Joseph Sheridan Le Fanu,The Purcell Papers — Volume 2,
+232,1814.0,Joseph Sheridan Le Fanu,The Purcell Papers — Volume 3,
+233,1804.0,Nathaniel Hawthorne,Mosses from an old manse,
+234,1804.0,Nathaniel Hawthorne,"The snow-image, and other twice-told tales",
+235,1832.0,Louisa May Alcott,Little Women,1868.0
+236,1831.0,Rebecca Harding Davis,Margret Howth: A Story of To-day,
+237,1856.0,L. Frank Baum,The Emerald City of Oz,1910.0
+238,1856.0,L. Frank Baum,"The Enchanted Island of Yew
+Whereon Prince Marvel Encountered the High Ki of Twi and Other Surprising People",
+239,1856.0,L. Frank Baum,The Life and Adventures of Santa Claus,1912.0
+240,,Daniel Defoe,The Life and Adventures of Robinson Crusoe,
+241,1866.0,H. G. Wells,Ann Veronica: A Modern Love Story,
+242,1857.0,Joseph Conrad,"Youth, a Narrative",
+243,1857.0,Joseph Conrad,The End of the Tether,1902.0
+244,1832.0,Horatio Alger,Joe the Hotel Boy,
+245,1832.0,Horatio Alger,Driven from Home,
+246,1863.0,Gene Stratton-Porter,At the Foot of the Rainbow,
+247,1871.0,B. M. Bower,Jean of the Lazy A,
+248,1862.0,Edith Wharton,The Age of Innocence,1920.0
+249,1885.0,Sinclair Lewis,Main Street,1920.0
+250,1874.0,Lucy Maud Montgomery,Anne's House of Dreams,1917.0
+251,1875.0,Edgar Rice Burroughs,At the Earth's Core,1914.0
+252,1886.0,Rex Stout,Under the Andes,
+253,1832.0,Emile Gaboriau,Baron Trigault's Vengeance,
+254,1819.0,George Eliot,Silas Marner,1861.0
+255,1875.0,Edgar Rice Burroughs,The Land That Time Forgot,1918.0
+256,1875.0,Edgar Rice Burroughs,The People That Time Forgot,1963.0
+257,1875.0,Edgar Rice Burroughs,Out of Time's Abyss,1963.0
+258,1870.0,1870-1916 Saki,The Unbearable Bassington,
+259,1865.0,Rudyard Kipling,Rewards and Fairies,1910.0
+260,1865.0,Rudyard Kipling,Puck of Pook's Hill,1906.0
+261,1875.0,John Buchan,The Thirty-Nine Steps,1915.0
+262,1875.0,John Buchan,Greenmantle,1916.0
+263,1875.0,John Buchan,Mr. Standfast,
+264,,Ross Kay,The Go Ahead Boys and the Racing Motor-Boat,
+265,1812.0,Charles Dickens,The Mystery of Edwin Drood,1870.0
+266,1866.0,Beatrix Potter,The Great Big Treasury of Beatrix Potter,
+267,1812.0,Charles Dickens,The Pickwick Papers,1836.0
+268,1838.0,Edward Jenkins,Ginx's Baby: His Birth and Other Misfortunes; a Satire,
+269,1824.0,Wilkie Collins,The Woman in White,1860.0
+270,1878.0,Don Marquis,Danny's Own Story,
+271,1812.0,Charles Dickens,Master Humphrey's Clock,1840.0
+272,1850.0,Robert Louis Stevenson,Catriona,1893.0
+273,1811.0,William Makepeace Thackeray,Vanity Fair,1848.0
+274,1857.0,Edwin Lester Arnold,Gulliver of Mars,
+275,1875.0,Edgar Rice Burroughs,Pellucidar,1915.0
+276,1875.0,John Buchan,Prester John,1910.0
+277,1815.0,Anthony Trollope,The Warden,1855.0
+278,1832.0,Lewis Carroll,Sylvie and Bruno,1889.0
+279,1850.0,Edward Bellamy,"Looking Backward, 2000 to 1887",
+280,1857.0,Joseph Conrad,An Outcast of the Islands,1896.0
+281,1843.0,Henry James,The Altar of the Dead,1895.0
+282,1843.0,Henry James,The Figure in the Carpet,1896.0
+283,1825.0,R. M. Ballantyne,The Coral Island: A Tale of the Pacific Ocean,
+284,1850.0,Fanny Van de Grift Stevenson,The Dynamiter,
+285,1709.0,Samuel Johnson,"Rasselas, Prince of Abyssinia",
+286,1812.0,Charles Dickens,"The Chimes
+A Goblin Story of Some Bells That Rang an Old Year out and a New Year In",
+287,1832.0,Horatio Alger,Paul the Peddler,
+288,1832.0,Horatio Alger,"Phil, the Fiddler",
+289,1812.0,Charles Dickens,The Battle of Life,1846.0
+290,1812.0,Charles Dickens,The Cricket on the Hearth: A Fairy Tale of Home,
+291,,Maksim Gorky,Creatures That Once Were Men,
+292,1875.0,Alice Moore Dunbar-Nelson,"The Goodness of St. Rocque, and Other Stories",
+293,1829.0,S. Weir Mitchell,"The Autobiography of a Quack, and The Case of George Dedlow",
+294,,Horace Walpole,The Castle of Otranto,1764.0
+295,1812.0,Charles Dickens,The Old Curiosity Shop,1840.0
+296,1819.0,John Ruskin,The King of the Golden River,1842.0
+297,,Martha Young,Somebody's Little Girl,
+298,1869.0,Michael Fairless,The Roadmender,
+299,1866.0,E. W. Hornung,The Amateur Cracksman,
+300,1866.0,E. W. Hornung,Raffles: Further Adventures of the Amateur Cracksman,
+301,1824.0,George MacDonald,The Princess and the Goblin,1872.0
+302,,Jack London,"Love of Life, and Other Stories",
+303,1856.0,H. Rider Haggard,Allan Quatermain,1887.0
+304,,Laura Lee Hope,The Bobbsey Twins in the Country,
+305,1875.0,John Buchan,The Moon Endureth: Tales and Fancies,
+306,1878.0,Don Marquis,The Cruise of the Jasper B.,
+307,1850.0,Lafcadio Hearn,Chita: A Memory of Last Island,
+308,1866.0,H. G. Wells,Tono-Bungay,
+309,1856.0,Kate Douglas Wiggin,The Birds' Christmas Carol,
+310,1837.0,William Dean Howells,A Psychological Counter-Current in Recent Fiction,
+311,1812.0,Charles Dickens,Oliver Twist,1838.0
+312,,Laura Lee Hope,The Bobbsey Twins at School,
+313,1876.0,Jack London,Burning Daylight,1910.0
+314,1885.0,Dornford Yates,The Brother of Daphne,1914.0
+315,1809.0,Oliver Wendell Holmes,The Autocrat of the Breakfast-Table,1857.0
+316,1873.0,Stewart Edward White,Arizona Nights,
+317,,Edmund Day,The Round-Up: A Romance of Arizona; Novelized from Edmund Day's Melodrama,
+318,1830.0,Mary Mapes Dodge,Hans Brinker,
+319,1884.0,Abraham Merritt,The Moon Pool,
+320,1812.0,Charles Dickens,David Copperfield,1850.0
+321,1820.0,Anne Brontë,Agnes Grey,
+322,1818.0,Emily Brontë,Wuthering Heights,1847.0
+323,1858.0,E. Nesbit,"The Story of the Treasure Seekers
+Being the Adventures of the Bastable Children in Search of a Fortune",
+324,1854.0,Oscar Wilde,"Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories",
+325,1866.0,H. G. Wells,When the Sleeper Wakes,
+326,1866.0,H. G. Wells,The War in the Air,1908.0
+327,1848.0,Jos. E. Badger,The Lost City,
+328,1848.0,Hjalmar Hjorth Boyesen,Boyhood in Norway: Stories of Boy-Life in the Land of the Midnight Sun,
+329,1812.0,Charles Dickens,Hard Times,1998.0
+330,1831.0,Amelia E. Barr,The Man Between: An International Romance,
+331,1876.0,Jack London,The Red One,1918.0
+332,1869.0,Michael Fairless,The Gathering of Brother Hilarius,
+333,1771.0,Charles Brockden Brown,Wieland,1798.0
+334,1858.0,E. Nesbit,The Wouldbegoods: Being the Further Adventures of the Treasure Seekers,
+335,1896.0,F. Scott Fitzgerald,This Side of Paradise,1920.0
+336,1812.0,Charles Dickens,Hunted Down: The Detective Stories of Charles Dickens,
+337,1812.0,Charles Dickens,Holiday Romance,1868.0
+338,1812.0,Charles Dickens,George Silverman's Explanation,
+339,1812.0,Charles Dickens,Dombey and Son,1848.0
+340,1667.0,Jonathan Swift,Gulliver's Travels into Several Remote Nations of the World,
+341,1859.0,Arthur Conan Doyle,The Memoirs of Sherlock Holmes,1894.0
+342,1858.0,E. Nesbit,The Phoenix and the Carpet,
+343,1858.0,E. Nesbit,The Story of the Amulet,
+344,1850.0,Robert Louis Stevenson,New Arabian Nights,1882.0
+345,1825.0,R. D. Blackmore,Lorna Doone: A Romance of Exmoor,
+346,1771.0,Charles Brockden Brown,Memoirs of Carwin the Biloquist (A Fragment),
+347,1850.0,Robert Louis Stevenson,The Black Arrow: A Tale of the Two Roses,1889.0
+348,1838.0,Francis Hopkinson Smith,Tom Grogan,1896.0
+349,1882.0,Margaret Mayo,Polly of the Circus,
+350,1882.0,Margaret Mayo,Baby Mine,
+351,1860.0,Owen Wister,Philosophy 4: A Story of Harvard University,
+352,1890.0,Agatha Christie,The Mysterious Affair at Styles,1920.0
+353,1850.0,Robert Louis Stevenson,The Master of Ballantrae: A Winter's Tale,
+354,1859.0,Jerome K. Jerome,Passing of the Third Floor Back,
+355,1859.0,Jerome K. Jerome,The Cost of Kindness,
+356,1859.0,Jerome K. Jerome,Mrs. Korner Sins Her Mercies,
+357,1859.0,Jerome K. Jerome,The Philosopher's Joke,
+358,1859.0,Jerome K. Jerome,The Soul of Nicholas Snyders,
+359,1859.0,Jerome K. Jerome,The Love of Ulrich Nebendahl,
+360,1812.0,Charles Dickens,Reprinted Pieces,
+361,1831.0,Rebecca Harding Davis,Life in the Iron-Mills,
+362,1783.0,Washington Irving,Little Britain,
+363,1823.0,Elizabeth Stoddard,Lemorne Versus Huell,
+364,1812.0,Charles Dickens,"Sketches by Boz, Illustrative of Every-Day Life and Every-Day People",
+365,1812.0,Charles Dickens,Our Mutual Friend,1864.0
+366,1812.0,Wilkie Collins,The Lazy Tour of Two Idle Apprentices,
+367,1843.0,Henry James,The Lesson of the Master,1888.0
+368,1863.0,Gene Stratton-Porter,Her Father's Daughter,
+369,1869.0,Marvin Dana,Within the Law: From the Play of Bayard Veiller,
+370,1876.0,Jack London,White Fang,1906.0
+371,1876.0,Jack London,Tales of the Fish Patrol,1905.0
+372,1812.0,Charles Dickens,Mudfog and Other Sketches,
+373,1812.0,Charles Dickens,Barnaby Rudge: A Tale of the Riots of 'Eighty,
+374,1812.0,Charles Dickens,To Be Read at Dusk,
+375,1832.0,Lewis Carroll,"Alice's Adventures in Wonderland
+HTML Edition",
+376,1809.0,Edgar Allan Poe,The Fall of the House of Usher,1839.0
+377,1856.0,Kate Douglas Wiggin,The Village Watch-Tower,
+378,1871.0,B. M. Bower,Good Indian,
+379,1841.0,W. H. Hudson,Green Mansions: A Romance of the Tropical Forest,
+380,1887.0,E. Haldeman-Julius,Dust,
+381,1775.0,Jane Austen,Lady Susan,1871.0
+382,,Victor Appleton,Tom Swift and His Submarine Boat,1910.0
+383,,Victor Appleton,Tom Swift and His Electric Runabout,1910.0
+384,,Victor Appleton,Tom Swift and His Sky Racer,1911.0
+385,,Victor Appleton,Tom Swift and His Big Tunnel,1916.0
+386,,Victor Appleton,Tom Swift and His War Tank,1918.0
+387,1856.0,L. Frank Baum,The Patchwork Girl of Oz,1913.0
+388,1856.0,L. Frank Baum,Tik-Tok of Oz,1914.0
+389,1856.0,L. Frank Baum,The Scarecrow of Oz,1915.0
+390,1856.0,L. Frank Baum,"Rinkitink in Oz
+Wherein Is Recorded the Perilous Quest of Prince Inga of Pingaree and King Rinkitink in the Magical Isles That Lie Beyond the Borderland of Oz",
+391,1856.0,L. Frank Baum,The Lost Princess of Oz,1917.0
+392,1856.0,L. Frank Baum,"The Tin Woodman of Oz
+A Faithful Story of the Astonishing Adventure Undertaken by the Tin Woodman, Assisted by Woot the Wanderer, the Scarecrow of Oz, and Polychrome, the Rainbow's Daughter",
+393,1856.0,L. Frank Baum,"Glinda of Oz
+In Which Are Related the Exciting Experiences of Princess Ozma of Oz, and Dorothy, in Their Hazardous Journey to the Home of the Flatheads, and to the Magic Isle of the Skeezers, and How They Were Rescued from Dire Peril by the Sorcery of Glinda the Good",
+394,1812.0,Charles Dickens,Little Dorrit,1857.0
+395,1802.0,Alexandre Dumas,The Black Tulip,1850.0
+396,1785.0,Thomas Love Peacock,Maid Marian,1822.0
+397,1812.0,Charles Dickens,Nicholas Nickleby,1839.0
+398,1812.0,Charles Dickens,Martin Chuzzlewit,1844.0
+399,,Anne Brontë,The Tenant of Wildfell Hall,
+400,1853.0,Howard Pyle,"Howard Pyle's Book of Pirates
+Fiction, Fact & Fancy Concerning the Buccaneers & Marooners of the Spanish Main",
+401,1857.0,Joseph Conrad,The Secret Agent: A Simple Tale,
+402,1852.0,Mary Eleanor Wilkins Freeman,The Yates Pride: A Romance,
+403,1869.0,Booth Tarkington,Alice Adams,1921.0
+404,1823.0,Thomas Wentworth Higginson,Malbone: An Oldport Romance,1869.0
+405,1866.0,H. G. Wells,The First Men in the Moon,1901.0
+406,1871.0,B. M. Bower,The Lure of the Dim Trails,
+407,1819.0,Charles Kingsley,The Water-Babies,
+408,1812.0,Charles Dickens,Bleak House,1853.0
+409,1850.0,Lloyd Osbourne,The Wrecker,1892.0
+410,1852.0,George Grossmith,The Diary of a Nobody,1892.0
+411,1872.0,Zane Grey,The Lone Star Ranger: A Romance of the Border,
+412,1816.0,Charlotte Brontë,The Professor,1857.0
+413,1876.0,Jack London,The Night-Born,1911.0
+414,1856.0,Kate Douglas Wiggin,Rose o' the River,
+415,1867.0,Henry Lawson,Joe Wilson and His Mates,1901.0
+416,1835.0,Mark Twain,Extract from Captain Stormfield's Visit to Heaven,1909.0
+417,1866.0,H. G. Wells,The New Machiavelli,1911.0
+418,1852.0,Henry Van Dyke,The Ruling Passion: Tales of Nature and Human Nature,
+419,1857.0,Joseph Conrad,Within the Tides: Tales,
+420,1857.0,Joseph Conrad,'Twixt Land & Sea: Tales,
+421,1876.0,Jack London,Martin Eden,1909.0
+422,1866.0,H. G. Wells,The World Set Free,1914.0
+423,1809.0,Edgar Allan Poe,The Cask of Amontillado,1846.0
+424,1876.0,Jack London,The Sea-Wolf,1904.0
+425,1876.0,Jack London,The Strength of the Strong,1911.0
+426,,Ernest Bramah,The Wallet of Kai Lung,1900.0
+427,,Ernest Bramah,The Mirror of Kong Ho,
+428,1862.0,Joseph A. Altsheler,The Scouts of the Valley,
+429,1713.0,Laurence Sterne,"The Life and Opinions of Tristram Shandy, Gentleman",1759.0
+430,1835.0,Mark Twain,A Horse's Tale,1907.0
+431,1860.0,Ernest Thompson Seton,Rolf in the Woods,1911.0
+432,1876.0,Jack London,"Moon-Face, and Other Stories",
+433,1872.0,Zane Grey,The Light of the Western Stars,
+434,1869.0,Booth Tarkington,The Turmoil: A Novel,
+435,1873.0,Stewart Edward White,The Riverman,
+436,1866.0,H. G. Wells,The Research Magnificent,1915.0
+437,1857.0,Joseph Conrad,Typhoon,1902.0
+438,1843.0,Henry James,In the Cage,1898.0
+439,1863.0,Anthony Hope,"Rupert of Hentzau: From The Memoirs of Fritz Von Tarlenheim
+Sequel to The Prisoner of Zenda",
+440,1707.0,Henry Fielding,A Journey from This World to the Next,
+441,1875.0,Edgar Rice Burroughs,The Chessmen of Mars,1922.0
+442,1886.0,Hugh Lofting,The Voyages of Doctor Dolittle,1922.0
+443,1890.0,Agatha Christie,The Secret Adversary,1922.0
+444,1885.0,Sinclair Lewis,Babbitt,1922.0
+445,1878.0,Eugène Brieux,"Damaged Goods
+The great play ""Les avariés"" by Brieux, novelized with the approval of the author",
+446,1869.0,Booth Tarkington,Penrod and Sam,1916.0
+447,1883.0,Sax Rohmer,Fire-Tongue,
+448,1876.0,Jack London,The Game,1905.0
+449,1876.0,Jack London,Jerry of the Islands,1917.0
+450,1876.0,Jack London,The Jacket (The Star-Rover),
+451,1876.0,Jack London,Adventure,1911.0
+452,1876.0,Jack London,The Iron Heel,1908.0
+453,1846.0,Anna Katharine Green,A Strange Disappearance,1880.0
+454,1861.0,Sara Jeannette Duncan,The Pool in the Desert,
+455,1883.0,Sax Rohmer,Dope,
+456,1883.0,Sax Rohmer,The Return of Dr. Fu-Manchu,
+457,1847.0,Bram Stoker,The Lair of the White Worm,1911.0
+458,1843.0,Henry James,The Jolly Corner,1908.0
+459,1843.0,Henry James,The Coxon Fund,1894.0
+460,1847.0,Louis de Rougemont,The Adventures of Louis de Rougemont,
+461,1843.0,Henry James,Glasses,
+462,1826.0,Rolf Boldrewood,"Robbery under Arms
+A Story of Life and Adventure in the Bush and in the Australian Goldfields",
+463,1863.0,Anthony Hope,Dolly Dialogues,
+464,1871.0,B. M. Bower,Cabin Fever,
+465,1871.0,B. M. Bower,The Flying U Ranch,
+466,1856.0,H. Rider Haggard,Nada the Lily,1892.0
+467,1876.0,Jack London,South Sea Tales,
+468,1850.0,Lafcadio Hearn,Kwaidan: Stories and Studies of Strange Things,1904.0
+469,1775.0,Jane Austen,Love and Freindship [sic],
+470,1835.0,Mark Twain,The Man That Corrupted Hadleyburg,1899.0
+471,1876.0,Mary Roberts Rinehart,The Street of Seven Stars,
+472,1856.0,Kate Douglas Wiggin,"Penelope's Experiences in Scotland
+Being Extracts from the Commonplace Book of Penelope Hamilton",
+473,1877.0,Frank L. Packard,The Adventures of Jimmie Dale,1917.0
+474,1867.0,Henry Lawson,On the Track,1900.0
+475,1882.0,Virginia Woolf,Night and Day,1919.0
+476,1905.0,Ayn Rand,Anthem,1938.0
+477,1821.0,Gustave Flaubert,A Simple Soul,
+478,,Charlotte Brontë,Jane Eyre: An Autobiography,
+479,1872.0,Zane Grey,The Heritage of the Desert: A Novel,
+480,1862.0,Edith Wharton,The Glimpses of the Moon,1922.0
+481,1866.0,H. G. Wells,The Wheels of Chance: A Bicycling Idyll,1913.0
+482,1874.0,Myrtle Reed,Lavender and Old Lace,1902.0
+483,,Ernest Bramah,Kai Lung's Golden Hours,1922.0
+484,1828.0,Jules Verne,The Mysterious Island,1874.0
+485,1866.0,H. G. Wells,The Soul of a Bishop,1917.0
+486,1857.0,Edna Lyall,The Autobiography of a Slander,
+487,1878.0,John Masefield,"Martin Hyde, the Duke's Messenger",
+488,1856.0,Kate Douglas Wiggin,"Penelope's English Experiences
+Being Extracts from the Commonplace Book of Penelope Hamilton",
+489,,Victor Appleton,Tom Swift and His Aerial Warship,1915.0
+490,,Victor Appleton,Tom Swift Among the Diamond Makers,1911.0
+491,,Victor Appleton,Tom Swift and His Wizard Camera,1912.0
+492,,Victor Appleton,Tom Swift and His Air Scout,1919.0
+493,1869.0,Ellis Parker Butler,"The Water Goats, and Other Troubles",
+494,1859.0,Kenneth Grahame,Dream Days,
+495,1812.0,Charles Dickens,Three Ghost Stories,
+496,1821.0,Gustave Flaubert,Salammbo,
+497,1821.0,Gustave Flaubert,Herodias,
+498,1779.0,John Galt,The Provost,
+499,1860.0,Owen Wister,The Virginian: A Horseman of the Plains,
+500,1871.0,B. M. Bower,The Heritage of the Sioux,
+501,1872.0,Zane Grey,Riders of the Purple Sage,1912.0
+502,1853.0,Hall Caine,The Scapegoat,
+503,1779.0,John Galt,"The Annals of the Parish
+Or, the Chronicle of Dalmailing During the Ministry of the Rev. Micah Balwhidder",
+504,1836.0,Bret Harte,Selected Stories of Bret Harte,
+505,1867.0,Henry Lawson,Over the Sliprails,1900.0
+506,1866.0,E. Phillips Oppenheim,The Malefactor,
+507,1876.0,David Lindsay,A Voyage to Arcturus,1920.0
+508,1862.0,Helen Bannerman,"The Story of Little Black Sambo, and The Story of Little Black Mingo",
+509,1860.0,J. M. Barrie,Peter Pan in Kensington Gardens,1906.0
+510,1859.0,Jerome K. Jerome,Paul Kelver,
+511,1775.0,Jane Austen,Pride and Prejudice,1813.0
+512,1860.0,Margaret Hill McCarter,A Master's Degree,
+513,1828.0,Jules Verne,Off on a Comet! a Journey through Planetary Space,
+514,1874.0,Lucy Maud Montgomery,Chronicles of Avonlea,
+515,1857.0,Frank Thomas Bullen,"The Cruise of the ""Cachalot"" Round the World After Sperm Whales",
+516,,Victor Appleton,Tom Swift and His Giant Cannon,1913.0
+517,,Victor Appleton,Tom Swift and His Undersea Search,1920.0
+518,,Victor Appleton,Tom Swift Among the Fire Fighters,1921.0
+519,,Victor Appleton,Tom Swift and His Electric Locomotive,1922.0
+520,1814.0,Charles Reade,The Cloister and the Hearth,
+521,1839.0,1839-1908 Ouida,Findelkind,
+522,1856.0,H. Rider Haggard,"When the World Shook
+Being an Account of the Great Adventure of Bastin, Bickley and Arbuthnot",
+523,1856.0,Kate Douglas Wiggin,New Chronicles of Rebecca,
+524,1860.0,J. M. Barrie,The Little White Bird,1902.0
+525,1771.0,Walter Scott,The Talisman,1825.0
+526,1779.0,John Galt,The Ayrshire Legatees,
+527,1860.0,Owen Wister,Lin McLean,
+528,1860.0,Owen Wister,Lady Baltimore,
+529,1860.0,Owen Wister,Mother,1907.0
+530,1860.0,Owen Wister,Padre Ignacio,
+531,1860.0,Owen Wister,"The Jimmyjohn Boss, and Other Stories",
+532,1856.0,Kate Douglas Wiggin,Penelope's Irish Experiences,1901.0
+533,1812.0,Charles Dickens,The Seven Poor Travellers,
+534,1812.0,Charles Dickens,The Holly-Tree,
+535,1803.0,Edward Bulwer Lytton Lytton,"Rienzi, the Last of the Roman Tribunes",
+536,1812.0,Charles Dickens,Great Expectations,1861.0
+537,1875.0,Edgar Rice Burroughs,Tarzan the Untamed,1920.0
+538,1890.0,Christopher Morley,Where the Blue Begins,1923.0
+539,1812.0,Charles Dickens,The Perils of Certain English Prisoners,
+540,1812.0,Charles Dickens,A Message from the Sea,1860.0
+541,1812.0,Charles Dickens,Tom Tiddler's Ground,
+542,1812.0,Charles Dickens,Mrs. Lirriper's Lodgings,
+543,1812.0,Charles Dickens,Mugby Junction,1866.0
+544,1812.0,Charles Dickens,Mrs. Lirriper's Legacy,
+545,1812.0,Charles Dickens,Going into Society,
+546,1812.0,Wilkie Collins,No Thoroughfare,1867.0
+547,,Maria Edgeworth,Castle Rackrent,1800.0
+548,1888.0,Katherine Mansfield,"The Garden Party, and Other Stories",
+549,1855.0,Olive Schreiner,Trooper Peter Halket of Mashonaland,1897.0
+550,1824.0,Wilkie Collins,No Name,1862.0
+551,1855.0,Olive Schreiner,Dreams,1900.0
+552,1855.0,Olive Schreiner,The Story of an African Farm,1883.0
+553,1866.0,E. Phillips Oppenheim,The Kingdom of the Blind,
+554,1862.0,O. Henry,The Voice of the City: Further Stories of the Four Million,
+555,1866.0,E. Phillips Oppenheim,The Illustrious Prince,
+556,1876.0,Jack London,The Valley of the Moon,1913.0
+557,1868.0,Eleanor H. Porter,Pollyanna,1913.0
+558,1875.0,Rafael Sabatini,Mistress Wilding,
+559,1855.0,Olive Schreiner,Dream Life and Real Life: A Little African Story,
+560,1771.0,Walter Scott,The Black Dwarf,1816.0
+561,1771.0,Walter Scott,A Legend of Montrose,1819.0
+562,1857.0,George Gissing,The Private Papers of Henry Ryecroft,1903.0
+563,1812.0,Charles Dickens,The Wreck of the Golden Mary,1856.0
+564,1812.0,Charles Dickens,Some Christmas Stories,
+565,1767.0,Maria Edgeworth,The Absentee,1812.0
+566,1857.0,Joseph Conrad,Chance: A Tale in Two Parts,
+567,1822.0,Thomas Hughes,Tom Brown's School Days,1857.0
+568,,Chester K. Steele,The Golf Course Mystery,
+569,1856.0,Kate Douglas Wiggin,A Cathedral Courtship,
+570,1853.0,Howard Pyle,Men of Iron,
+571,1864.0,Maurice Leblanc,The Crystal Stopper,
+572,1803.0,Edward Bulwer Lytton Lytton,The Last Days of Pompeii,
+573,1832.0,Horatio Alger,Frank's Campaign,
+574,1862.0,Eden Phillpotts,The Grey Room,
+575,1862.0,O. Henry,Options,
+576,1850.0,Lloyd Osbourne,The Wrong Box,1889.0
+577,1824.0,Wilkie Collins,Man and Wife,
+578,1824.0,Wilkie Collins,The Black Robe,1881.0
+579,1824.0,Wilkie Collins,A Rogue's Life,
+580,1876.0,Mary Roberts Rinehart,The Amazing Interlude,
+581,1862.0,O. Henry,Whirligigs,1910.0
+582,1876.0,Mary Roberts Rinehart,The Breaking Point,
+583,1885.0,Edna Ferber,Dawn O'Hara: The Girl Who Laughed,
+584,1852.0,Henry Van Dyke,The Blue Flower,
+585,1850.0,Lloyd Osbourne,The Ebb-Tide: A Trio And Quartette,
+586,1882.0,James Stephens,The Crock of Gold,1912.0
+587,1771.0,Walter Scott,Kenilworth,1821.0
+588,1864.0,John Jacob Astor,A Journey in Other Worlds: A Romance of the Future,
+589,1869.0,Booth Tarkington,"Seventeen
+A Tale of Youth and Summer Time and the Baxter Family, Especially William",
+590,1846.0,Julian Hawthorne,The Golden Fleece: A Romance,
+591,1852.0,Mary Eleanor Wilkins Freeman,"The Wind in the Rose-Bush, and Other Stories of the Supernatural",
+592,1864.0,Richard Harding Davis,The Lion and the Unicorn,
+593,1824.0,Wilkie Collins,Miss or Mrs.?,
+594,1824.0,Wilkie Collins,The Law and the Lady,1875.0
+595,1824.0,Wilkie Collins,The New Magdalen,
+596,1824.0,Wilkie Collins,The Two Destinies,
+597,1824.0,Wilkie Collins,The Frozen Deep,1866.0
+598,1824.0,Wilkie Collins,After Dark,1856.0
+599,1824.0,Wilkie Collins,The Evil Genius: A Domestic Story,
+600,1824.0,Wilkie Collins,My Lady's Money,
+601,1824.0,Wilkie Collins,"""I Say No""",
+602,1824.0,Wilkie Collins,Little Novels,
+603,1822.0,Edward Everett Hale,"The Brick Moon, and Other Stories",
+604,1864.0,Thomas Dixon,The Foolish Virgin,
+605,1824.0,George MacDonald,Lilith: A Romance,
+606,1862.0,O. Henry,Roads of Destiny,1909.0
+607,1828.0,Jules Verne,"The Survivors of the Chancellor: Diary of J.R. Kazallon, Passenger",
+608,1856.0,Bernard Shaw,An Unsocial Socialist,
+609,1876.0,Jack London,The God of His Fathers: Tales of the Klondyke,
+610,1859.0,Arthur Conan Doyle,The Adventures of Sherlock Holmes,1892.0
+611,1857.0,Edna Lyall,"Derrick Vaughan, Novelist",
+612,1771.0,Walter Scott,My Aunt Margaret's Mirror,
+613,1771.0,Walter Scott,"The Tapestried Chamber, and Death of the Laird's Jock",
+614,1876.0,Mary Roberts Rinehart,When a Man Marries,
+615,,Burbank L. Todd,Hiram the Young Farmer,
+616,1868.0,Gaston Leroux,The Mystery of the Yellow Room,1907.0
+617,1868.0,Gaston Leroux,The Secret of the Night,1914.0
+618,1856.0,H. Rider Haggard,Marie: An Episode in the Life of the Late Allan Quatermain,
+619,1870.0,Mary Johnston,1492,
+620,1876.0,Mary Roberts Rinehart,Dangerous Days,
+621,1874.0,G. K. Chesterton,The Man Who Was Thursday: A Nightmare,
+622,1874.0,G. K. Chesterton,The Club of Queer Trades,1905.0
+623,1866.0,E. Phillips Oppenheim,The Vanished Messenger,
+624,1856.0,Kate Douglas Wiggin,The Story of Waitstill Baxter,
+625,1866.0,E. W. Hornung,Dead Men Tell No Tales,
+626,1857.0,George Gissing,New Grub Street,1891.0
+627,1856.0,H. Rider Haggard,Child of Storm,1913.0
+628,1857.0,Joseph Conrad,The Rescue: A Romance of the Shallows,
+629,1852.0,Mary Eleanor Wilkins Freeman,"The Copy-Cat, and Other Stories",
+630,1874.0,G. K. Chesterton,Manalive,1912.0
+631,1874.0,G. K. Chesterton,The Man Who Knew Too Much,1922.0
+632,1874.0,G. K. Chesterton,The Trees of Pride,1922.0
+633,1871.0,B. M. Bower,Cow-Country,
+634,1856.0,H. Rider Haggard,Finished,1917.0
+635,1862.0,O. Henry,Heart of the West,1907.0
+636,1876.0,Jack London,"Michael, Brother of Jerry",1917.0
+637,,Richard Harding Davis,The Red Cross Girl,
+638,1866.0,H. G. Wells,The Secret Places of the Heart,1922.0
+639,1871.0,B. M. Bower,The Flying U's Last Stand,
+640,1877.0,Frank L. Packard,The White Moll,
+641,1866.0,H. G. Wells,Twelve Stories and a Dream,1903.0
+642,1881.0,Natalie Sumner Lincoln,The Red Seal,
+643,1832.0,Emile Gaboriau,Other People's Money,
+644,1836.0,Thomas Bailey Aldrich,The Cruise of the Dolphin,
+645,1836.0,Thomas Bailey Aldrich,Marjorie Daw,
+646,1864.0,Richard Harding Davis,The Man Who Could Not Lose,
+647,1864.0,Richard Harding Davis,My Buried Treasure,
+648,1864.0,Richard Harding Davis,The Consul,
+649,1864.0,Richard Harding Davis,The Nature Faker,
+650,1864.0,Richard Harding Davis,Billy and the Big Stick,
+651,1871.0,William MacLeod Raine,Wyoming: A Story of the Outdoor West,
+652,,O. Henry,The Gentle Grafter,1908.0
+653,1864.0,Richard Harding Davis,The Frame Up,
+654,1864.0,Richard Harding Davis,The Lost House,
+655,1864.0,Richard Harding Davis,"The Log of the ""Jolly Polly""",
+656,1871.0,William MacLeod Raine,Bucky O'Connor: A Tale of the Unfenced Border,
+657,1884.0,Earl Derr Biggers,The Agony Column,1916.0
+658,1853.0,Ruth Ogden,Tattine,
+659,1864.0,Richard Harding Davis,A Question of Latitude,
+660,1864.0,Richard Harding Davis,The Spy,
+661,1864.0,Richard Harding Davis,The Messengers,
+662,1864.0,Richard Harding Davis,A Wasted Day,
+663,1864.0,Richard Harding Davis,A Charmed Life,
+664,1864.0,Richard Harding Davis,The Amateur,
+665,1864.0,Richard Harding Davis,The Make-Believe Man,
+666,1864.0,Richard Harding Davis,Peace Manoeuvres,
+667,1874.0,Thornton W. Burgess,The Adventures of Reddy Fox,
+668,1771.0,Walter Scott,"Chronicles of the Canongate, 1st Series",
+669,,Mary Murdoch; Miller Mason,Mae Madden,
+670,1835.0,Mark Twain,The Prince and the Pauper,1881.0
+671,1865.0,Emma Wolf,Other Things Being Equal,
+672,1871.0,Theodore Dreiser,The Financier: A Novel,
+673,1864.0,Richard Harding Davis,"Vera, the Medium",1908.0
+674,1872.0,Max Beerbohm,Zuleika Dobson,1911.0
+675,1871.0,William MacLeod Raine,The Vision Splendid,
+676,1856.0,H. Rider Haggard,Montezuma's Daughter,1893.0
+677,1866.0,E. Phillips Oppenheim,The Yellow Crayon,
+678,1846.0,Anna Katharine Green,The Woman in the Alcove,
+679,1862.0,L. Adams Beck,The ninth vibration and other stories,
+680,1846.0,Anna Katharine Green,Initials Only,1911.0
+681,1865.0,Rudyard Kipling,Plain Tales from the Hills,1888.0
+682,1819.0,Charles Kingsley,"Westward Ho! Or, The Voyages and Adventures of Sir Amyas Leigh, Knight, of Burrough, in the County of Devon, in the Reign of Her Most Glorious Majesty Queen Elizabeth",
+683,,Kate Douglas Wiggin,The Diary of a Goose Girl,
+684,1856.0,Kate Douglas Wiggin,Penelope's Postscripts,
+685,1876.0,Mary Roberts Rinehart,The Man in Lower Ten,
+686,1882.0,A. A. Milne,The Red House Mystery,1922.0
+687,1858.0,E. Nesbit,The Railway Children,
+688,1862.0,Elia Wilkinson Peattie,Painted Windows,
+689,1862.0,Elia Wilkinson Peattie,The Shape of Fear,
+690,1862.0,Elia Wilkinson Peattie,A Mountain Woman,
+691,1866.0,E. Phillips Oppenheim,A Millionaire of Yesterday,1900.0
+692,1872.0,Zane Grey,The Call of the Canyon,
+693,1872.0,Zane Grey,The Young Forester,
+694,1872.0,E. R. Punshon,The Bittermeads Mystery,
+695,1835.0,Mark Twain,"Extracts from Adam's Diary, translated from the original ms.",
+696,1824.0,Wilkie Collins,Armadale,1866.0
+697,1892.0,Max Brand,The Seventh Man,
+698,1856.0,Kate Douglas Wiggin,The Old Peabody Pew: A Christmas Romance of a Country Church,
+699,1755.0,Dorothy Kilner,The Life and Perambulations of a Mouse,
+700,1710.0,Sarah Fielding,The Governess,
+701,1835.0,Samuel Butler,Erewhon,1872.0
+702,1871.0,B. M. Bower,Rowdy of the Cross L,
+703,1871.0,B. M. Bower,Her Prairie Knight,
+704,1871.0,Harold MacGrath,The Drums of Jeopardy,
+705,1804.0,Nathaniel Hawthorne,"The Great Stone Face, and Other Tales of the White Mountains",
+706,1824.0,Wilkie Collins,The Queen of Hearts,
+707,1856.0,H. Rider Haggard,Long Odds,
+708,1866.0,E. Phillips Oppenheim,The Zeppelin's Passenger,
+709,1811.0,William Makepeace Thackeray,The History of Samuel Titmarsh and the Great Hoggarty Diamond,
+710,1811.0,William Makepeace Thackeray,The Tremendous Adventures of Major Gahagan,
+711,1865.0,Rudyard Kipling,The Second Jungle Book,1895.0
+712,1836.0,Thomas Bailey Aldrich,The Story of a Bad Boy,1870.0
+713,1803.0,Edward Bulwer Lytton Lytton,The Coming Race,
+714,1860.0,Charlotte Perkins Gilman,The Yellow Wallpaper,
+715,1876.0,Mary Roberts Rinehart,Sight Unseen,
+716,1876.0,Mary Roberts Rinehart,The Confession,
+717,1875.0,Rafael Sabatini,Captain Blood,1922.0
+718,1875.0,John Buchan,The Path of the King,1921.0
+719,1811.0,William Makepeace Thackeray,Catherine: A Story,
+720,1876.0,Mary Roberts Rinehart,A Poor Wise Man,
+721,1824.0,Wilkie Collins,The Legacy of Cain,1889.0
+722,1866.0,E. Phillips Oppenheim,Peter Ruff and the Double Four,
+723,,Percy Addleshaw,Stories by English Authors: Africa (Selected by Scribners),
+724,1811.0,William Makepeace Thackeray,Men's Wives,1852.0
+725,1628.0,John Bunyan,Life and Death of Mr. Badman,
+726,1859.0,Andy Adams,The Outlet,
+727,1811.0,William Makepeace Thackeray,The Bedford-Row Conspiracy,
+728,1894.0,Aldous Huxley,Crome Yellow,1921.0
+729,1881.0,P. G. Wodehouse,Piccadilly Jim,1917.0
+730,1824.0,Wilkie Collins,A Fair Penitent,
+731,1857.0,Edna Lyall,We Two: A Novel,
+732,1834.0,Frank Richard Stockton,Rudder Grange,
+733,1868.0,Marie Belloc Lowndes,The Lodger,
+734,1875.0,Edgar Rice Burroughs,Tarzan the Terrible,1921.0
+735,1857.0,Joseph Conrad,Nostromo: A Tale of the Seaboard,
+736,1878.0,Jeffery Farnol,My Lady Caprice,
+737,1883.0,Sax Rohmer,The Yellow Claw,1915.0
+738,1870.0,J. Breckenridge Ellis,Lahoma,
+739,1881.0,Eleanor Farjeon,Martin Pippin in the Apple Orchard,1921.0
+740,1771.0,Walter Scott,Waverley,1814.0
+741,,Mary [Contributor]; Douglas Beaumont,Stories by English Authors: The Orient (Selected by Scribners),
+742,1859.0,Jerome K. Jerome,Novel Notes,
+743,,Egerton Castle,The Lock and Key Library: Classic Mystery and Detective Stories: Modern English,
+744,1785.0,Thomas De Quincey,Confessions of an English Opium-Eater,1822.0
+745,1783.0,Washington Irving,The Sketch-Book of Geoffrey Crayon,
+746,,Daniel Defoe,"Dickory Cronke: The Dumb Philosopher, or, Great Britain's Wonder",
+747,1872.0,Zane Grey,The Last of the Plainsmen,
+748,1889.0,Donn Byrne,Messer Marco Polo,
+749,1862.0,John Fox,The Little Shepherd of Kingdom Come,1903.0
+750,,William Beckford,The History of Caliph Vathek,
+751,1871.0,B. M. Bower,The Trail of the White Mule,
+752,1873.0,Howard Roger Garis,Dick Hamilton's Airship,
+753,1872.0,Zane Grey,Wildfire,
+754,1870.0,Joseph Crosby Lincoln,Keziah Coffin,
+755,1872.0,Zane Grey,To the Last Man,1921.0
+756,1867.0,E. F. Benson,Michael,
+757,1785.0,Thomas Love Peacock,Crotchet Castle,1831.0
+758,1804.0,Nathaniel Hawthorne,The Blithedale Romance,1852.0
+759,1828.0,Jules Verne,In Search of the Castaways,1864.0
+760,1835.0,Samuel Butler,The Way of All Flesh,1903.0
+761,1868.0,E. V. Lucas,The Slowcoach,
+762,,William Wells Brown,Clotelle: A Tale of the Southern States,
+763,1859.0,Arthur Conan Doyle,The Sign of the Four,1890.0
+764,1866.0,E. W. Hornung,A Thief in the Night: A Book of Raffles' Adventures,
+765,1883.0,Sax Rohmer,The Quest of the Sacred Slipper,
+766,1737.0,Bernardin de Saint-Pierre,Paul and Virginia,
+767,,Maria Edgeworth,"Murad the Unlucky, and Other Tales",
+768,,F. Anstey,Stories by English Authors: London (Selected by Scribners),
+769,1862.0,O. Henry,Strictly Business: More Stories of the Four Million,
+770,1827.0,Lew Wallace,Ben-Hur: A tale of the Christ,
+771,,Edgar Allan Poe,The Works of Edgar Allan Poe — Volume 1,
+772,1809.0,Edgar Allan Poe,The Works of Edgar Allan Poe — Volume 2,
+773,1809.0,Edgar Allan Poe,The Works of Edgar Allan Poe — Volume 3,
+774,1809.0,Edgar Allan Poe,The Works of Edgar Allan Poe — Volume 4,
+775,1809.0,Edgar Allan Poe,The Works of Edgar Allan Poe — Volume 5,
+776,1876.0,Jack London,Island Tales / On the Makaloa Mat,
+777,1810.0,Elizabeth Gaskell,Mary Barton,1848.0
+778,1855.0,Frank Frankfort Moore,Phyllis of Philistia,1895.0
+779,1815.0,Anthony Trollope,The Prime Minister,1875.0
+780,1721.0,T. Smollett,The Expedition of Humphry Clinker,
+781,1865.0,Rudyard Kipling,The Bridge-Builders,
+782,1813.0,Susan Fenimore Cooper,The Lumley Autograph,
+783,1819.0,George Eliot,The Lifted Veil,1859.0
+784,1856.0,H. Rider Haggard,King Solomon's Mines,1885.0
+785,1819.0,George Eliot,Brother Jacob,
+786,,A. Maynard Barbour,That Mainwaring Affair,
+787,1836.0,Bret Harte,Thankful Blossom,
+788,1836.0,Bret Harte,By Shore and Sedge,
+789,1836.0,Bret Harte,Drift from Two Shores,
+790,1836.0,Bret Harte,In a Hollow of the Hills,
+791,1804.0,Nathaniel Hawthorne,The Marble Faun,
+792,1804.0,Nathaniel Hawthorne,The Marble Faun,
+793,1836.0,Bret Harte,Maruja,
+794,1865.0,Rudyard Kipling,"""Captains Courageous"": A Story of the Grand Banks",
+795,1879.0,G. Harvey Ralphson,Boy Scouts in Mexico,
+796,1867.0,John Galsworthy,The Dark Flower,
+797,1836.0,Bret Harte,A Ward of the Golden Gate,
+798,,Rudyard Kipling,"""Captains Courageous"": A Story of the Grand Banks",
+799,1865.0,Rudyard Kipling,Kim,1901.0
+800,1865.0,Rudyard Kipling,Soldiers Three - Part 2,
+801,1859.0,Jerome K. Jerome,All Roads Lead to Calvary,1919.0
+802,1859.0,Jerome K. Jerome,"Sketches in Lavender, Blue and Green",
+803,1838.0,Edward Payson Roe,He Fell in Love with His Wife,
+804,,Victor Appleton,Tom Swift and His Motor-Boat,
+805,1789.0,James Fenimore Cooper,The Pioneers,1823.0
+806,1770.0,James Hogg,The Private Memoirs and Confessions of a Justified Sinner,1824.0
+807,1836.0,Bret Harte,Condensed Novels,
+808,1836.0,Bret Harte,A Waif of the Plains,1890.0
+809,1836.0,Bret Harte,A Millionaire of Rough-and-Ready,
+810,1836.0,Bret Harte,The Heritage of Dedlow Marsh and Other Tales,
+811,1864.0,Richard Harding Davis,The Lost Road,1913.0
+812,1860.0,Ernest Thompson Seton,Animal Heroes,
+813,1871.0,William MacLeod Raine,"Ridgway of Montana: A story of to-day, in which the hero is also the villain",
+814,1836.0,Bret Harte,Devil's Ford,
+815,1866.0,E. Phillips Oppenheim,Havoc,
+816,1824.0,George MacDonald,David Elginbrod,1863.0
+817,1862.0,O. Henry,"Waifs and Strays
+Part 1",
+818,1836.0,Bret Harte,Snow-Bound at Eagle's,
+819,1843.0,Henry James,Pandora,
+820,1814.0,Charles Reade,A Simpleton,
+821,1857.0,Joseph Conrad,A Set of Six,1908.0
+822,1870.0,Joseph Crosby Lincoln,The Depot Master,
+823,1867.0,John Galsworthy,The Freelands,
+824,1836.0,Bret Harte,In the Carquinez Woods,
+825,1856.0,Kate Douglas Wiggin,The Flag-Raising,
+826,1825.0,Wilkie Collins,A House to Let,
+827,1872.0,David Cory,The Iceberg Express,
+828,1869.0,Booth Tarkington,His Own People,
+829,1843.0,Henry James,Some Short Stories [by Henry James],
+830,1789.0,James Fenimore Cooper,The Lake Gun,
+831,1789.0,James Fenimore Cooper,Autobiography of a Pocket-Handkerchief,
+832,1865.0,Rudyard Kipling,The Works of Rudyard Kipling: One Volume Edition,
+833,1859.0,Arthur Conan Doyle,The Adventure of Wisteria Lodge,1908.0
+834,1859.0,Arthur Conan Doyle,The Adventure of the Cardboard Box,1893.0
+835,1859.0,Arthur Conan Doyle,The Adventure of the Red Circle,1911.0
+836,1859.0,Arthur Conan Doyle,The Adventure of the Bruce-Partington Plans,1908.0
+837,1859.0,Arthur Conan Doyle,The Adventure of the Dying Detective,1913.0
+838,1859.0,Arthur Conan Doyle,The Adventure of the Devil's Foot,
+839,1859.0,Arthur Conan Doyle,His Last Bow: An Epilogue of Sherlock Holmes,
+840,1826.0,Dinah Maria Mulock Craik,"John Halifax, Gentleman",
+841,1876.0,Mary Roberts Rinehart,The After House,1914.0
+842,1870.0,Erskine Childers,The Riddle of the Sands,1903.0
+843,1670.0,William Congreve,Incognita,
+844,1843.0,Henry James,The Beldonald Holbein,
+845,1859.0,Jerome K. Jerome,"The Angel and the Author, and Others",
+846,1824.0,George MacDonald,Sir Gibbie,1879.0
+847,1870.0,Joseph Crosby Lincoln,The Woman-Haters,
+848,1836.0,Charlotte M. Brame,Dora Thorne,
+849,1876.0,Jack London,The Son of the Wolf,1900.0
+850,1857.0,Margaret Wade Campbell Deland,The Voice,
+851,1872.0,Albert Payson Terhune,Bruce,
+852,1872.0,Albert Payson Terhune,Further Adventures of Lad,1922.0
+853,1872.0,Albert Payson Terhune,His Dog,
+854,1839.0,Walter Pater,Imaginary Portraits,
+855,1876.0,Jack London,The Mutiny of the Elsinore,1914.0
+856,1876.0,Jack London,"The House of Pride, and Other Tales of Hawaii",
+857,1883.0,Valentine Williams,Okewood of the Secret Service,
+858,1878.0,Jeffery Farnol,Black Bartlemy's Treasure,
+859,1843.0,Henry James,The Diary of a Man of Fifty,
+860,1843.0,Henry James,The Patagonia,
+861,1876.0,Jack London,Lost Face,1908.0
+862,1824.0,George MacDonald,Donal Grant,
+863,1864.0,Margaret Pollock Sherwood,Daphne: An Autumn Pastoral,
+864,1826.0,Edmund G. Ross,"History of the Impeachment of Andrew Johnson, President of the United States, by the House of Representatives, and his trial by the Senate for high crimes and misdemeanors in office, 1868",
+865,1870.0,Joseph Crosby Lincoln,Shavings: A Novel,
+866,1867.0,John Galsworthy,Beyond,
+867,1880.0,Arthur B. Reeve,The Silent Bullet,
+868,1836.0,Bret Harte,"Trent's Trust, and Other Stories",
+869,1843.0,Henry James,The Madonna of the Future,
+870,1803.0,Edward Bulwer Lytton Lytton,The Lady of Lyons,
+871,1864.0,Robert Hichens,The Prophet of Berkeley Square,
+872,1836.0,Bret Harte,The Crusade of the Excelsior,
+873,1870.0,Joseph Crosby Lincoln,Mary-'Gusta,
+874,,Edgar B. P. Darlington,The Circus Boys on the Flying Rings,
+875,1811.0,Harriet Beecher Stowe,Queer Little Folks,
+876,1819.0,Herman Melville,Moby Dick,1931.0
+877,1874.0,Maurice Baring,"Orpheus in Mayfair, and Other Stories and Sketches",
+878,1836.0,Bret Harte,"Susy, a Story of the Plains",
+879,1787.0,Mary Russell Mitford,Our Village,
+880,1814.0,Charles Reade,Put Yourself in His Place,
+881,1877.0,Hermann Hesse,Siddhartha,1922.0
+882,1823.0,Charlotte Mary Yonge,The Heir of Redclyffe,1853.0
+883,1836.0,Bret Harte,Stories in Light and Shadow,1898.0
+884,1916.0,Jesse F. Bone,The Lani People,
+885,1811.0,William Makepeace Thackeray,"The History of Henry Esmond, Esq., a Colonel in the Service of Her Majesty Queen Anne",
+886,1771.0,Walter Scott,Redgauntlet: A Tale of the Eighteenth Century,
+887,1861.0,Rabindranath Tagore,"The Hungry Stones, and Other Stories",
+888,1847.0,Bram Stoker,The Man,1905.0
+889,1810.0,Elizabeth Gaskell,Lizzie Leigh,1850.0
+890,1810.0,Elizabeth Gaskell,A Dark Night's Work,1863.0
+891,1810.0,Elizabeth Gaskell,My Lady Ludlow,
+892,1859.0,Jerome K. Jerome,"John Ingerfield, and Other Stories",
+893,1810.0,Elizabeth Gaskell,The Half-Brothers,
+894,1810.0,Elizabeth Gaskell,Round the Sofa,1859.0
+895,1843.0,Henry James,Eugene Pickering,
+896,1836.0,Bret Harte,Openings in the Old Trail,
+897,1836.0,Bret Harte,From Sand Hill to Pine,
+898,1876.0,Jack London,"When God Laughs, and Other Stories",
+899,1883.0,Clarence Edward Mulford,Hopalong Cassidy's Rustler Round-Up,
+900,1810.0,Elizabeth Gaskell,Half a Life-Time Ago,
+901,1810.0,Elizabeth Gaskell,The Poor Clare,1856.0
+902,1810.0,Elizabeth Gaskell,The Doom of the Griffiths,
+903,1836.0,Bret Harte,Tales of Trail and Town,1898.0
+904,1870.0,Joseph Crosby Lincoln,Thankful's Inheritance,
+905,1836.0,Bret Harte,Under the Redwoods,
+906,1836.0,Bret Harte,Mr. Jack Hamlin's Mediation,
+907,1874.0,Thornton W. Burgess,Old Mother West Wind,
+908,1867.0,John Galsworthy,"The Forsyte Saga, Volume I.
+The Man Of Property",
+909,1836.0,Bret Harte,The Three Partners,
+910,1824.0,George MacDonald,Robert Falconer,
+911,1834.0,William Morris,"The Story of the Glittering Plain
+Which Has Been Also Called the Land of Living Men or the Acre of the Undying",
+912,1875.0,E. C. Bentley,Trent's Last Case,
+913,1865.0,Rudyard Kipling,The Day's Work,1898.0
+914,1823.0,Charlotte Mary Yonge,The Caged Lion,1869.0
+915,1836.0,Bret Harte,On the Frontier,
+916,1867.0,John Galsworthy,"The Forsyte Saga, Volume II.
+Indian Summer of a Forsyte
+In Chancery",
+917,1869.0,Booth Tarkington,Ramsey Milholland,
+918,1867.0,John Galsworthy,"The Forsyte Saga, Volume III.
+Awakening
+To Let",
+919,1836.0,Bret Harte,Mrs. Skagg's Husbands and Other Stories,
+920,1836.0,Bret Harte,Urban Sketches,
+921,1836.0,Bret Harte,Legends and Tales,
+922,1823.0,Charlotte Mary Yonge,Heartsease,
+923,1856.0,H. Rider Haggard,Queen Sheba's Ring,1910.0
+924,1879.0,E. M. Forster,The Longest Journey,1907.0
+925,1823.0,Charlotte Mary Yonge,The Pigeon Pie,
+926,1862.0,John Kendrick Bangs,A House-Boat on the Styx,1895.0
+927,1836.0,Bret Harte,Clarence,
+928,1875.0,Rafael Sabatini,The Historical Nights' Entertainment: First Series,
+929,1867.0,John Galsworthy,"Villa Rubein, and Other Stories",
+930,1879.0,E. M. Forster,A Room with a View,1908.0
+931,1860.0,Eugene Wood,Back Home,
+932,1836.0,Bret Harte,The Story of a Mine,
+933,1840.0,Thomas Hardy,Under the Greenwood Tree,1872.0
+934,1803.0,Edward Bulwer Lytton Lytton,Zanoni,
+935,1809.0,Oliver Wendell Holmes,The Professor at the Breakfast-Table,
+936,1809.0,Oliver Wendell Holmes,The Poet at the Breakfast-Table,
+937,,Oliver Goldsmith,The Vicar of Wakefield,1766.0
+938,1811.0,William Makepeace Thackeray,Burlesques,
+939,1836.0,Bret Harte,"The Bell-Ringer of Angel's, and Other Stories",
+940,1867.0,John Galsworthy,Saint's Progress,1919.0
+941,1867.0,John Galsworthy,Five Tales,
+942,1857.0,Margaret Wade Campbell Deland,The Way to Peace,
+943,1875.0,Rafael Sabatini,The Snare,
+944,1875.0,Edgar Wallace,The Clue of the Twisted Candle,
+945,,Annie Roe Carr,Nan Sherwood at Pine Camp,
+946,1836.0,Bret Harte,"A Protegee of Jack Hamlin's, and Other Stories",
+947,1863.0,Eleanor Atkinson,Greyfriars Bobby,
+948,1819.0,Herman Melville,I and My Chimney,
+949,1836.0,Bret Harte,Jeff Briggs's Love Story,
+950,1809.0,Oliver Wendell Holmes,Elsie Venner,
+951,1809.0,Oliver Wendell Holmes,The Guardian Angel,
+952,1809.0,Oliver Wendell Holmes,A Mortal Antipathy,
+953,1819.0,Herman Melville,Moby Dick,1931.0
+954,1875.0,Rafael Sabatini,The Lion's Skin,
+955,1836.0,Bret Harte,The Argonauts of North Liberty,1888.0
+956,1836.0,Bret Harte,Sally Dows,
+957,1836.0,Bret Harte,A Phyllis of the Sierras,
+958,1836.0,Bret Harte,A Drift from Redwood Camp,
+959,1856.0,H. Rider Haggard,Maiwa's Revenge,1888.0
+960,1876.0,Mary Roberts Rinehart,Long Live the King!,
+961,1843.0,Henry James,The Real Thing and Other Tales,1893.0
+962,1843.0,Henry James,Sir Dominick Ferrand,
+963,1843.0,Henry James,Nona Vincent,
+964,1843.0,Henry James,The Chaperon,
+965,1843.0,Henry James,The Pension Beaurepas,
+966,1856.0,H. Rider Haggard,Eric Brighteyes,1890.0
+967,1856.0,H. Rider Haggard,Morning Star,1910.0
+968,1836.0,Bret Harte,A First Family of Tasajara,1891.0
+969,1866.0,Grace S. Richmond,Red Pepper Burns,
+970,1832.0,Louisa May Alcott,Eight Cousins,
+971,1856.0,H. Rider Haggard,Allan's Wife,
+972,1856.0,H. Rider Haggard,Hunter Quatermain's Story,
+973,1856.0,H. Rider Haggard,A Tale of Three Lions,
+974,1856.0,H. Rider Haggard,Long Odds,
+975,1832.0,Emile Gaboriau,The Champdoce Mystery,
+976,1802.0,Alexandre Dumas,"Derues
+Celebrated Crimes",
+977,1802.0,Alexandre Dumas,Celebrated Crimes (Complete),
+978,1856.0,H. Rider Haggard,"Benita, an African romance",
+979,1856.0,H. Rider Haggard,The Brethren,1904.0
+980,1844.0,H. Rider Haggard,The World's Desire,1890.0
+981,1856.0,H. Rider Haggard,The Mahatma and the Hare: A Dream Story,
+982,1846.0,John McElroy,The Red Acorn,
+983,1856.0,H. Rider Haggard,Cleopatra,1889.0
+984,1844.0,Margaret Sidney,Five Little Peppers and How They Grew,
+985,1867.0,John Galsworthy,The Island Pharisees,1904.0
+986,1867.0,John Galsworthy,The Country House,
+987,1867.0,John Galsworthy,Fraternity,
+988,1867.0,John Galsworthy,The Patrician,
+989,1862.0,O. Henry,The Four Million,1906.0
+990,1862.0,O. Henry,Cabbages and Kings,1904.0
+991,1854.0,Clara Louise Burnham,Jewel: A Chapter in Her Life,
+992,1865.0,Rudyard Kipling,Just So Stories,1902.0
+993,1832.0,Louisa May Alcott,Jack and Jill,
+994,1832.0,Louisa May Alcott,An Old-Fashioned Girl,1869.0
+995,1832.0,Louisa May Alcott,Little Men: Life at Plumfield With Jo's Boys,
+996,,Joseph Addison,Essays and Tales,
+997,1836.0,Bret Harte,Flip: A California Romance,
+998,1836.0,Bret Harte,Found at Blazing Star,
+999,1874.0,Alfred Ollivant,"Bob, Son of Battle",
+1000,1811.0,William Makepeace Thackeray,The Memoirs of Mr. Charles J. Yellowplush,
+1001,1836.0,Bret Harte,The Queen of the Pirate Isle,1886.0
+1002,1859.0,Irving Bacheller,Eben Holden: A Tale of the North Country,
+1003,1830.0,Helen Hunt Jackson,Ramona,1884.0
+1004,1832.0,Louisa May Alcott,"Rose in Bloom
+A Sequel to ""Eight Cousins""",
+1005,1870.0,Mary Johnston,To Have and to Hold,1899.0
+1006,1860.0,Hamlin Garland,Main-Travelled Roads,1891.0
+1007,1867.0,Arnold Bennett,The Grand Babylon Hôtel,
+1008,1882.0,James Joyce,Dubliners,1914.0
+1009,1838.0,Henry Adams,"Democracy, an American novel",
+1010,,Marshall Saunders,Beautiful Joe: An Autobiography,
+1011,1865.0,Rudyard Kipling,The Story of the Gadsbys,
+1012,,Friedrich Heinrich Karl La Motte-Fouqué,Sintram and His Companions,
+1013,1865.0,Rudyard Kipling,Under the Deodars,1888.0
+1014,1870.0,1870-1916 Saki,Reginald,
+1015,1843.0,Henry James,The Portrait of a Lady — Volume 1,
+1016,1843.0,Henry James,The Portrait of a Lady — Volume 2,
+1017,1856.0,H. Rider Haggard,The Ivory Child,1916.0
+1018,1856.0,H. Rider Haggard,Black Heart and White Heart: A Zulu Idyll,
+1019,1811.0,William Makepeace Thackeray,The Fatal Boots,
+1020,1859.0,Arthur Conan Doyle,Sir Nigel,1906.0
+1021,1862.0,O. Henry,Sixes and Sevens,
+1022,1859.0,Arthur Conan Doyle,The Hound of the Baskervilles,1902.0
+1023,1856.0,H. Rider Haggard,Elissa,1900.0
+1024,1856.0,H. Rider Haggard,Moon of Israel: A Tale of the Exodus,
+1025,1856.0,H. Rider Haggard,A Yellow God: An Idol of Africa,
+1026,1836.0,Bret Harte,Cressy,1898.0
+1027,1811.0,William Makepeace Thackeray,A Little Dinner at Timmins's,
+1028,1815.0,Anthony Trollope,Framley Parsonage,1861.0
+1029,1869.0,Melville Davisson Post,The Sleuth of St. James's Square,
+1030,1836.0,Bret Harte,"The Twins of Table Mountain, and Other Stories",
+1031,1805.0,William Harrison Ainsworth,Windsor Castle,1843.0
+1032,1836.0,Bret Harte,A Sappho of Green Springs,
+1033,1859.0,Fergus Hume,The Green Mummy,1908.0
+1034,1843.0,Henry James,The Point of View,
+1035,1843.0,Henry James,Washington Square,1880.0
+1036,1865.0,Rudyard Kipling,The Light That Failed,1891.0
+1037,1834.0,William Morris,"The House of the Wolfings
+A Tale of the House of the Wolfings and All the Kindreds of the Mark Written in Prose and in Verse",
+1038,1836.0,Bret Harte,Tales of the Argonauts,
+1039,1879.0,E. M. Forster,Howards End,1910.0
+1040,1856.0,H. Rider Haggard,The Wizard,1896.0
+1041,1879.0,E. M. Forster,Howards End,1910.0
+1042,1879.0,E. M. Forster,Where Angels Fear to Tread,1905.0
+1043,1850.0,Octave Thanet,Stories of a Western Town,
+1044,1840.0,May Agnes Fleming,The Midnight Queen,1865.0
+1045,1882.0,W. B. M. Ferguson,Garrison's Finish: A Romance of the Race Course,
+1046,1864.0,Robert Hichens,A Spirit in Prison,
+1047,1840.0,Thomas Hardy,The Romantic Adventures of a Milkmaid,1883.0
+1048,,Victor Appleton,Tom Swift and His Airship,1910.0
+1049,1865.0,Rudyard Kipling,Stalky & Co.,1899.0
+1050,1860.0,Charlotte Perkins Gilman,What Diantha Did,
+1051,1873.0,Dorothy M. Richardson,"Pointed Roofs: Pilgrimage, Volume 1",
+1052,1862.0,John Fox,A Cumberland Vendetta,
+1053,1862.0,John Fox,The Last Stetson,
+1054,1820.0,Lucretia P. Hale,The Peterkin papers,
+1055,1875.0,Rafael Sabatini,The Tavern Knight,1904.0
+1056,1840.0,Thomas Hardy,Desperate Remedies,1871.0
+1057,1858.0,Will N. Harben,The Land of the Changing Sun,
+1058,1840.0,Thomas Hardy,"Life's Little Ironies
+A set of tales with some colloquial sketches entitled A Few Crusted Characters",
+1059,1823.0,Charlotte Mary Yonge,The Little Duke: Richard the Fearless,
+1060,1840.0,Thomas Hardy,A Group of Noble Dames,1891.0
+1061,1837.0,William Dean Howells,An Open-Eyed Conspiracy; An Idyl of Saratoga,
+1062,1840.0,Thomas Hardy,Wessex Tales,1888.0
+1063,1840.0,Thomas Hardy,"A Changed Man, and Other Tales",
+1064,1814.0,Charles Reade,Hard Cash,
+1065,1859.0,Arthur Conan Doyle,The Hound of the Baskervilles,1902.0
+1066,1873.0,Walter De la Mare,The Return,
+1067,1828.0,Jules Verne,Eight Hundred Leagues on the Amazon,1881.0
+1068,1856.0,H. Rider Haggard,Red Eve,1911.0
+1069,1856.0,H. Rider Haggard,Beatrice,1890.0
+1070,1856.0,H. Rider Haggard,The Wanderer's Necklace,1914.0
+1071,1829.0,Charles Dudley Warner,Their Pilgrimage,
+1072,1829.0,Charles Dudley Warner,A Little Journey in the World,
+1073,1829.0,Charles Dudley Warner,The Golden House,
+1074,1829.0,Charles Dudley Warner,That Fortune,
+1075,1870.0,Joseph Crosby Lincoln,The Rise of Roscoe Paine,
+1076,1823.0,Charlotte Mary Yonge,The Dove in the Eagle's Nest,
+1077,1843.0,Henry James,The Author of Beltraffio,1884.0
+1078,1856.0,Kate Douglas Wiggin,A Summer in a Canyon: A California Story,
+1079,1856.0,Kate Douglas Wiggin,Marm Lisa,1896.0
+1080,1856.0,H. Rider Haggard,The Virgin of the Sun,1922.0
+1081,1737.0,Rudolf Erich Raspe,The Surprising Adventures of Baron Munchausen,
+1082,1856.0,H. Rider Haggard,She,
+1083,,Margaret Pedler,The Hermit of Far End,
+1084,1862.0,John Kendrick Bangs,The Enchanted Typewriter,
+1085,1815.0,Anthony Trollope,Doctor Thorne,1858.0
+1086,1862.0,John Kendrick Bangs,The Pursuit of the House-Boat,
+1087,1835.0,Mark Twain,A Dog's Tale,
+1088,1829.0,Mark Twain,The Gilded Age: A Tale of Today,1873.0
+1089,1835.0,Mark Twain,The American Claimant,1892.0
+1090,1835.0,Mark Twain,A Double Barrelled Detective Story,
+1091,1835.0,Mark Twain,Some Rambling Notes of an Idle Excursion,
+1092,1835.0,Mark Twain,The Facts Concerning the Recent Carnival of Crime in Connecticut,
+1093,1835.0,Mark Twain,"Alonzo Fitz, and Other Stories",
+1094,1835.0,Mark Twain,Those Extraordinary Twins,
+1095,1835.0,Mark Twain,"The Mysterious Stranger, and Other Stories",
+1096,1835.0,Mark Twain,Sketches New and Old,1875.0
+1097,1835.0,Mark Twain,1601: Conversation as it was by the Social Fireside in the Time of the Tudors,
+1098,1835.0,Mark Twain,Goldsmith's Friend Abroad Again,
+1099,1863.0,Katharine Pyle,The Counterpane Fairy,
+1100,1871.0,Harold MacGrath,The Puppet Crown,
+1101,1870.0,Joseph Crosby Lincoln,Cap'n Eri,
+1102,1860.0,Ralph Connor,Corporal Cameron of the North West Mounted Police: A Tale of the Macleod Trail,
+1103,1860.0,Ralph Connor,The Doctor : A Tale of the Rockies,
+1104,1860.0,Ralph Connor,Glengarry School Days: A Story of Early Days in Glengarry,
+1105,1860.0,Ralph Connor,To Him That Hath: A Tale of the West of Today,
+1106,1860.0,Ralph Connor,Black Rock: A Tale of the Selkirks,
+1107,1860.0,Ralph Connor,The Patrol of the Sun Dance Trail,
+1108,1860.0,Ralph Connor,The Sky Pilot: A Tale of the Foothills,
+1109,1860.0,Ralph Connor,The Major,
+1110,1835.0,Mark Twain,"The Man That Corrupted Hadleyburg, and Other Stories",
+1111,1840.0,Thomas Hardy,A Laodicean : A Story of To-day,
+1112,1823.0,Charlotte Mary Yonge,Countess Kate,
+1113,1870.0,Joseph Crosby Lincoln,The Portygee,
+1114,1880.0,Robert J. C. Stead,Dennison Grant: A Novel of To-day,
+1115,1872.0,Harold Bell Wright,The Re-Creation of Brian Kent,
+1116,1868.0,Eleanor H. Porter,Miss Billy,1911.0
+1117,1764.0,Ann Ward Radcliffe,The Mysteries of Udolpho,
+1118,1831.0,William Hale White,"The Autobiography of Mark Rutherford, Edited by his friend Reuben Shapcott",
+1119,1870.0,Joseph Crosby Lincoln,Cap'n Warren's Wards,
+1120,1870.0,Joseph Crosby Lincoln,Cy Whittaker's Place,
+1121,1860.0,Ralph Connor,The Man from Glengarry: A Tale of the Ottawa,
+1122,1860.0,Ralph Connor,The Sky Pilot in No Man's Land,
+1123,1859.0,Arthur Conan Doyle,The Valley of Fear,1915.0
+1124,1823.0,Charlotte Mary Yonge,The Clever Woman of the Family,
+1125,1875.0,Rafael Sabatini,The Sea-Hawk,
+1126,1889.0,Vivia Hemphill,Down the Mother Lode,
+1127,1875.0,Leroy Scott,Children of the Whirlwind,
+1128,1876.0,Ottilie A. Liljencrantz,The Ward of King Canute: A Romance of the Danish Conquest,
+1129,1862.0,John Kendrick Bangs,A Rebellious Heroine,
+1130,1840.0,Thomas Hardy,The Well-Beloved: A Sketch of a Temperament,
+1131,1837.0,William Dean Howells,The Kentons,
+1132,1837.0,William Dean Howells,Fennel and Rue,
+1133,1837.0,William Dean Howells,Dr. Breen's Practice,
+1134,1837.0,William Dean Howells,The Entire March Family Trilogy,
+1135,1837.0,William Dean Howells,Short Stories and Essays (from Literature and Life),
+1136,1837.0,William Dean Howells,April Hopes,
+1137,1875.0,Rafael Sabatini,"The Shame of Motley: being the memoir of certain transactions in the life of Lazzaro Biancomonte, of Biancomonte, sometime fool of the court of Pesaro",
+1138,1815.0,Anthony Trollope,Barchester Towers,1857.0
+1139,1873.0,Stewart Edward White,The Blazed Trail,
+1140,1862.0,Annie Hamilton Donnell,Rebecca Mary,
+1141,1875.0,Rafael Sabatini,"The Strolling Saint; being the confessions of the high and mighty Agostino D'Anguissola, tyrant of Mondolfo and Lord of Carmina, in the state of Piacenza",
+1142,1846.0,Marcus Andrew Hislop Clarke,For the Term of His Natural Life,
+1143,1836.0,Marietta Holley,Samantha at Saratoga,
+1144,1869.0,Ellis Parker Butler,"Kilo : being the love story of Eliph' Hewlitt, book agent",
+1145,1869.0,Booth Tarkington,The Two Vanrevels,
+1146,1832.0,G. A. Henty,St. George for England,1884.0
+1147,1864.0,E. L. Voynich,The Gadfly,
+1148,1872.0,Zane Grey,The Man of the Forest,
+1149,,Mary Roberts Rinehart,Tish: The Chronicle of Her Escapades and Excursions,
+1150,1860.0,Ralph Connor,The Foreigner: A Tale of Saskatchewan,
+1151,1840.0,Thomas Hardy,The Hand of Ethelberta: A Comedy in Chapters,
+1152,1867.0,Harry Leon Wilson,Merton of the Movies,
+1153,1884.0,Hugh Walpole,Jeremy,
+1154,1875.0,Edgar Rice Burroughs,The Efficiency Expert,1921.0
+1155,1884.0,Abraham Merritt,The Metal Monster,
+1156,1884.0,Dana Gatlin,Missy,
+1157,1832.0,Louisa May Alcott,Jo's Boys,1886.0
+1158,1828.0,Jules Verne,"Five Weeks in a Balloon
+Or, Journeys and Discoveries in Africa by Three Englishmen",
+1159,1875.0,Rafael Sabatini,"Love-at-Arms
+Being a Narrative Excerpted from the Chronicles of Urbino During The Dominion of the High and Mighty Messer Guidobaldo Da Montefeltro",
+1160,1869.0,Stephen Leacock,Sunshine Sketches of a Little Town,1912.0
+1161,1884.0,Hugh Walpole,The Captives,
+1162,1878.0,Salisbury Field,Cupid's Understudy,
+1163,1865.0,Hamilton Brock; Ray Fuller,On the Firing Line,
+1164,1870.0,Robert Tressell,The Ragged Trousered Philanthropists,
+1165,1868.0,Victoria Cross,To-morrow?,
+1166,1823.0,Charlotte Mary Yonge,"The Daisy Chain, or Aspirations",
+1167,1815.0,Anthony Trollope,"The O'Conors of Castle Conor, County Mayo
+From ""Tales from All Countries""",
+1168,1825.0,Mary Jane Holmes,Cousin Maude,
+1169,1870.0,J. Hartley Manners,Peg O' My Heart,
+1170,1815.0,Anthony Trollope,The Duke's Children,1879.0
+1171,1871.0,Theodore Dreiser,The Titan,1914.0
+1172,1824.0,Wilkie Collins,Poor Miss Finch,1872.0
+1173,1824.0,Wilkie Collins,The Guilty River,
+1174,1880.0,Kathleen Norris,Mother: A Story,1911.0
+1175,1864.0,Robert Hichens,The Garden of Allah,
+1176,,Cosmo Hamilton,Who Cares? A Story of Adolescence,
+1177,1865.0,Lucy Fitch Perkins,The Belgian Twins,
+1178,1871.0,Winston Churchill,The Dwelling Place of Light,
+1179,1862.0,Joseph A. Altsheler,The Guns of Bull Run: A Story of the Civil War's Eve,
+1180,1860.0,Ralph Connor,The Prospector: A Tale of the Crow's Nest Pass,
+1181,1862.0,Florence L. Barclay,The Rosary,1909.0
+1182,1857.0,Mary E. Bamford,Out of the Triangle: A Story of the Far East,
+1183,1866.0,Harold Bindloss,The Girl from Keller's,
+1184,1857.0,Alfred Henry Lewis,Wolfville Days,
+1185,1814.0,Charles Reade,A Woman-Hater,
+1186,1814.0,Charles Reade,Peg Woffington,1853.0
+1187,1814.0,Charles Reade,Christie Johnstone: A Novel,
+1188,1832.0,G. A. Henty,The Dragon and the Raven,
+1189,1868.0,Steele Rudd,On Our Selection,1899.0
+1190,1871.0,Louis Stone,Jonah,1911.0
+1191,1871.0,Winston Churchill,Mr. Crewe's Career,1908.0
+1192,1853.0,Howard Pyle,The Ruby of Kishmoor,
+1193,1823.0,Charlotte Mary Yonge,The Prince and the Page: A Story of the Last Crusade,
+1194,1815.0,Anthony Trollope,"Miss Sarah Jack of Spanish Town, Jamaica",
+1195,1815.0,Anthony Trollope,The Courtship of Susan Bell,
+1196,1814.0,Dion Boucicault,Foul Play,
+1197,,Ethel C. Pedley,Dot and the Kangaroo,
+1198,1874.0,Robert Alexander Wason,Happy Hawkins,
+1199,1857.0,Gertrude Franklin Horn Atherton,The Valiant Runaways,
+1200,1862.0,O. Henry,"The Trimmed Lamp, and Other Stories of the Four Million",
+1201,1856.0,H. Rider Haggard,Love Eternal,1918.0
+1202,1815.0,Anthony Trollope,An Unprotected Female at the Pyramids,
+1203,1815.0,Anthony Trollope,The Relics of General Chasse: A Tale of Antwerp,
+1204,1815.0,Anthony Trollope,The Chateau of Prince Polignac,
+1205,1815.0,Anthony Trollope,Aaron Trow,
+1206,,Ambrose Bierce,The Parenticide Club,
+1207,1815.0,Anthony Trollope,Mrs. General Talboys,
+1208,1815.0,Anthony Trollope,The Parson's Daughter of Oxney Colne,
+1209,1815.0,Anthony Trollope,George Walker at Suez,
+1210,1815.0,Anthony Trollope,Returning Home,
+1211,1863.0,Gene Stratton-Porter,A Daughter of the Land,
+1212,1815.0,Anthony Trollope,A Ride Across Palestine,
+1213,1870.0,Henry Handel Richardson,The Getting of Wisdom,1910.0
+1214,1857.0,Alfred Henry Lewis,Wolfville,1900.0
+1215,,Victor Appleton,"Tom Swift in the Caves of Ice, or, the Wreck of the Airship",
+1216,1871.0,Winston Churchill,A Far Country,1915.0
+1217,1823.0,Charlotte Mary Yonge,The Trial,
+1218,1872.0,Maria Thompson Daviess,The Road to Providence,
+1219,1862.0,Gilbert Parker,The Judgment House,
+1220,1881.0,P. G. Wodehouse,Indiscretions of Archie,
+1221,1804.0,Benjamin Disraeli,"Sybil, Or, The Two Nations",
+1222,1871.0,Winston Churchill,Coniston,1906.0
+1223,1815.0,Anthony Trollope,The Man Who Kept His Money in a Box,
+1224,1865.0,Lucy Fitch Perkins,The Eskimo Twins,
+1225,1859.0,Arthur Conan Doyle,The Valley of Fear,1915.0
+1226,,Victor Appleton,Tom Swift and His Electric Rifle,1911.0
+1227,1847.0,Bram Stoker,The Jewel of Seven Stars,1903.0
+1228,1875.0,John Buchan,Huntingtower,1922.0
+1229,1830.0,Henry Kingsley,The Recollections of Geoffrey Hamlyn,
+1230,1849.0,James Lane Allen,The Reign of Law; a tale of the Kentucky hemp fields,
+1231,1819.0,Emma Dorothy Eliza Nevitte Southworth,Capitola the Madcap,
+1232,1832.0,Louisa May Alcott,Under the Lilacs,1878.0
+1233,1874.0,Lucy Maud Montgomery,Rilla of Ingleside,1921.0
+1234,1866.0,H. G. Wells,In the Days of the Comet,1906.0
+1235,1832.0,Emile Gaboriau,The Lerouge Case,
+1236,1862.0,Henry Seton Merriman,The Vultures,
+1237,1832.0,Louisa May Alcott,A Modern Cinderella,
+1238,1828.0,Jules Verne,Robur the Conqueror,1886.0
+1239,1828.0,Jules Verne,The Master of the World,1928.0
+1240,1862.0,Joseph A. Altsheler,The Star of Gettysburg: A Story of Southern High Tide,
+1241,1856.0,H. Rider Haggard,The Lady of Blossholme,1909.0
+1242,1862.0,O. Henry,Rolling Stones,
+1243,1854.0,F. Marion Crawford,The Witch of Prague: A Fantastic Tale,
+1244,1867.0,John Galsworthy,To Let,
+1245,1855.0,Louis Becke,By Reef and Palm,
+1246,1855.0,Marie Corelli,Thelma,
+1247,,Margaret Pedler,The Lamp of Fate,
+1248,1863.0,William John Locke,Simon the Jester,
+1249,1881.0,P. G. Wodehouse,Love Among the Chickens,1906.0
+1250,1855.0,Marie Corelli,The Secret Power,1921.0
+1251,1870.0,Henry Handel Richardson,Australia Felix,1917.0
+1252,1797.0,Alfred de Vigny,Cinq Mars,
+1253,1850.0,Pierre Loti,Madame Chrysantheme,
+1254,1832.0,Emile Gaboriau,The Honor of the Name,
+1255,1840.0,Rosa Nouchette Carey,Herb of Grace,
+1256,1865.0,Lucy Fitch Perkins,The Dutch Twins,
+1257,1869.0,Stephen Leacock,Arcadian Adventures with the Idle Rich,
+1258,1787.0,Eliza Lee Cabot Follen,Travellers' Stories,
+1259,1787.0,Eliza Lee Cabot Follen,Who Spoke Next,
+1260,1852.0,George Moore,The Untilled Field,
+1261,1839.0,Walter Pater,Imaginary Portraits,
+1262,1787.0,Eliza Lee Cabot Follen,Conscience,
+1263,1787.0,Eliza Lee Cabot Follen,What the Animals Do and Say,
+1264,1819.0,Herman Melville,Omoo: Adventures in the South Seas,
+1265,1869.0,Algernon Blackwood,The Garden of Survival,1918.0
+1266,1846.0,Anna Katharine Green,The Leavenworth Case,1878.0
+1267,1787.0,Eliza Lee Cabot Follen,The Talkative Wig,
+1268,1878.0,Mary Grant Bruce,Mates at Billabong,
+1269,1851.0,Campbell Praed,Lady Bridget in the Never-Never Land: a story of Australian life,
+1270,1823.0,Charlotte Mary Yonge,Nuttie's Father,1885.0
+1271,1839.0,Walter Pater,Marius the Epicurean — Volume 1,
+1272,1839.0,Walter Pater,Marius the Epicurean — Volume 2,
+1273,1856.0,H. Rider Haggard,Swallow: A Tale of the Great Trek,
+1274,1881.0,P. G. Wodehouse,The Intrusion of Jimmy,
+1275,1854.0,Oscar Wilde,The Picture of Dorian Gray,1890.0
+1276,1877.0,Rex Beach,The Barrier,
+1277,1721.0,T. Smollett,The Adventures of Peregrine Pickle,
+1278,1721.0,T. Smollett,The Adventures of Roderick Random,
+1279,1865.0,Lucy Fitch Perkins,The Scotch Twins,
+1280,1789.0,James Fenimore Cooper,The Monikins,1835.0
+1281,1844.0,Maurice Thompson,Alice of Old Vincennes,1900.0
+1282,1835.0,Augusta J. Evans,At the Mercy of Tiberius,
+1283,1880.0,Kathleen Norris,The Treasure,
+1284,1789.0,James Fenimore Cooper,Oak Openings,
+1285,1882.0,James Joyce,A Portrait of the Artist as a Young Man,1918.0
+1286,1844.0,Ada Cambridge,Sisters,
+1287,1859.0,Fergus Hume,The Mystery of a Hansom Cab,1886.0
+1288,1825.0,Catherine Helen Spence,Mr. Hogarth's Will,
+1289,,Victor Appleton,Tom Swift and His Wireless Message,1911.0
+1290,,Victor Appleton,Tom Swift and His Motor-Cycle,
+1291,1866.0,E. Phillips Oppenheim,Jeanne of the Marshes,
+1292,1823.0,Charlotte Mary Yonge,Dynevor Terrace,
+1293,1823.0,Charlotte Mary Yonge,Dynevor Terrace,
+1294,1885.0,D. H. Lawrence,Women in Love,1920.0
+1295,1890.0,Bart Haley,In the Sweet Dry and Dry,
+1296,1843.0,Henry James,The Golden Bowl,1904.0
+1297,1823.0,Charlotte Mary Yonge,Abbeychurch,
+1298,1810.0,Elizabeth Gaskell,Cousin Phillis,1864.0
+1299,1837.0,William Dean Howells,Ragged Lady,
+1300,1810.0,Elizabeth Gaskell,Wives and Daughters,1864.0
+1301,1810.0,Elizabeth Gaskell,Ruth,1853.0
+1302,1810.0,Elizabeth Gaskell,North and South,1855.0
+1303,1842.0,John Habberton,Helen's Babies,
+1304,1875.0,Isabel Ecclestone Mackay,The Window-Gazer,
+1305,1863.0,William John Locke,The Red Planet,
+1306,1880.0,Kathleen Norris,The Rich Mrs. Burgoyne,
+1307,1848.0,James Otis,"Neal, the Miller: A Son of Liberty",
+1308,1852.0,George Hartmann,"Tales of Aztlan; The Romance of a Hero of Our Late Spanish-American War, Incidents of Interest from the Life of a Western Pioneer and Other Tales",
+1309,1823.0,Charlotte Mary Yonge,Friarswood Post Office,
+1310,1857.0,George Gissing,Eve's Ransom,1895.0
+1311,1857.0,George Gissing,The Paying Guest,1895.0
+1312,1857.0,George Gissing,The Whirlpool,1897.0
+1313,1882.0,James Joyce,Ulysses,1922.0
+1314,1857.0,George Gissing,The Nether World,1889.0
+1315,1857.0,George Gissing,Thyrza,
+1316,1857.0,George Gissing,Denzil Quarrier,1892.0
+1317,1857.0,George Gissing,Our Friend the Charlatan,1901.0
+1318,1857.0,George Gissing,The Unclassed,1884.0
+1319,1857.0,George Gissing,Veranilda,1904.0
+1320,1857.0,George Gissing,In the Year of Jubilee,1894.0
+1321,1857.0,George Gissing,The Town Traveller,1898.0
+1322,1857.0,George Gissing,Demos,1886.0
+1323,1857.0,George Gissing,Will Warburton,1905.0
+1324,1857.0,George Gissing,The Emancipated,1890.0
+1325,1857.0,George Gissing,A Life's Morning,1888.0
+1326,1857.0,George Gissing,The Odd Women,1893.0
+1327,1862.0,Edith Wharton,The Valley of Decision,1902.0
+1328,1848.0,Grant Allen,The British Barbarians,1895.0
+1329,1870.0,Horace W. C. Newte,Sparrows: The Story of an Unprotected Girl,
+1330,1823.0,Charlotte Mary Yonge,My Young Alcides: A Faded Photograph,1875.0
+1331,1880.0,Kathleen Norris,"Poor, Dear Margaret Kirby",
+1332,1869.0,George Randolph Chester,Five Thousand an Hour: How Johnny Gamble Won the Heiress,
+1333,1856.0,L. Frank Baum,"Sky Island
+Being the further exciting adventures of Trot and Cap'n Bill after their visit to the sea fairies",
+1334,1856.0,L. Frank Baum,The Sea Fairies,1911.0
+1335,1855.0,Marie Corelli,Vendetta: A Story of One Forgotten,
+1336,1823.0,Charlotte Mary Yonge,The Lances of Lynwood,1864.0
+1337,,Ambrose Bierce,Can Such Things Be?,1893.0
+1338,1896.0,F. Scott Fitzgerald,Flappers and Philosophers,1920.0
+1339,1873.0,Nellie L. McClung,Sowing Seeds in Danny,
+1340,1870.0,Alice Caldwell Hegan Rice,Mrs. Wiggs of the Cabbage Patch,
+1341,1858.0,E. Nesbit,In Homespun,
+1342,1863.0,William John Locke,The Fortunate Youth,
+1343,1870.0,Frank Norris,The Pit: A Story of Chicago,
+1344,1880.0,Kathleen Norris,"Martie, the Unconquered",
+1345,1850.0,Kirk Munroe,Wakulla: a story of adventure in Florida,
+1346,1855.0,Marie Corelli,A Romance of Two Worlds: A Novel,
+1347,1848.0,Grant Allen,The Woman Who Did,
+1348,1867.0,John Galsworthy,The Forsyte Saga - Complete,
+1349,1838.0,Francis Hopkinson Smith,The Tides of Barnegat,
+1350,1879.0,Talbot Mundy,Hira Singh : when India came to fight in Flanders,
+1351,1828.0,George Meredith,The Shaving of Shagpat; an Arabian entertainment,
+1352,1828.0,George Meredith,The Ordeal of Richard Feverel — Volume 1,
+1353,1828.0,George Meredith,The Ordeal of Richard Feverel,1859.0
+1354,1828.0,George Meredith,Sandra Belloni (originally Emilia in England),
+1355,1828.0,George Meredith,Rhoda Fleming,
+1356,1828.0,George Meredith,Evan Harrington,1860.0
+1357,1828.0,George Meredith,Vittoria,
+1358,1828.0,George Meredith,The Adventures of Harry Richmond,1870.0
+1359,1828.0,George Meredith,Beauchamp's Career,1875.0
+1360,1828.0,George Meredith,The Tragic Comedians: A Study in a Well-known Story,
+1361,1828.0,George Meredith,Diana of the Crossways,1885.0
+1362,1828.0,George Meredith,One of Our Conquerors,1891.0
+1363,1828.0,George Meredith,Lord Ormont and His Aminta,
+1364,1828.0,George Meredith,The Amazing Marriage,
+1365,1828.0,George Meredith,Celt and Saxon,
+1366,1828.0,George Meredith,Complete Short Works of George Meredith,
+1367,1833.0,James De Mille,Lost in the Fog,
+1368,1862.0,Arthur Christopher Benson,Watersprings,
+1369,1862.0,Edith Wharton,Tales of Men and Ghosts,
+1370,1878.0,James Oliver Curwood,The Golden Snare,1918.0
+1371,1838.0,Francis Hopkinson Smith,Peter: A Novel of Which He is Not the Hero,
+1372,1862.0,Edith Wharton,Ethan Frome,1911.0
+1373,1862.0,Edith Wharton,The Descent of Man and Other Stories,
+1374,1885.0,D. H. Lawrence,Aaron's Rod,1922.0
+1375,1857.0,George Gissing,Born in Exile,1892.0
+1376,1859.0,Fergus Hume,The Secret Passage,
+1377,,Victor Appleton,Tom Swift and His Photo Telephone or the Picture That Saved a Fortune,
+1378,1810.0,Elizabeth Gaskell,Sylvia's Lovers — Volume 1,
+1379,1810.0,Elizabeth Gaskell,Sylvia's Lovers — Volume 2,
+1380,1810.0,Elizabeth Gaskell,Sylvia's Lovers — Volume 3,
+1381,1810.0,Elizabeth Gaskell,Sylvia's Lovers,1982.0
+1382,1878.0,James Oliver Curwood,Back to God's Country and Other Stories,
+1383,1857.0,Charles M. Sheldon,In His Steps,
+1384,1857.0,George Gissing,The Crown of Life,
+1385,1861.0,Sara Jeannette Duncan,The Story of Sonny Sahib,1894.0
+1386,1872.0,Zane Grey,The Border Legion,1916.0
+1387,1811.0,William Makepeace Thackeray,Barry Lyndon,
+1388,,C. F. Fraser,Master Sunshine,
+1389,1876.0,Ottilie A. Liljencrantz,The Thrall of Leif the Lucky: A Story of Viking Days,
+1390,1878.0,James Oliver Curwood,God's Country—And the Woman,
+1391,1809.0,Timothy Shay Arthur,Danger,
+1392,1809.0,Timothy Shay Arthur,Finger Posts on the Way of Life,
+1393,1809.0,Timothy Shay Arthur,The Allen House,
+1394,1809.0,Timothy Shay Arthur,All's for the Best,
+1395,1809.0,Timothy Shay Arthur,After the Storm,
+1396,1809.0,Timothy Shay Arthur,"After a shadow, and other stories",
+1397,1809.0,Timothy Shay Arthur,Cast Adrift,
+1398,,Timothy Shay Arthur,Friends and Neighbors,
+1399,1809.0,Timothy Shay Arthur,Home Lights and Shadows,
+1400,1809.0,Timothy Shay Arthur,Heart-Histories and Life-Pictures,
+1401,1823.0,Charlotte Mary Yonge,Unknown to History: A Story of the Captivity of Mary of Scotland,
+1402,1815.0,Anthony Trollope,The Small House at Allington,1862.0
+1403,1837.0,William Dean Howells,A Hazard of New Fortunes,1890.0
+1404,1864.0,Robert Hichens,In the Wilderness,
+1405,1824.0,Wilkie Collins,Basil,
+1406,1814.0,Charles Reade,It Is Never Too Late to Mend,1856.0
+1407,1814.0,Charles Reade,"Love Me Little, Love Me Long",
+1408,,Victor Appleton,"Tom Swift in Captivity, Or, A Daring Escape By Airship",
+1409,1862.0,Arthur Christopher Benson,The Altar Fire,
+1410,1809.0,Timothy Shay Arthur,"Lessons in Life, for All Who Will Read Them",
+1411,1809.0,Timothy Shay Arthur,Woman's Trials,
+1412,1809.0,Timothy Shay Arthur,Words for the Wise,
+1413,1809.0,Timothy Shay Arthur,"Words of Cheer for the Tempted, the Toiling, and the Sorrowing",
+1414,1809.0,Timothy Shay Arthur,The Two Wives,
+1415,1809.0,Timothy Shay Arthur,Trials and Confessions of a Housekeeper,
+1416,1809.0,Timothy Shay Arthur,The Son of My Friend,
+1417,1809.0,Timothy Shay Arthur,"Off-Hand Sketches, a Little Dashed with Humor",
+1418,1809.0,Timothy Shay Arthur,Lizzy Glenn,
+1419,1809.0,Timothy Shay Arthur,Married Life; Its Shadows and Sunshine,
+1420,1809.0,Timothy Shay Arthur,The Iron Rule,
+1421,1809.0,Timothy Shay Arthur,Home Scenes and Home Influence; a series of tales and sketches,
+1422,1809.0,Timothy Shay Arthur,The Hand but Not the Heart,
+1423,1809.0,Timothy Shay Arthur,The Good Time Coming,
+1424,1878.0,James Oliver Curwood,Philip Steele of the Royal Northwest Mounted Police,
+1425,1860.0,Jennette Lee,Uncle William: The Man Who Was Shif'less,
+1426,,Victor Appleton,Tom Swift and His Great Searchlight,1912.0
+1427,1873.0,Inez Haynes Gillmore,Angel Island,
+1428,1827.0,Cuthbert Bede,The Adventures of Mr. Verdant Green,
+1429,1837.0,William Dean Howells,The Landlord at Lion's Head,
+1430,1823.0,Charlotte Mary Yonge,Lady Hester,
+1431,1832.0,Horatio Alger,Timothy Crump's Ward: A Story of American Life,
+1432,1874.0,Thornton W. Burgess,Lightfoot the Deer,
+1433,1836.0,Bret Harte,Tennessee's Partner,1869.0
+1434,1820.0,Maturin M. Ballou,The Sea-Witch,
+1435,1850.0,F. Colburn Adams,Our World,
+1436,1850.0,F. Colburn Adams,Manuel Pereira,
+1437,1872.0,Zane Grey,The U. P. Trail,
+1438,1880.0,Kathleen Norris,Saturday's Child,
+1439,1864.0,William Le Queux,Mademoiselle of Monte Carlo,
+1440,1874.0,Thornton W. Burgess,Whitefoot the Wood Mouse,
+1441,1878.0,James Oliver Curwood,The Flaming Forest,
+1442,1878.0,James Oliver Curwood,Flower of the North: A Modern Romance,
+1443,1878.0,James Oliver Curwood,Nomads of the North: A Story of Romance and Adventure under the Open Stars,
+1444,1878.0,James Oliver Curwood,The Valley of Silent Men: A Story of the Three River Country,
+1445,1866.0,George Barr McCutcheon,Brewster's Millions,1902.0
+1446,,Victor Appleton,Tom Swift in the City of Gold,1912.0
+1447,1865.0,Holman Day,The Landloper: The Romance of a Man on Foot,
+1448,1860.0,Jennette Lee,Mr. Achilles,
+1449,1848.0,Grant Allen,An African Millionaire: Episodes in the Life of the Illustrious Colonel Clay,
+1450,1796.0,Major Richardson,Wacousta : a tale of the Pontiac conspiracy — Volume 1,
+1451,1796.0,Major Richardson,Wacousta : a tale of the Pontiac conspiracy — Volume 2,
+1452,1867.0,Finley Peter Dunne,Observations By Mr. Dooley,
+1453,1870.0,Ethel Sybil Turner,Seven Little Australians,
+1454,1865.0,Holman Day,When Egypt Went Broke: A Novel,
+1455,1867.0,Arnold Bennett,The Grim Smile of the Five Towns,1907.0
+1456,1872.0,Harold Bell Wright,The Shepherd of the Hills,1907.0
+1457,1878.0,James Oliver Curwood,The Country Beyond: A Romance of the Wilderness,
+1458,1809.0,Timothy Shay Arthur,Ten Nights in a Bar Room,
+1459,1865.0,A. E. W. Mason,At the Villa Rose,
+1460,1838.0,Francis Hopkinson Smith,Kennedy Square,
+1461,1878.0,James Oliver Curwood,The River's End,1919.0
+1462,1878.0,James Oliver Curwood,"Baree, Son of Kazan",1917.0
+1463,1868.0,Helen Reimensnyder Martin,"Tillie, a Mennonite Maid; a Story of the Pennsylvania Dutch",
+1464,1832.0,Louisa May Alcott,Work: A Story of Experience,1873.0
+1465,,Josephine Lawrence,Brother and Sister,
+1466,,Kathleen Norris,The Story of Julia Page,
+1467,1871.0,Harold MacGrath,Half a Rogue,
+1468,1832.0,G. A. Henty,In Freedom's Cause : A Story of Wallace and Bruce,
+1469,,H. A. Adams,Dawn,
+1470,1820.0,Maturin M. Ballou,"The Circassian Slave, or, the Sultan's favorite : a story of Constantinople and the Caucasus",
+1471,1789.0,James Fenimore Cooper,Jack Tier,
+1472,,Grant Allen,"Hilda Wade, a Woman with Tenacity of Purpose",
+1473,1870.0,Joseph Crosby Lincoln,Galusha the Magnificent,
+1474,1796.0,Major Richardson,Wacousta : a tale of the Pontiac conspiracy — Volume 3,
+1475,1796.0,Major Richardson,Wacousta : a tale of the Pontiac conspiracy (Complete),
+1476,1880.0,Kathleen Norris,The Heart of Rachael,
+1477,1815.0,Anthony Trollope,The Kellys and the O'Kellys,1848.0
+1478,,Homer Eon Flint,The Blind Spot,1951.0
+1479,1883.0,Clarence Edward Mulford,Bar-20 Days,
+1480,1878.0,Upton Sinclair,King Midas: a Romance,
+1481,1867.0,David Graham Phillips,The Fashionable Adventures of Joshua Craig: A Novel,
+1482,1832.0,G. A. Henty,Won By the Sword : a tale of the Thirty Years' War,
+1483,1832.0,G. A. Henty,A Knight of the White Cross: A Tale of the Siege of Rhodes,
+1484,,Josephine Chase,Grace Harlowe's Senior Year at High School,
+1485,1823.0,Charlotte Mary Yonge,"Scenes and Characters, or, Eighteen Months at Beechcroft",
+1486,1859.0,Fergus Hume,Madame Midas,
+1487,1880.0,Kathleen Norris,Sisters,
+1488,1820.0,Maturin M. Ballou,The Duke's Prize; a Story of Art and Heart in Florence,
+1489,1820.0,Maturin M. Ballou,The Heart's Secret,
+1490,1885.0,Sinclair Lewis,Our Mr. Wrenn: The Romantic Adventures of a Gentle Man,
+1491,1815.0,Anthony Trollope,The Belton Estate,1865.0
+1492,1874.0,Thornton W. Burgess,Blacky the Crow,
+1493,1874.0,Thornton W. Burgess,Old Granny Fox,
+1494,1850.0,Robert Barr,A Rock in the Baltic,
+1495,1865.0,Robert W. Chambers,The Hidden Children,
+1496,,Alice B. Emerson,Ruth Fielding of the Red Mill,
+1497,,Laura Lee Hope,The Outdoor Girls at Rainbow Lake,
+1498,,Laura Lee Hope,The Outdoor Girls at Wild Rose Lodge,
+1499,1854.0,L. T. Meade,A Sweet Girl Graduate,1891.0
+1500,,Harry Steele Morrison,The Adventures of a Boy Reporter,
+1501,1861.0,Frank Gee Patchin,The Pony Rider Boys in New Mexico,
+1502,1850.0,Louise Clarke Pyrnelle,"Diddie, Dumps, and Tot",
+1503,1871.0,William MacLeod Raine,A Texas Ranger,
+1504,,Roy Rockwood,Five Thousand Miles Underground,
+1505,1862.0,Edward Stratemeyer,True to Himself,
+1506,1857.0,Matthew White,Two Boys and a Fortune,
+1507,1862.0,Edward Stratemeyer,The Rover Boys in Business,
+1508,1862.0,Edward Stratemeyer,The Rover Boys in New York,
+1509,,Clarence Young,The Motor Boys on the Pacific,
+1510,1880.0,Kathleen Norris,Harriet and the Piper,
+1511,1871.0,Samuel Hopkins Adams,The Unspeakable Perk,
+1512,1863.0,William John Locke,The Morals of Marcus Ordeyne : a Novel,
+1513,1873.0,Mary Raymond Shipman Andrews,The Whole Family: a Novel by Twelve Authors,
+1514,1872.0,Zane Grey,The Rainbow Trail,1915.0
+1515,1880.0,Arthur B. Reeve,The War Terror,
+1516,1855.0,Marie Corelli,Ziska: The Problem of a Wicked Soul,1897.0
+1517,1823.0,Charlotte Mary Yonge,Magnum Bonum,
+1518,1745.0,Henry Mackenzie,The Man of Feeling,1771.0
+1519,1846.0,Standish O'Grady,The Coming of Cuculain,
+1520,1861.0,Sara Jeannette Duncan,The Path of a Star,
+1521,1874.0,Thornton W. Burgess,The Adventures of Jerry Muskrat,
+1522,1856.0,Henry A. Shute,The Real Diary of a Real Boy,
+1523,1775.0,Walter Savage Landor,"Citation and Examination of William Shakspeare, Euseby Treen, Joseph Carnaby, and Silas Gough, Clerk",
+1524,1815.0,Anthony Trollope,The American Senator,1877.0
+1525,1846.0,Anna Katharine Green,Dark Hollow,
+1526,1862.0,John Fox,The Trail of the Lonesome Pine,1908.0
+1527,1823.0,Charlotte Mary Yonge,Henrietta's Wish,
+1528,1832.0,G. A. Henty,The Young Carthaginian: A Story of The Times of Hannibal,
+1529,1869.0,Vaughan Kester,The Prodigal Judge,1911.0
+1530,1815.0,Anthony Trollope,He Knew He Was Right,1869.0
+1531,1866.0,George Barr McCutcheon,Graustark,
+1532,1859.0,Arthur Conan Doyle,Rodney Stone,1896.0
+1533,1879.0,Talbot Mundy,Rung Ho! A Novel,
+1534,1831.0,Ignatius Donnelly,Cæsar's Column: A Story of the Twentieth Century,
+1535,1823.0,Charlotte Mary Yonge,Beechcroft at Rockstone,1888.0
+1536,1857.0,Richard Marsh,The Beetle: A Mystery,
+1537,1796.0,Major Richardson,Hardscrabble,
+1538,1876.0,Gouverneur Morris,Aladdin O'Brien,
+1539,1856.0,H. Rider Haggard,Allan and the Holy Flower,1915.0
+1540,1856.0,H. Rider Haggard,Pearl-Maiden: A Tale of the Fall of Jerusalem,
+1541,1810.0,Thomas Adolphus Trollope,A Siren,
+1542,1729.0,Clara Reeve,The Old English Baron: a Gothic Story,
+1543,1822.0,W. H. Rhodes,The Case of Summerfield,
+1544,1870.0,Joseph Crosby Lincoln,Cape Cod Stories,
+1545,1875.0,Charlotte B. Herr,Their Mariposa Legend: A Romance of Santa Catalina,
+1546,1862.0,Joseph A. Altsheler,The Guns of Shiloh: A Story of the Great Western Campaign,
+1547,1856.0,H. Rider Haggard,"Ayesha, the Return of She",
+1548,1838.0,Francis Hopkinson Smith,Felix O'Day,
+1549,1866.0,H. G. Wells,The Invisible Man: A Grotesque Romance,
+1550,1815.0,Anthony Trollope,The Way We Live Now,1875.0
+1551,1877.0,Rex Beach,The Iron Trail,
+1552,,Charles James Lever,The Confessions of Harry Lorrequer — Volume 1,
+1553,,Charles James Lever,The Confessions of Harry Lorrequer — Volume 2,
+1554,,Charles James Lever,The Confessions of Harry Lorrequer — Volume 3,
+1555,,Charles James Lever,The Confessions of Harry Lorrequer — Volume 4,
+1556,,Charles James Lever,The Confessions of Harry Lorrequer — Volume 5,
+1557,,Charles James Lever,The Confessions of Harry Lorrequer — Volume 6,
+1558,,Charles James Lever,The Confessions of Harry Lorrequer,
+1559,1823.0,Charlotte Mary Yonge,The Long Vacation,
+1560,1879.0,Vingie E. Roe,The Maid of the Whispering Hills,
+1561,1707.0,Henry Fielding,The History of the Life of the Late Mr. Jonathan Wild the Great,
+1562,1859.0,Arthur Conan Doyle,"A Duet, with an Occasional Chorus",
+1563,1880.0,Arthur B. Reeve,Constance Dunlap,
+1564,1874.0,G. K. Chesterton,The Ball and the Cross,1909.0
+1565,1871.0,Theodore Dreiser,Sister Carrie,1900.0
+1566,1875.0,Arthur Cheney Train,Courts and Criminals,
+1567,1861.0,Sara Jeannette Duncan,The Imperialist,
+1568,1850.0,Charles Egbert Craddock,Down the Ravine,
+1569,1863.0,J. S. Fletcher,The Paradise Mystery,1920.0
+1570,1890.0,Christopher Morley,Parnassus on Wheels,1917.0
+1571,1823.0,Charlotte Mary Yonge,The Herd Boy and His Hermit,
+1572,1879.0,Talbot Mundy,Told in the East,
+1573,1831.0,William Hale White,Mark Rutherford's Deliverance,
+1574,1874.0,Lucy Maud Montgomery,Further Chronicles of Avonlea,1920.0
+1575,1874.0,Lucy Maud Montgomery,Kilmeny of the Orchard,1910.0
+1576,1874.0,Lucy Maud Montgomery,The Story Girl,1911.0
+1577,1874.0,Lucy Maud Montgomery,Rainbow Valley,1919.0
+1578,1879.0,Dorothy Canfield Fisher,Understood Betsy,1916.0
+1579,1832.0,Horatio Alger,"Ragged Dick, Or, Street Life in New York with the Boot-Blacks",
+1580,1866.0,George Barr McCutcheon,Castle Craneycrow,
+1581,1832.0,Louisa May Alcott,Marjorie's Three Gifts,
+1582,1871.0,Winston Churchill,The Inside of the Cup,1913.0
+1583,1871.0,Winston Churchill,Richard Carvel,1899.0
+1584,1871.0,Winston Churchill,A Modern Chronicle,1910.0
+1585,1871.0,Winston Churchill,The Celebrity,1919.0
+1586,1871.0,Winston Churchill,The Crisis,1901.0
+1587,1832.0,Horatio Alger,"Struggling Upward, or Luke Larkin's Luck",
+1588,1878.0,Upton Sinclair,The Metropolis,
+1589,1875.0,Katherine Cecil Thurston,The Masquerader,
+1590,1836.0,Thomas Bailey Aldrich,The Stillwater Tragedy,
+1591,1807.0,Henry Wadsworth Longfellow,Hyperion,
+1592,1841.0,Juliana Horatia Ewing,Jan of the Windmill: A Story of the Plains,1876.0
+1593,1861.0,Henry Harland,The Cardinal's Snuff-Box,1900.0
+1594,1830.0,Marion Harland,At Last: A Novel,
+1595,1832.0,Horatio Alger,The Young Explorer,
+1596,1872.0,Gertrude Page,Winding Paths,
+1597,1815.0,Anthony Trollope,Harry Heathcote of Gangoil: A Tale of Australian Bush-Life,
+1598,1864.0,Richard Harding Davis,Ranson's Folly,1902.0
+1599,1857.0,Joseph Conrad,Lord Jim,1900.0
+1600,,Ambrose Bierce,"A Son of the Gods, and A Horseman in the Sky",
+1601,,Lucia Prudence Hall Woodbury,The Potato Child & Others,
+1602,1832.0,Horatio Alger,The Young Musician,
+1603,1832.0,Horatio Alger,"Hector's Inheritance, Or, the Boys of Smith Institute",
+1604,1824.0,George MacDonald,A Double Story,
+1605,1878.0,Upton Sinclair,Jimmie Higgins,
+1606,1883.0,Sax Rohmer,Tales of Chinatown,
+1607,1823.0,Charlotte Mary Yonge,Love and Life: An Old Story in Eighteenth Century Costume,
+1608,1869.0,Louise Lamprey,Masters of the Guild,
+1609,1888.0,Homer Eon Flint,The Lord of Death and the Queen of Life,
+1610,1823.0,Charlotte Mary Yonge,"Stray Pearls: Memoirs of Margaret De Ribaumont, Viscountess of Bellaise",
+1611,1865.0,Paul Leicester Ford,Janice Meredith: A Story of the American Revolution,
+1612,1880.0,Peter B. Kyne,The Valley of the Giants,
+1613,,Mary C. E. Wemyss,The Professional Aunt,
+1614,1876.0,Jack London,Smoke Bellew,1912.0
+1615,1880.0,Peter B. Kyne,Cappy Ricks,
+1616,1856.0,H. Rider Haggard,She and Allan,1921.0
+1617,1856.0,H. Rider Haggard,The Ancient Allan,1920.0
+1618,1832.0,Horatio Alger,Do and Dare — a Brave Boy's Fight for Fortune,
+1619,1856.0,H. Rider Haggard,"Lysbeth, a Tale of the Dutch",
+1620,1831.0,Amelia E. Barr,The Maid of Maiden Lane,
+1621,1863.0,W. W. Jacobs,Many Cargoes,
+1622,1856.0,H. Rider Haggard,Doctor Therne,1898.0
+1623,1824.0,George MacDonald,Annals of a Quiet Neighbourhood,1866.0
+1624,1878.0,Upton Sinclair,They Call Me Carpenter: A Tale of the Second Coming,
+1625,1878.0,Upton Sinclair,100%: the Story of a Patriot,
+1626,1865.0,Rudyard Kipling,Life's Handicap: Being Stories of Mine Own People,
+1627,1832.0,Horatio Alger,Try and Trust,
+1628,1835.0,Mark Twain,A Tramp Abroad — Volume 01,
+1629,1835.0,Mark Twain,A Tramp Abroad — Volume 02,
+1630,1835.0,Mark Twain,A Tramp Abroad — Volume 03,
+1631,1835.0,Mark Twain,A Tramp Abroad — Volume 04,
+1632,1835.0,Mark Twain,A Tramp Abroad — Volume 05,
+1633,1835.0,Mark Twain,A Tramp Abroad — Volume 06,
+1634,1835.0,Mark Twain,A Tramp Abroad — Volume 07,
+1635,1874.0,Thornton W. Burgess,Mrs. Peter Rabbit,
+1636,1865.0,W. B. Yeats,Stories of Red Hanrahan,
+1637,1865.0,W. B. Yeats,Rosa Alchemica,
+1638,1865.0,W. B. Yeats,The Secret Rose,
+1639,1878.0,Upton Sinclair,Sylvia's Marriage: A Novel,
+1640,1829.0,Mark Twain,"The Gilded Age, Part 1.",
+1641,1829.0,Mark Twain,"The Gilded Age, Part 2.",
+1642,1829.0,Mark Twain,"The Gilded Age, Part 3.",
+1643,1829.0,Mark Twain,"The Gilded Age, Part 4.",
+1644,1829.0,Mark Twain,"The Gilded Age, Part 5.",
+1645,1829.0,Mark Twain,"The Gilded Age, Part 6.",
+1646,1829.0,Mark Twain,"The Gilded Age, Part 7.",
+1647,1860.0,Mary Raymond Shipman Andrews,The Courage of the Commonplace,
+1648,1840.0,Edward Sylvester Ellis,In the Pecos Country,
+1649,1878.0,Upton Sinclair,The Moneychangers,
+1650,1832.0,Louisa May Alcott,A Garland for Girls,1887.0
+1651,1848.0,Grant Allen,Recalled to Life,
+1652,1832.0,Horatio Alger,Helping Himself,
+1653,1856.0,Nora Archibald Smith,The Story Hour: A Book for the Home and the Kindergarten,
+1654,1835.0,Mark Twain,"Sketches New and Old, Part 1.",
+1655,1835.0,Mark Twain,"Sketches New and Old, Part 2.",
+1656,1835.0,Mark Twain,"Sketches New and Old, Part 3.",
+1657,1835.0,Mark Twain,"Sketches New and Old, Part 4.",
+1658,1835.0,Mark Twain,"Sketches New and Old, Part 5.",
+1659,1835.0,Mark Twain,"Sketches New and Old, Part 6.",
+1660,1835.0,Mark Twain,"Sketches New and Old, Part 7.",
+1661,1823.0,Charlotte Mary Yonge,The Young Step-Mother,
+1662,1874.0,Thornton W. Burgess,The Adventures of Johnny Chuck,
+1663,1874.0,Thornton W. Burgess,The Adventures of Poor Mrs. Quack,
+1664,1866.0,George Barr McCutcheon,The Flyers,
+1665,1866.0,George Barr McCutcheon,Yollop,
+1666,1796.0,Horatio Alger,Nothing to Eat,
+1667,1848.0,Grant Allen,Michael's Crag,
+1668,1866.0,George Barr McCutcheon,Green Fancy,
+1669,1856.0,Bernard Shaw,Cashel Byron's Profession,
+1670,1866.0,George Barr McCutcheon,Her Weight in Gold,
+1671,1815.0,Anthony Trollope,Castle Richmond,1860.0
+1672,1856.0,H. Rider Haggard,Jess,1887.0
+1673,,A. Frank Pinkerton,Dyke Darrel the Railroad Detective,
+1674,1771.0,Walter Scott,The Fortunes of Nigel,1822.0
+1675,1864.0,Richard Harding Davis,Gallegher and Other Stories,1891.0
+1676,1771.0,Walter Scott,Peveril of the Peak,1823.0
+1677,1878.0,Upton Sinclair,Samuel the Seeker,
+1678,1868.0,Eleanor H. Porter,"Oh, Money! Money! A Novel",
+1679,1866.0,George Barr McCutcheon,Mr. Bingle,
+1680,1878.0,Upton Sinclair,Love's Pilgrimage: A Novel,
+1681,1866.0,George Barr McCutcheon,Jane Cable,1906.0
+1682,1846.0,Richard Savage,A Fascinating Traitor: An Anglo-Indian Story,
+1683,1824.0,George MacDonald,"Thomas Wingfold, Curate",
+1684,1832.0,Horatio Alger,Bound to Rise,
+1685,1870.0,Joseph Crosby Lincoln,Kent Knowles: Quahaug,
+1686,1888.0,T. S. Eliot,Eeldrop and Appleplex,
+1687,1832.0,Horatio Alger,Walter Sherwood's Probation,
+1688,,Walter Scott,Waverley,1814.0
+1689,1771.0,Walter Scott,Guy Mannering,1815.0
+1690,1823.0,Charlotte Mary Yonge,Under the Storm,1887.0
+1691,1823.0,Charlotte Mary Yonge,The Two Sides of the Shield,
+1692,1852.0,Henry Van Dyke,The Valley of Vision : A Book of Romance and Some Half-Told Tales,
+1693,1846.0,Richard Savage,The Little Lady of Lagunitas: A Franco-Californian Romance,
+1694,1806.0,William Gilmore Simms,Charlemont,
+1695,1866.0,George Barr McCutcheon,Viola Gwyn,
+1696,1866.0,George Barr McCutcheon,West Wind Drift,
+1697,1864.0,Richard Harding Davis,Captain Macklin: His Memoirs,
+1698,1885.0,Edna Ferber,"Roast Beef, Medium: The Business Adventures of Emma McChesney",
+1699,1880.0,Peter B. Kyne,Cappy Ricks Retires: But That Doesn't Keep Him from Coming Back Stronger Than Ever,
+1700,1831.0,William Hale White,Catharine Furze,
+1701,1852.0,George Moore,Spring Days,
+1702,1864.0,Thomas Dixon,The One Woman: A Story of Modern Utopia,
+1703,,John Banim,Stories by English Authors: Ireland,
+1704,1866.0,George Barr McCutcheon,Quill's Window,
+1705,1866.0,George Barr McCutcheon,The Hollow of Her Hand,
+1706,1834.0,William Morris,"The Roots of the Mountains
+Wherein Is Told Somewhat of the Lives of the Men of Burgdale, Their Friends, Their Neighbours, Their Foemen, and Their Fellows in Arms",
+1707,1856.0,H. Rider Haggard,Stella Fregelius: A Tale of Three Destinies,
+1708,1752.0,Fanny Burney,"Evelina, Or, the History of a Young Lady's Entrance into the World",
+1709,1858.0,Will N. Harben,The Desired Woman,
+1710,1806.0,William Gilmore Simms,Confession,1841.0
+1711,1848.0,Grant Allen,Philistia,
+1712,1879.0,Talbot Mundy,King--of the Khyber Rifles: A Romance of Adventure,
+1713,1856.0,H. Rider Haggard,"Smith and the Pharaohs, and other Tales",
+1714,1795.0,John William Polidori,The Vampyre; a Tale,2009.0
+1715,1862.0,Joseph A. Altsheler,The Scouts of Stonewall: The Story of the Great Valley Campaign,
+1716,1707.0,Henry Fielding,Amelia,1751.0
+1717,1796.0,Thomas Chandler Haliburton,Nature and Human Nature,
+1718,1866.0,George Barr McCutcheon,The Rose in the Ring,1910.0
+1719,1864.0,A. B. Paterson,An Outback Marriage: A Story of Australian Life,
+1720,1865.0,Rudyard Kipling,Soldiers Three,1899.0
+1721,1689.0,Samuel Richardson,"Pamela, or Virtue Rewarded",
+1722,1834.0,Frank Richard Stockton,The Great Stone of Sardis,
+1723,1846.0,William H. Maher,"A Man of Samples. Something about the men he met ""On the Road""",
+1724,1840.0,George W. Peck,Peck's Bad Boy with the Cowboys,
+1725,1854.0,L. T. Meade,A Girl of the People,
+1726,1785.0,Thomas De Quincey,Narrative and Miscellaneous Papers,
+1727,1832.0,Horatio Alger,Herbert Carter's Legacy,
+1728,1862.0,Gilbert Parker,Pierre and His People: Tales of the Far North. Complete,
+1729,1862.0,Gilbert Parker,A Romany of the Snows,
+1730,1862.0,Gilbert Parker,Northern Lights,
+1731,1862.0,Gilbert Parker,Mrs. Falchion,
+1732,1862.0,Gilbert Parker,Cumner's Son and Other South Sea Folk,
+1733,1862.0,Gilbert Parker,When Valmond Came to Pontiac: The Story of a Lost Napoleon. Complete,
+1734,1862.0,Gilbert Parker,The Translation of a Savage,
+1735,1862.0,Gilbert Parker,The Pomp of the Lavilettes,
+1736,1862.0,Gilbert Parker,At the Sign of the Eagle,
+1737,1862.0,Gilbert Parker,The Trespasser,
+1738,1862.0,Gilbert Parker,The March of the White Guard,
+1739,1862.0,Gilbert Parker,The Lane That Had No Turning,
+1740,1862.0,Gilbert Parker,Parables of a Province,
+1741,1862.0,Gilbert Parker,The Right of Way,
+1742,1862.0,Gilbert Parker,Michel and Angele [A Ladder of Swords],
+1743,1862.0,Gilbert Parker,John Enderby,
+1744,1862.0,Gilbert Parker,There Is Sorrow on the Sea,
+1745,1862.0,Gilbert Parker,"Donovan Pasha, and Some People of Egypt",
+1746,1862.0,Gilbert Parker,The Weavers: a tale of England and Egypt of fifty years ago - Complete,
+1747,1862.0,Gilbert Parker,The Money Master,
+1748,1862.0,Gilbert Parker,The World for Sale,
+1749,1862.0,Gilbert Parker,You Never Know Your Luck; being the story of a matrimonial deserter. Complete,
+1750,1862.0,Gilbert Parker,Wild Youth,
+1751,1862.0,Gilbert Parker,No Defense,
+1752,1862.0,Gilbert Parker,Carnac's Folly,
+1753,,Laura Lee; Smith Hope,The Story of a Bold Tin Soldier,
+1754,1819.0,Charles Kingsley,Hypatia — or New Foes with an Old Face,
+1755,,Anna Balmer Myers,Amanda: A Daughter of the Mennonites,
+1756,1823.0,Charlotte Mary Yonge,The Pillars of the House,
+1757,1752.0,Fanny Burney,Cecilia,
+1758,1878.0,Will Levington Comfort,Red Fleece,
+1759,1866.0,George Barr McCutcheon,The Prince of Graustark,
+1760,1825.0,R. M. Ballantyne,Snowflakes and Sunbeams,
+1761,1896.0,John Dos Passos,Three Soldiers,1921.0
+1762,1824.0,George MacDonald,Warlock o' Glenwarlock: A Homely Romance,
+1763,1836.0,Bret Harte,"The Luck of Roaring Camp and Other Tales
+With Condensed Novels, Spanish and American Legends, and Earlier Papers",
+1764,1857.0,Joseph Conrad,Victory: An Island Tale,
+1765,1883.0,Sax Rohmer,Bat Wing,1921.0
+1766,1869.0,Booth Tarkington,Harlequin and Columbine,
+1767,1771.0,Walter Scott,The Monastery,1820.0
+1768,1771.0,Walter Scott,The Abbot,1820.0
+1769,1880.0,A. S. M. Hutchinson,Once Aboard the Lugger-- The History of George and his Mary,
+1770,1880.0,A. S. M. Hutchinson,This Freedom,
+1771,,Daniel Defoe,"The Life, Adventures & Piracies of the Famous Captain Singleton",
+1772,1771.0,Walter Scott,The Surgeon's Daughter,
+1773,1863.0,Arthur Quiller-Couch,"The Splendid Spur
+Being Memoirs of the Adventures of Mr. John Marvel, a Servant of His Late Majesty King Charles I, in the Years 1642-3",
+1774,1789.0,James Fenimore Cooper,The Prairie,1827.0
+1775,1824.0,George William Curtis,The Potiphar Papers,
+1776,1876.0,Jack London,The Little Lady of the Big House,1916.0
+1777,,Charles Amory Beach,Air Service Boys in the Big Battle,
+1778,1832.0,Horatio Alger,Facing the World,
+1779,1829.0,S. Weir Mitchell,"Hugh Wynne, Free Quaker
+Sometime Brevet Lieutenant-Colonel on the Staff of his Excellency General Washington",
+1780,1771.0,Walter Scott,The Betrothed,1825.0
+1781,1890.0,Charles Franklin Carter,Old Mission Stories of California,
+1782,1862.0,Henry Seton Merriman,The Grey Lady,
+1783,1890.0,Samuel E. Lowe,In the Court of King Arthur,
+1784,1707.0,Henry Fielding,"History of Tom Jones, a Foundling",
+1785,1864.0,Robert Hichens,December Love,
+1786,1792.0,Frederick Marryat,Mr. Midshipman Easy,1912.0
+1787,1851.0,Garrett Putman Serviss,Curiosities of the Sky,
+1788,1870.0,Alice Caldwell Hegan Rice,A Romance of Billy-Goat Hill,
+1789,1876.0,Percy Keese Fitzhugh,Tom Slade : Boy Scout of the Moving Pictures,
+1790,1830.0,Charlotte Selina Bompas,"Owindia : a true tale of the MacKenzie River Indians, North-West America",
+1791,1839.0,Mrs. Molesworth,Rosy,
+1792,1819.0,George Eliot,The Mill on the Floss,1860.0
+1793,1743.0,Lucy Aikin,"The Swiss Family Robinson, Told in Words of One Syllable",
+1794,1896.0,F. Scott Fitzgerald,Tales of the Jazz Age,1922.0
+1795,1833.0,James De Mille,A Strange Manuscript Found in a Copper Cylinder,1888.0
+1796,1878.0,James Oliver Curwood,Isobel : A Romance of the Northern Trail,
+1797,,Roy Rockwood,Through Space to Mars,
+1798,1870.0,Joseph Crosby Lincoln,Cap'n Dan's Daughter,
+1799,1877.0,Elizabeth Cooper,Drusilla with a Million,
+1800,1802.0,Selina Bunbury,"Fanny, the Flower-Girl",
+1801,1721.0,T. Smollett,The Adventures of Sir Launcelot Greaves,
+1802,1721.0,T. Smollett,The Adventures of Ferdinand Count Fathom — Volume 01,
+1803,1721.0,T. Smollett,The Adventures of Ferdinand Count Fathom — Volume 02,
+1804,1721.0,T. Smollett,The Adventures of Ferdinand Count Fathom,
+1805,1856.0,H. Rider Haggard,The People of the Mist,1894.0
+1806,1759.0,Friedrich Schiller,The Ghost-Seer,1787.0
+1807,1866.0,George Barr McCutcheon,Beverly of Graustark,
+1808,1831.0,Amelia E. Barr,The Hallam Succession,
+1809,,1865- Vera,The Doctor's Daughter,
+1810,1873.0,Howard Roger Garis,The Curlytops at Uncle Frank's Ranch,
+1811,1825.0,R. D. Blackmore,Mary Anerley: A Yorkshire Tale,
+1812,1881.0,P. G. Wodehouse,The Little Warrior,
+1813,1858.0,Randall Parrish,My Lady of the North,
+1814,1880.0,Joseph Hergesheimer,Cytherea,
+1815,1827.0,Lew Wallace,The Prince of India,
+1816,1827.0,Lew Wallace,The Prince of India,
+1817,1840.0,Rosa Nouchette Carey,Esther : a book for girls,
+1818,,Alice B. Emerson,Betty Gordon in Washington,
+1819,,Josephine Chase,Grace Harlowe's Second Year at Overton College,
+1820,1881.0,Jane Abbott,Keineth,
+1821,1868.0,Arthur Colton,The Belted Seas,
+1822,1871.0,Samuel Hopkins Adams,Average Jones,
+1823,1841.0,James Baldwin,The Story of Siegfried,
+1824,1873.0,Ellen Anderson Gholson Glasgow,The Battle Ground,
+1825,1881.0,P. G. Wodehouse,The Head of Kay's,1905.0
+1826,1881.0,P. G. Wodehouse,The Gold Bat,1904.0
+1827,1891.0,Hildegard G. Frey,The Camp Fire Girls Go Motoring,
+1828,1792.0,Frederick Marryat,The Little Savage,
+1829,,Graham B. Forbes,The boys of Columbia High on the gridiron,
+1830,1854.0,L. T. Meade,The Children's Pilgrimage,
+1831,1850.0,Edward Bellamy,Miss Ludington's Sister,
+1832,1879.0,John Henry Goldfrap,The Boy Aviators in Africa,
+1833,1840.0,Edward Sylvester Ellis,The Lost Trail,
+1834,1863.0,H. L. Sayler,"The Air Ship Boys : Or, the Quest of the Aztec Treasure",
+1835,1847.0,Mary Hartwell Catherwood,Old Caravan Days,
+1836,1813.0,Christopher Pearse Cranch,The Last of the Huggermuggers,
+1837,1855.0,Marie Corelli,Temporal Power: A Study in Supremacy,
+1838,1881.0,P. G. Wodehouse,The White Feather,1907.0
+1839,,Lucy Aikin,Robinson Crusoe — in Words of One Syllable,
+1840,1771.0,Walter Scott,"Old Mortality, Volume 1.",
+1841,1771.0,Walter Scott,"Old Mortality, Volume 2.",
+1842,1771.0,Walter Scott,Old Mortality,1816.0
+1843,1771.0,Walter Scott,"The Heart of Mid-Lothian, Volume 1",
+1844,1771.0,Walter Scott,"The Heart of Mid-Lothian, Volume 2",
+1845,1771.0,Walter Scott,The Heart of Mid-Lothian,
+1846,1795.0,Daniel P. Thompson,The Rangers,
+1847,1832.0,G. A. Henty,By Pike and Dyke: a Tale of the Rise of the Dutch Republic,
+1848,1832.0,G. A. Henty,By England's Aid,
+1849,1825.0,Mary Jane Holmes,Aikenside,
+1850,1842.0,Harry Castlemon,Frank on the Lower Mississippi,
+1851,1862.0,Henry Seton Merriman,Tomaso's Fortune and Other Stories,
+1852,1881.0,P. G. Wodehouse,Tales of St. Austin's,
+1853,1881.0,P. G. Wodehouse,The Pothunters,1902.0
+1854,1881.0,P. G. Wodehouse,A Prefect's Uncle,1903.0
+1855,1868.0,Eleanor H. Porter,Across the Years,
+1856,1865.0,M. P. Shiel,The Lord of the Sea,
+1857,1771.0,Walter Scott,The Antiquary — Volume 01,
+1858,1771.0,Walter Scott,The Antiquary — Volume 02,
+1859,1771.0,Walter Scott,The Antiquary,1816.0
+1860,1832.0,G. A. Henty,Bonnie Prince Charlie : a Tale of Fontenoy and Culloden,
+1861,1865.0,Grace Livingston Hill,The City of Fire,
+1862,1771.0,Walter Scott,Rob Roy — Volume 01,
+1863,1771.0,Walter Scott,Rob Roy — Volume 02,
+1864,1771.0,Walter Scott,Rob Roy,1817.0
+1865,,Mabel Hale,The Hero of Hill House,
+1866,1832.0,G. A. Henty,Beric the Briton : a Story of the Roman Invasion,
+1867,1876.0,Sherwood Anderson,Marching Men,1917.0
+1868,1878.0,Mary Grant Bruce,Back to Billabong,
+1869,1881.0,P. G. Wodehouse,"The Swoop! or, How Clarence Saved England: A Tale of the Great Invasion",
+1870,1850.0,Edward Bellamy,Dr. Heidenhoff's Process,1880.0
+1871,1832.0,G. A. Henty,A March on London: Being a Story of Wat Tyler's Insurrection,
+1872,1831.0,Amelia E. Barr,A Daughter of Fife,
+1873,1867.0,Henry Lawson,Children of the Bush,
+1874,1832.0,G. A. Henty,The Treasure of the Incas: A Story of Adventure in Peru,
+1875,1872.0,Rupert Hughes,We Can't Have Everything: A Novel,
+1876,,Isabel Meredith,A Girl Among the Anarchists,
+1877,1628.0,Lucy Aikin,The Pilgrim's Progress in Words of One Syllable,
+1878,,Daniel Defoe,The Consolidator,
+1879,1835.0,Mark Twain,"Adventures of Huckleberry Finn, Chapters 01 to 05",
+1880,1835.0,Mark Twain,"Adventures of Huckleberry Finn, Chapters 06 to 10",
+1881,1835.0,Mark Twain,"Adventures of Huckleberry Finn, Chapters 11 to 15",
+1882,1835.0,Mark Twain,"Adventures of Huckleberry Finn, Chapters 16 to 20",
+1883,1835.0,Mark Twain,"Adventures of Huckleberry Finn, Chapters 21 to 25",
+1884,1835.0,Mark Twain,"Adventures of Huckleberry Finn, Chapters 26 to 30",
+1885,1835.0,Mark Twain,"Adventures of Huckleberry Finn, Chapters 31 to 35",
+1886,1835.0,Mark Twain,"Adventures of Huckleberry Finn, Chapters 36 to the Last",
+1887,1825.0,R. D. Blackmore,Erema,
+1888,1843.0,Henry James,What Maisie Knew,1897.0
+1889,1824.0,George MacDonald,Malcolm,
+1890,1841.0,W. H. Hudson,"The Purple Land
+Being the Narrative of One Richard Lamb's Adventures in The Banda Orientál, in South America, as Told By Himself",
+1891,1837.0,William Dean Howells,Suburban Sketches,
+1892,,Lawrence J. Leslie,The Strange Cabin on Catamount Island,
+1893,1867.0,Henry Lawson,While the Billy Boils,
+1894,1752.0,Fanny Burney,Cecilia,
+1895,1752.0,Fanny Burney,Cecilia,
+1896,1856.0,Frank Harris,Elder Conklin and Other Stories,1895.0
+1897,1835.0,Mark Twain,"The Prince and the Pauper, Part 1.",
+1898,1835.0,Mark Twain,"The Prince and the Pauper, Part 2.",
+1899,1835.0,Mark Twain,"The Prince and the Pauper, Part 3.",
+1900,1835.0,Mark Twain,"The Prince and the Pauper, Part 4.",
+1901,1835.0,Mark Twain,"The Prince and the Pauper, Part 5.",
+1902,1835.0,Mark Twain,"The Prince and the Pauper, Part 6.",
+1903,1835.0,Mark Twain,"The Prince and the Pauper, Part 7.",
+1904,1835.0,Mark Twain,"The Prince and the Pauper, Part 8.",
+1905,1835.0,Mark Twain,"The Prince and the Pauper, Part 9.",
+1906,1880.0,Joseph Hergesheimer,Linda Condon,
+1907,1824.0,George MacDonald,The Marquis of Lossie,1877.0
+1908,1797.0,Samuel Lover,Handy Andy: A Tale of Irish Life. Volume 2,
+1909,,Nathaniel Hawthorne,Doctor Grimshawe's Secret — a Romance,
+1910,1823.0,Charlotte Mary Yonge,Modern Broods,
+1911,1835.0,Mark Twain,"The Adventures of Tom Sawyer, Part 1.",
+1912,1835.0,Mark Twain,"The Adventures of Tom Sawyer, Part 2.",
+1913,1835.0,Mark Twain,"The Adventures of Tom Sawyer, Part 3.",
+1914,1835.0,Mark Twain,"The Adventures of Tom Sawyer, Part 4.",
+1915,1835.0,Mark Twain,"The Adventures of Tom Sawyer, Part 5.",
+1916,1835.0,Mark Twain,"The Adventures of Tom Sawyer, Part 6.",
+1917,1835.0,Mark Twain,"The Adventures of Tom Sawyer, Part 7.",
+1918,1835.0,Mark Twain,"The Adventures of Tom Sawyer, Part 8.",
+1919,1890.0,Christopher Morley,Kathleen,
+1920,1832.0,G. A. Henty,"Rujub, the Juggler",1893.0
+1921,1854.0,L. T. Meade,Light O' the Morning: The Story of an Irish Girl,
+1922,,Stephen Crane,"Men, Women, and Boats",
+1923,1835.0,Mark Twain,"A Connecticut Yankee in King Arthur's Court, Part 1.",
+1924,1835.0,Mark Twain,"A Connecticut Yankee in King Arthur's Court, Part 2.",
+1925,1835.0,Mark Twain,"A Connecticut Yankee in King Arthur's Court, Part 3.",
+1926,1835.0,Mark Twain,"A Connecticut Yankee in King Arthur's Court, Part 4.",
+1927,1835.0,Mark Twain,"A Connecticut Yankee in King Arthur's Court, Part 5.",
+1928,1835.0,Mark Twain,"A Connecticut Yankee in King Arthur's Court, Part 6.",
+1929,1835.0,Mark Twain,"A Connecticut Yankee in King Arthur's Court, Part 7.",
+1930,1835.0,Mark Twain,"A Connecticut Yankee in King Arthur's Court, Part 8.",
+1931,1835.0,Mark Twain,"A Connecticut Yankee in King Arthur's Court, Part 9.",
+1932,1836.0,Marietta Holley,Sweet Cicely — or Josiah Allen as a Politician,
+1933,1862.0,O. Henry,The Gift of the Magi,1906.0
+1934,1811.0,William Makepeace Thackeray,The History of Pendennis,1849.0
+1935,1789.0,Michael Scott,Tom Cringle's Log,1833.0
+1936,1881.0,P. G. Wodehouse,William Tell Told Again,1904.0
+1937,1850.0,Edward Bellamy,Equality,1897.0
+1938,1866.0,H. G. Wells,The History of Mr. Polly,
+1939,1837.0,William Dean Howells,The Leatherwood God,
+1940,,George W. Gough,The Yeoman Adventurer,
+1941,1832.0,G. A. Henty,"With Buller in Natal, Or, a Born Leader",
+1942,1841.0,Bracebridge Hemyng,Jack Harkaway and His Son's Escape from the Brigands of Greece,
+1943,1846.0,Julian Hawthorne,Archibald Malmaison,
+1944,1832.0,G. A. Henty,Among Malay Pirates : a Tale of Adventure and Peril,
+1945,,Emma Gellibrand,J. Cole,
+1946,1832.0,Hesba Stretton,Brought Home,
+1947,1837.0,William Dean Howells,Indian Summer,1886.0
+1948,,Susan Glaspell,Lifted Masks; stories,
+1949,1878.0,John Masefield,Jim Davis,
+1950,1764.0,Ann Ward Radcliffe,A Sicilian Romance,
+1951,1804.0,Nathaniel Hawthorne,"Septimius Felton, or, the Elixir of Life",
+1952,1854.0,F. Marion Crawford,An American Politician: A Novel,
+1953,1823.0,Charlotte Mary Yonge,Chantry House,
+1954,1815.0,Anthony Trollope,The Eustace Diamonds,1872.0
+1955,1823.0,Charlotte Mary Yonge,Grisly Grisell,1893.0
+1956,1841.0,W. H. Hudson,A Crystal Age,
+1957,1837.0,William Dean Howells,The Minister's Charge,
+1958,1804.0,Benjamin Disraeli,Coningsby,
+1959,1876.0,Sherwood Anderson,Poor White: A Novel,
+1960,1881.0,P. G. Wodehouse,Mike,1909.0
+1961,1884.0,Margaret Widdemer,The Wishing-Ring Man,
+1962,1843.0,Henry James,The Awkward Age,1899.0
+1963,1844.0,Margaret Sidney,The Adventures of Joel Pepper,
+1964,1825.0,R. D. Blackmore,Springhaven: A Tale of the Great War,
+1965,1876.0,Sherwood Anderson,Windy McPherson's Son,1916.0
+1966,1867.0,Henry Lawson,The Rising of the Court,
+1967,1877.0,George Allan England,Darkness and Dawn,1914.0
+1968,1881.0,P. G. Wodehouse,The Adventures of Sally,
+1969,1848.0,James Otis,Richard of Jamestown : a Story of the Virginia Colony,
+1970,1811.0,William Makepeace Thackeray,The Newcomes: Memoirs of a Most Respectable Family,
+1971,1819.0,George Eliot,Daniel Deronda,1876.0
+1972,1850.0,Edward Bellamy,The Duke of Stockbridge: A Romance of Shays' Rebellion,
+1973,1878.0,Lord Dunsany,The Book of Wonder,
+1974,1848.0,James Otis,Toby Tyler,
+1975,,Amy Brooks,Dorothy Dainty at Glenmore,
+1976,1815.0,Anthony Trollope,The Three Clerks,1857.0
+1977,1859.0,Irving Bacheller,The Master of Silence: A Romance,
+1978,1865.0,Robert W. Chambers,The Fighting Chance,
+1979,1840.0,Edward Sylvester Ellis,The Daughter of the Chieftain : the Story of an Indian Girl,
+1980,1844.0,Charles Felton Pidgin,Further Adventures of Quincy Adams Sawyer and Mason Corner Folks,
+1981,1837.0,William Dean Howells,Annie Kilburn : a Novel,
+1982,1840.0,Edward Sylvester Ellis,The Huge Hunter,
+1983,1858.0,Randall Parrish,Keith of the Border: A Tale of the Plains,
+1984,1805.0,H. C. Andersen,"O. T., A Danish Romance",
+1985,1862.0,Edith Wharton,Crucial Instances,
+1986,1862.0,Edith Wharton,Sanctuary,1903.0
+1987,1882.0,Katharine Newlin Burt,Snow-Blind,
+1988,1878.0,Upton Sinclair,King Coal : a Novel,
+1989,1803.0,Edward Bulwer Lytton Lytton,The Caxtons: A Family Picture,
+1990,1803.0,Edward Bulwer Lytton Lytton,Zicci: A Tale,
+1991,1803.0,Edward Bulwer Lytton Lytton,Eugene Aram,
+1992,1803.0,Edward Bulwer Lytton Lytton,Pelham,
+1993,1803.0,Edward Bulwer Lytton Lytton,Devereux,
+1994,1803.0,Edward Bulwer Lytton Lytton,The Disowned,
+1995,1803.0,Edward Bulwer Lytton Lytton,Ernest Maltravers,
+1996,1803.0,Edward Bulwer Lytton Lytton,Kenelm Chillingly,
+1997,1803.0,Edward Bulwer Lytton Lytton,What Will He Do with It?,
+1998,1803.0,Edward Bulwer Lytton Lytton,Harold : the Last of the Saxon Kings,
+1999,1803.0,Edward Bulwer Lytton Lytton,Lucretia,
+2000,1803.0,Edward Bulwer Lytton Lytton,A Strange Story,
+2001,1803.0,Edward Bulwer Lytton Lytton,The Last of the Barons,
+2002,1803.0,Edward Bulwer Lytton Lytton,Paul Clifford,
+2003,1803.0,Edward Bulwer Lytton Lytton,Godolphin,
+2004,1803.0,Edward Bulwer Lytton Lytton,Falkland,
+2005,1852.0,Robert Grant,The Law-Breakers and Other Stories,
+2006,1839.0,1839-1908 Ouida,A Dog of Flanders,
+2007,1878.0,Upton Sinclair,"The Journal of Arthur Stirling : (""The Valley of the Shadow"")",
+2008,,Daniel Defoe,Of Captain Mission,
+2009,1859.0,Earle Ashley Walcott,Blindfolded,
+2010,1852.0,George Moore,Memoirs of My Dead Life,
+2011,1850.0,Laura Elizabeth Howe Richards,Captain January,
+2012,1837.0,William Dean Howells,The Lady of the Aroostook,
+2013,,Sherred Willcox Adams,Five Little Friends,
+2014,1863.0,Annie F. Johnston,Georgina of the Rainbows,
+2015,,Nellie M. Leonard,"Grand-Daddy Whiskers, M.D.",
+2016,,James Cowan,Daybreak: A Romance of an Old World,
+2017,1819.0,Charles Kingsley,"Hereward, the Last of the English",1866.0
+2018,1804.0,Benjamin Disraeli,The Voyage of Captain Popanilla,
+2019,1796.0,Thomas Chandler Haliburton,The Attaché,
+2020,1796.0,Thomas Chandler Haliburton,The Attaché,
+2021,1796.0,Thomas Chandler Haliburton,The Attaché,
+2022,1867.0,J. Stewart Barney,L.P.M. : The End of the Great War,
+2023,1841.0,W. H. Hudson,Fan : The Story of a Young Girl's Life,
+2024,1832.0,G. A. Henty,When London Burned : a Story of Restoration Times and the Great Fire,
+2025,1867.0,David Graham Phillips,The Deluge,
+2026,1836.0,Marietta Holley,Samantha on the Woman Question,
+2027,1804.0,Benjamin Disraeli,Lothair,1870.0
+2028,1883.0,Beatrice Forbes-Robertson Hale,The Nest Builder: A Novel,
+2029,1837.0,William Dean Howells,A Foregone Conclusion,
+2030,1804.0,Benjamin Disraeli,The Rise of Iskander,
+2031,1880.0,Joseph Hergesheimer,The Happy End,1919.0
+2032,,Roy Rockwood,Jack North's Treasure Hunt,
+2033,1861.0,Frederic Remington,The Way of an Indian,
+2034,1862.0,Joseph A. Altsheler,The Sword of Antietam: A Story of the Nation's Crisis,
+2035,,Juliana Horatia Ewing,"Jackanapes, Daddy Darwin's Dovecot and Other Stories",
+2036,1850.0,Ella Wheeler Wilcox,An Ambitious Man,
+2037,1861.0,Frederic Remington,Crooked Trails,
+2038,1832.0,G. A. Henty,Tales of Daring and Danger,
+2039,1840.0,Edward Sylvester Ellis,"The Life of Kit Carson: Hunter, Trapper, Guide, Indian Agent and Colonel U.S.A.",
+2040,1864.0,Richard Harding Davis,In the Fog,
+2041,1884.0,Hugh Walpole,Fortitude,
+2042,,Wilkie Collins,Blind Love,
+2043,1824.0,Wilkie Collins,The Dead Alive,2005.0
+2044,1824.0,Wilkie Collins,Heart and Science: A Story of the Present Time,1883.0
+2045,1824.0,Wilkie Collins,Hide and Seek,
+2046,1824.0,Wilkie Collins,The Fallen Leaves,
+2047,1814.0,Charles Reade,A Terrible Temptation: A Story of To-Day,
+2048,,Amy; Davis Prentice,The Gray Goose's Story,
+2049,,Amy Prentice,Mouser Cat's Story,
+2050,1804.0,Benjamin Disraeli,Endymion,1880.0
+2051,1875.0,Rafael Sabatini,The Historical Nights' Entertainment: Second Series,
+2052,1859.0,Arthur Conan Doyle,The Mystery of Cloomber,1889.0
+2053,1789.0,James Fenimore Cooper,The Pilot: A Tale of the Sea,1823.0
+2054,1771.0,Walter Scott,The Fair Maid of Perth,1828.0
+2055,1867.0,David Graham Phillips,The Great God Success: A Novel,
+2056,1856.0,Francis Lynde,A Fool for Love,
+2057,1851.0,Humphry Ward,The History of David Grieve,
+2058,1843.0,Henry James,A Passionate Pilgrim,1871.0
+2059,1843.0,Henry James,Louisa Pallant,
+2060,1819.0,Herman Melville,"Redburn. His First Voyage
+Being the Sailor Boy Confessions and Reminiscences of the Son-Of-A-Gentleman in the Merchant Navy",
+2061,1880.0,E. H. Young,The Misses Mallett (The Bridge Dividing),
+2062,1884.0,Hugh Walpole,The Cathedral: A Novel,
+2063,,Gertrude W. Morrison,"The Girls of Central High Aiding the Red Cross
+Or, Amateur Theatricals for a Worthy Cause",
+2064,1879.0,Edgar Franklin,Mr. Hawkins' Humorous Adventures,
+2065,1880.0,E. M. Hull,The shadow of the East,
+2066,1865.0,Rudyard Kipling,The Man Who Would Be King,1888.0
+2067,1853.0,Henry Clarke,Miss Merivale's Mistake,
+2068,1868.0,H. Irving Hancock,The Young Engineers in Arizona,
+2069,1832.0,G. A. Henty,Colonel Thorndyke's Secret,1898.0
+2070,1881.0,P. G. Wodehouse,My Man Jeeves,1919.0
+2071,1878.0,Jeffery Farnol,The Geste of Duke Jocelyn,
+2072,1881.0,P. G. Wodehouse,"The Politeness of Princes, and Other School Stories",
+2073,1845.0,Charles Willing Beale,The Ghost of Guir House,
+2074,1878.0,Lord Dunsany,Time and the Gods,
+2075,1856.0,H. Rider Haggard,The Ghost Kings,1908.0
+2076,1832.0,Louisa May Alcott,The Mysterious Key and What It Opened,
+2077,1881.0,P. G. Wodehouse,A Wodehouse Miscellany: Articles & Stories,
+2078,1872.0,H. A. Cody,The Fourth Watch,
+2079,1851.0,Garrett Putman Serviss,The Moon Metal,
+2080,1824.0,George MacDonald,Mary Marston,1881.0
+2081,1837.0,William Dean Howells,A Modern Instance,1882.0
+2082,1803.0,Edward Bulwer Lytton Lytton,The Pilgrims of the Rhine,
+2083,,Laura Lee Hope,The Outdoor Girls at Wild Rose Lodge,
+2084,1847.0,Mary Hallock Foote,The Desert and the Sown,
+2085,1771.0,Charles Brockden Brown,Edgar Huntly,1799.0
+2086,1837.0,William Dean Howells,Through the Eye of the Needle: A Romance,
+2087,1802.0,Catharine Parr Strickland Traill,Canadian Crusoes: A Tale of the Rice Lake Plains,
+2088,1831.0,Amelia Ann Blanford Edwards,Monsieur Maurice,
+2089,1832.0,Louisa May Alcott,Pauline's Passion and Punishment,
+2090,1875.0,Samuel Merwin,The Short Line War,
+2091,1862.0,Carolyn Wells,Ptomaine Street: The Tale of Warble Petticoat,
+2092,1859.0,Arthur Conan Doyle,The Doings of Raffles Haw,1892.0
+2093,1898.0,Stephen Vincent Benét,Young People's Pride: A Novel,
+2094,1771.0,Charles Brockden Brown,Jane Talbot,
+2095,1853.0,Hall Caine,The Christian: A Story,
+2096,1640.0,Aphra Behn,Love-Letters Between a Nobleman and His Sister,1684.0
+2097,,Roualeyn Gordon-Cumming,Forest and Frontiers,
+2098,,I. T. Thurston,The Bishop's Shadow,
+2099,1830.0,John Esten Cooke,Mohun,
+2100,1863.0,William John Locke,The Mountebank,
+2101,1862.0,L. Adams Beck,"""The Ladies"": A Shining Constellation of Wit and Beauty",
+2102,,Mary Austin,"The Sturdy Oak
+A composite Novel of American Politics by fourteen American authors",
+2103,1865.0,Robert W. Chambers,Between Friends,
+2104,1834.0,Ch. Führer,The Mysteries of Montreal: Being Recollections of a Female Physician,
+2105,1837.0,William Dean Howells,A Traveler from Altruria: Romance,
+2106,,Antonio Fogazzaro,The Saint,1905.0
+2107,1869.0,Stephen Leacock,Frenzied Fiction,1919.0
+2108,1861.0,Maurice Hewlett,Rest Harrow: A Comedy of Resolution,
+2109,1865.0,Robert W. Chambers,The King in Yellow,1895.0
+2110,1847.0,Mary Hallock Foote,"In Exile, and Other Stories",
+2111,,Mark Twain,Eve's Diary,1906.0
+2112,,Mark Twain,"Eve's Diary, Part 1",
+2113,,Mark Twain,"Eve's Diary, Part 2",
+2114,,Mark Twain,"Eve's Diary, Part 3",
+2115,1767.0,Maria Edgeworth,"Tales and Novels — Volume 10
+Helen",
+2116,1847.0,Mary Hallock Foote,"A Touch of Sun, and Other Stories",
+2117,1864.0,Robert Hichens,The Woman with the Fan,
+2118,,James Raymond Elderdice,"T. Haviland Hicks, Senior",
+2119,1824.0,George MacDonald,The Seaboard Parish Volume 1,
+2120,1824.0,George MacDonald,The Seaboard Parish Volume 2,
+2121,1824.0,George MacDonald,The Seaboard Parish Volume 3,
+2122,1824.0,George MacDonald,The Seaboard Parish,1868.0
+2123,1852.0,Lucas Malet,The Far Horizon,
+2124,1833.0,James De Mille,Cord and Creese,
+2125,1832.0,G. A. Henty,By Sheer Pluck: A Tale of the Ashanti War,1884.0
+2126,1806.0,Charles James Lever,"Charles O'Malley, The Irish Dragoon, Volume 1",
+2127,1860.0,J. M. Barrie,Auld Licht Idyls,
+2128,1832.0,J. H. Riddell,The Uninhabited House,
+2129,1846.0,Stanley Waterloo,The Story of Ab: A Tale of the Time of the Cave Man,
+2130,1824.0,George William Curtis,Prue and I,
+2131,1789.0,James Fenimore Cooper,Afloat and Ashore: A Sea Tale,
+2132,1865.0,Rudyard Kipling,Indian Tales,
+2133,1876.0,Margaret Vandercook,The Camp Fire Girls at Sunrise Hill,
+2134,1832.0,G. A. Henty,In the Heart of the Rockies: A Story of Adventure in Colorado,
+2135,1806.0,Charles James Lever,"Charles O'Malley, The Irish Dragoon, Volume 2",
+2136,1832.0,Louisa May Alcott,Behind a Mask,
+2137,1825.0,Bayard Taylor,The Story of Kennett,
+2138,1850.0,Robert Barr,The Face and the Mask,
+2139,1863.0,Cleveland Moffett,"The Conquest of America: A Romance of Disaster and Victory, U.S.A., 1921 A.D.",
+2140,1853.0,Young Ewing Allison,The Delicious Vice,
+2141,1832.0,Louisa May Alcott,"The Abbot's Ghost, or Maurice Treherne's Temptation: A Christmas Story",
+2142,1833.0,James De Mille,The Living Link: A Novel,
+2143,1767.0,Maria Edgeworth,"Tales and Novels — Volume 02
+Popular Tales",
+2144,1859.0,Arthur Conan Doyle,The Last Galley; Impressions and Tales,
+2145,1878.0,Mary Grant Bruce,A Little Bush Maid,
+2146,1832.0,G. A. Henty,Through the Fray: A Tale of the Luddite Riots,1886.0
+2147,,Jonathan Dunn,The Revolutions of Time,
+2148,1857.0,Joseph Conrad,Gaspar Ruiz,1908.0
+2149,1851.0,Humphry Ward,Robert Elsmere,
+2150,1869.0,Booth Tarkington,In the Arena: Stories of Political Life,
+2151,1832.0,G. A. Henty,Wulf the Saxon: A Story of the Norman Conquest,
+2152,1834.0,William Morris,The Water of the Wondrous Isles,1897.0
+2153,1862.0,Henry Seton Merriman,From One Generation to Another,
+2154,1767.0,Maria Edgeworth,"Tales and Novels — Volume 01
+Moral Tales",
+2155,1832.0,G. A. Henty,True to the Old Flag: A Tale of the American War of Independence,
+2156,1869.0,Booth Tarkington,The Magnificent Ambersons,1918.0
+2157,1867.0,Robert Neilson Stephens,Tales from Bohemia,
+2158,1819.0,Susan Warner,Queechy,
+2159,1824.0,George MacDonald,There & Back,
+2160,1789.0,James Fenimore Cooper,Satanstoe,1845.0
+2161,,William Harvey Christie,A Love Story,
+2162,1824.0,George MacDonald,A Rough Shaking,
+2163,1789.0,James Fenimore Cooper,The Wept of Wish-Ton-Wish,
+2164,1815.0,Anthony Trollope,Nina Balatka,
+2165,1824.0,George MacDonald,The Flight of the Shadow,
+2166,1824.0,George MacDonald,The Portent and Other Stories,
+2167,1885.0,D. H. Lawrence,"England, My England",
+2168,1824.0,George MacDonald,Home Again,
+2169,1824.0,George MacDonald,"Adela Cathcart, Volume 2",
