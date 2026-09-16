@@ -8,110 +8,96 @@ import spacy
 nlp = spacy.load('en_core_web_sm', disable=['parser', 'ner', 'lemmatizer'])
 nlp.add_pipe('sentencizer')
 import joblib
+import shap
+import numpy as np
+import matplotlib.pyplot as plt
 
 def get_row_count_from_folder(path=Path(r"C:\Users\menac\PycharmProjects\Text Analysis\stylo")):
     return sum([int(item.stem.split('_')[-1]) for item in path.iterdir()])
 
-def get_file_count_from_folder(path=Path(r"C:\Users\menac\PycharmProjects\Text Analysis\stylo")):
-    return len([1 for item in path.iterdir()])
+data_prep = joblib.load('data_prep.pkl')
+names_raw = data_prep.named_steps['columns'].named_transformers_['features'].get_feature_names_out()
+names = [name.replace('stylo__', '').replace('tfidf_char__', '').replace('tfidf__', '') for name in names_raw]
+mqr = joblib.load('mqr.pkl')
+median_model = mqr.estimators_[2]
+explainer = shap.TreeExplainer(median_model, feature_names = names)
+display_scaler = joblib.load('display_scaler.pkl')
 
-def stylo(X, partition=False, folder_path=r"C:\Users\menac\PycharmProjects\Text Analysis\stylo", batch_size=32,
-          n_batches=100, to_parquet=True):
-    folder_path = Path(folder_path)
-    to_keep = ['NOUN', 'ADP', 'VERB', 'PRON', 'ADV', 'PART', 'NUM', 'DET',
-               'SCONJ', 'INTJ', 'PROPN', 'AUX', 'ADJ', 'CCONJ', ',', '.', '“', '!',
-               '”', '(', ')', '?', ':', '—', '-', ';', '‘', '’']
-    rows = []
-
-    if (type(X) == pd.Series):
-        iterable = X
-    elif (type(X) == pd.DataFrame):
-        iterable = X['text']
-
-    i = get_row_count_from_folder(folder_path)
-    iterable = iterable[i:]
-
-    for doc in tqdm(nlp.pipe(iterable, n_process=1, batch_size=batch_size), total=len(iterable)):
-        pos = Counter([token.pos_ for token in doc])
-        word_count = len(doc) - pos.get('SPACE', 0) - pos.get('PUNCT', 0) - pos.get('X', 0) - pos.get('SYM', 0)
-        unique_count = len(
-            set([token.text.lower() for token in doc if token.pos_ not in ['SPACE', 'X', 'PUNCT', 'SYM']]))
-        sent_count = sum([1 for _ in doc.sents])
-        punct = Counter([token.text for token in doc if token.pos_ == 'PUNCT'])
-        raw = dict(pos + punct)
-        row = {key: raw[key] / word_count for key in raw.keys() if key in to_keep}
-        row['uwc'] = unique_count / word_count
-        row['wps'] = word_count / sent_count
-        rows.append(row)
-        if len(rows) % (batch_size * n_batches) == 0:
-            df = pd.DataFrame(rows)
-            df = df.fillna(0)
-            file_count = get_file_count_from_folder(folder_path)
-            if to_parquet:
-                df.to_parquet(folder_path / f"{file_count}_{len(rows)}.parquet")
-                print(f"wrote {file_count}_{len(rows)}.parquet")
-            rows = []
-
-    if len(rows) % batch_size * n_batches != 0:
-        df = pd.DataFrame(rows)
-        df = df.fillna(0)
-        file_count = get_file_count_from_folder(folder_path)
-        if to_parquet:
-            df.to_parquet(folder_path / f"{file_count}_{len(rows)}.parquet", index=True)
-            rows = []
-
-    return df
-
-
-model = joblib.load("ridge.pkl")
-
-def everything(x_raw, model):
+def prep_input(x_raw):
     if len(x_raw)==0:
-        return "Waiting for Input"
+        return "Waiting for input"
     if len(x_raw) < 1000:
-        return "Please provide a longer input."
-    x = pd.Series(x_raw)
-    orig_df = stylo(x, to_parquet=False)
-    extra_cols = list(set(['NOUN', 'ADP', 'VERB', 'PRON', 'ADV', 'PART', 'NUM', 'DET',
-       'INTJ', 'PROPN', 'AUX', 'SCONJ', 'ADJ', 'CCONJ', ',', '.', '“', '!',
-       '”', '(', ')', '?', ':', '—', '-', ';', '‘', '’', 'uwc', 'wps']) - set(orig_df.columns))
-    extra_df = pd.DataFrame(columns = extra_cols, data=[[0]*len(extra_cols)])
-    df = pd.concat([orig_df,extra_df], axis=1).sort_index(axis=1)
-    return int(model.predict(df)[0])
+        return "Min length is 1000 characters."
 
+    features = data_prep.transform(pd.DataFrame([x_raw], columns=['text']))
+
+    return features
+
+def predict(features):
+    print(features)
+    pred_raw, pi = mqr.predict(features)
+    pred = pred_raw[0]
+    low, high = pi[0][0][0], pi[0][1][0]
+    return (pred, low, high)
+
+
+def show_shap(features):
+    shap_values = explainer(features)
+    shap_values.display_data = display_scaler.transform(features)
+    shap.waterfall_plot(shap_values[0], show=False)
 
 
 st.set_page_config(layout='wide')
-st.title("Predict the Birth Year")
+st.title("Predict Author Birth Year From Text Using Machine Learning")
 r1c1, r1c2, r1c3, r1c4 = st.columns([1, 1, 1, 1])
 with r1c1:
     st.write("A histogram-based gradient boosted regressor to predict author's birth year based on text, "
-             "using stylometric features and tfidf words and characters.")
+             "using stylometric features and tfidf words and characters. Included is a Shap analysis, "
+             "both model-wide and at text input level, as well as 80% confidence intervals "
+             "using Conformalized Quantile Regression.")
 with r1c3:
-    st.metric('MAE', "25 years")
+    st.metric('MAE', "14.83 years")
 with r1c4:
-    st.metric('R2', "51%")
+    st.metric('R2', "50.4%")
 
 r2c1, r2c2 = st.columns([1, 1])
 with r2c1:
-    img = Image.open("hist.png")
+    img = Image.open(r"charts/books_by_author.png")
     st.image(img,  width = 350)
 with r2c2:
-    img = Image.open("hist.png")
+    img = Image.open("charts/shap.png")
     st.image(img,  width = 350)
 
 st.divider()
 
-r3c1, r3c2, r3c3 = st.columns([1, 1, 1])
-with r3c1:
-    input_text = st.text_input("Enter your text...")
-    st.button("Submit Text")
-    prediction = everything(input_text, model)
+d1, d2, d3 = st.columns([1, 1, 1])
+r3c1=d1.empty()
+r3c2=d2.empty()
+r3c3=d3.empty()
 
 
-with r3c2:
-    st.metric("Prediction", prediction)
+@st.fragment
+def run_dynamic():
+    with r3c1.container():
+        input_text = st.text_input("Enter your text...")
+        st.button("Submit Text")
+        features = prep_input(input_text)
 
-with r3c3:
-    img = Image.open("hist.png")
-    st.image(img,  width = 350)
+
+    with r3c2:
+        if input_text:
+            if type(features) == np.ndarray:
+                pred, low, high = predict(features)
+                st.metric("Prediction", f"{round(pred)} ({round(low)} - {round(high)})")
+            else:
+                st.metric("Prediction", features)
+
+
+    with r3c3:
+        if input_text:
+            if type(features) == np.ndarray:
+                figure = plt.figure()
+                show_shap(features)
+                st.pyplot(figure)
+
+run_dynamic()

@@ -1,1 +1,1 @@
-A machine learning app to estimate an author's birth year based on his textual works.
+A machine learning app to estimate an author's birth year based on his text.
