@@ -2,8 +2,6 @@ import streamlit as st
 from PIL import Image
 import pandas as pd
 from pathlib import Path
-from collections import Counter
-from tqdm import tqdm
 import spacy
 nlp = spacy.load('en_core_web_sm', disable=['parser', 'ner', 'lemmatizer'])
 nlp.add_pipe('sentencizer')
@@ -46,44 +44,48 @@ def show_shap(features):
     shap_values.display_data = display_scaler.transform(features)
     shap.waterfall_plot(shap_values[0], show=False)
 
+@st.cache_resource
+def display_books_dist():
+    img = Image.open(r"charts/books_by_author.png")
+    return img
+
+@st.cache_resource
+def display_shap_training():
+    img = Image.open("charts/shap.png")
+    return img
+
 
 st.set_page_config(layout='wide')
 st.title("Predict Author Birth Year From Text Using Machine Learning")
-r1c1, r1c2, r1c3, r1c4 = st.columns([1, 1, 1, 1])
+r1c1, _1, r1c2, r1c3, _2 , r1c4 = st.columns([1.2, 0.2, 0.8, 1.2, 0.2, 1.2])
 with r1c1:
     st.write("A histogram-based gradient boosted regressor to predict author's birth year based on text, "
              "using stylometric features and tfidf words and characters. Included is a Shap analysis, "
-             "both model-wide and at text input level, as well as 80% confidence intervals "
+             "both model-wide and at text input level, as well` as 80% confidence intervals "
              "using Conformalized Quantile Regression.")
-with r1c3:
+with r1c2:
     st.metric('MAE', "14.83 years")
-with r1c4:
     st.metric('R2', "50.4%")
-
-r2c1, r2c2 = st.columns([1, 1])
-with r2c1:
-    img = Image.open(r"charts/books_by_author.png")
+with r1c3:
+    img = display_books_dist()
     st.image(img,  width = 350)
-with r2c2:
+with r1c4:
     img = Image.open("charts/shap.png")
     st.image(img,  width = 350)
 
+
 st.divider()
 
-d1, d2, d3 = st.columns([1, 1, 1])
-r3c1=d1.empty()
-r3c2=d2.empty()
-r3c3=d3.empty()
+r3c1, r3c2, r3c3 = st.columns([1, 1, 1])
 
 
-@st.fragment
-def run_dynamic():
-    with r3c1.container():
-        input_text = st.text_input("Enter your text...")
-        st.button("Submit Text")
-        features = prep_input(input_text)
+with r3c1:
+    input_text = st.text_input("Enter your text...")
+    st.button("Submit Text")
 
 
+with st.spinner('Processing'):
+    features = prep_input(input_text)
     with r3c2:
         if input_text:
             if type(features) == np.ndarray:
@@ -100,4 +102,3 @@ def run_dynamic():
                 show_shap(features)
                 st.pyplot(figure)
 
-run_dynamic()
