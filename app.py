@@ -61,8 +61,8 @@ r1c1, _1, r1c2, r1c3, _2 , r1c4 = st.columns([1.2, 0.2, 0.8, 1.2, 0.2, 1.2])
 with r1c1:
     st.write("A histogram-based gradient boosted regressor to predict author's birth year based on text, "
              "using stylometric features and tfidf words and characters. Included is a Shap analysis, "
-             "both model-wide and at text input level, as well` as 80% confidence intervals "
-             "using Conformalized Quantile Regression.")
+             "both model-wide and at text input level, as well as 80% confidence intervals "
+             "using Conformalized Quantile Regression. Try it yourself below.")
 with r1c2:
     st.metric('MAE', "14.83 years")
     st.metric('R2', "50.4%")
