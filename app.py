@@ -42,7 +42,7 @@ def predict(features):
 def show_shap(features):
     shap_values = explainer(features)
     shap_values.display_data = display_scaler.transform(features)
-    shap.waterfall_plot(shap_values[0], show=False)
+    shap.waterfall_plot(shap_values[0], max_display=7, show=False)
 
 @st.cache_resource
 def display_books_dist():
@@ -56,22 +56,25 @@ def display_shap_training():
 
 
 st.set_page_config(layout='wide')
-st.title("Predict Author Birth Year From Text Using Machine Learning")
+st.title("Predict Author Birth Year From Text")
 r1c1, _1, r1c2, r1c3, _2 , r1c4 = st.columns([1.2, 0.2, 0.8, 1.2, 0.2, 1.2])
 with r1c1:
     st.write("A histogram-based gradient boosted regressor to predict author's birth year based on text, "
-             "using stylometric features and tfidf words and characters. Included is a Shap analysis, "
+             "using stylometric features and tfidf words and characters, utilizing Bayesian Hyperparameter Tuning (Optuna). Dataset was 2000 books "
+             "and 461 authors from Project Gutenberg. Included is a Shap analysis, "
              "both model-wide and at text input level, as well as 80% confidence intervals "
-             "using Conformalized Quantile Regression. Try it yourself below.")
+             "using Conformalized Quantile Regression.  Try it with your own text down below, or use the demo.")
 with r1c2:
-    st.metric('MAE', "14.83 years")
-    st.metric('R2', "50.4%")
+    st.metric('MAE', "14.83 years", '9.53 years better than median')
+    st.metric('R$^2$', "50.4%")
+    st.metric('CQR 80% PI Coverage', "73.4%")
+    st.caption('Metrics computed on GroupKFold on author')
 with r1c3:
     img = display_books_dist()
     st.image(img,  width = 350)
 with r1c4:
     img = Image.open("charts/shap.png")
-    st.image(img,  width = 350)
+    st.image(img, width = 350, output_format='PNG')
 
 
 st.divider()
@@ -80,8 +83,14 @@ r3c1, r3c2, r3c3 = st.columns([1, 1, 1])
 
 
 with r3c1:
-    input_text = st.text_input("Enter your text...")
-    st.button("Submit Text")
+    input_text = st.text_input("Enter your text.")
+    st.button("Submit Text", type='primary')
+
+    try_finley = st.button('Try with Elsie At Nantucket, by Martha Finley (1827-1909)', type='secondary')
+    if try_finley:
+        with open(r"example_texts/martha_finley_elsie_nantucket_ch7.txt", 'r') as f:
+            input_text = f.read()
+
 
 
 with st.spinner('Processing'):
@@ -93,6 +102,7 @@ with st.spinner('Processing'):
                 st.metric("Prediction", f"{round(pred)} ({round(low)} - {round(high)})")
             else:
                 st.metric("Prediction", features)
+
 
 
     with r3c3:
