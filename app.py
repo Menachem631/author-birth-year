@@ -54,10 +54,24 @@ def display_shap_training():
     img = Image.open("charts/shap.png")
     return img
 
+@st.cache_resource
+def display_pred_vs_actual():
+    img = Image.open("charts/actual_vs_pred.png")
+    return img
+
+@st.cache_resource
+def display_pi_width():
+    img = Image.open("charts/pi_width.png")
+    return img
+
+@st.cache_resource
+def display_error_era():
+    img = Image.open("charts/error_by_era.png")
+    return img
 
 st.set_page_config(layout='wide')
 st.title("Predict Author Birth Year From Text")
-r1c1, _1, r1c2, r1c3, _2 , r1c4 = st.columns([1.2, 0.2, 0.8, 1.2, 0.2, 1.2])
+r1c1, _1, r1c2, r1c3 = st.columns([1.2, 0.2, 0.8, 2.6])
 with r1c1:
     st.write("A histogram-based gradient boosted regressor to predict author's birth year based on text, "
              "using stylometric features and tfidf words and characters, utilizing Bayesian Hyperparameter Tuning (Optuna). Dataset was 2000 books "
@@ -68,13 +82,30 @@ with r1c2:
     st.metric('MAE', "14.83 years", '9.53 years better than median')
     st.metric('R$^2$', "50.4%")
     st.metric('CQR 80% PI Coverage', "73.4%")
-    st.caption('Metrics computed on GroupKFold on author')
+    st.caption('Metrics computed on test set of 77 authors born between 1737 and 1892. No author leakage between train and test sets.')
+
 with r1c3:
-    img = display_books_dist()
-    st.image(img,  width = 350)
-with r1c4:
-    img = Image.open("charts/shap.png")
-    st.image(img, width = 350, output_format='PNG')
+
+    options = ["Shap", "Training Dist.", "Pred Vs Actual", "Error By Era", "PI Width"]
+    selection = st.segmented_control(
+        "Chart", options, default='Shap'
+    )
+    if selection == 'Shap':
+        img = display_shap_training()
+        st.image(img, width = 400, output_format='PNG')
+    elif selection == 'Training Dist.':
+        img = display_books_dist()
+        st.image(img, width=400)
+    elif selection == 'Pred Vs Actual':
+        img = display_pred_vs_actual()
+        st.image(img, width=400, output_format='PNG')
+    elif selection == 'Error By Era':
+        img = display_error_era()
+        st.image(img, width=400, output_format='PNG')
+    elif selection == 'PI Width':
+        img = display_pi_width()
+        st.image(img, width=400, output_format='PNG')
+
 
 
 st.divider()
@@ -83,13 +114,21 @@ r3c1, r3c2, r3c3 = st.columns([1, 1, 1])
 
 
 with r3c1:
-    input_text = st.text_input("Enter your text.")
+    input_text = st.text_area("Enter your text. (Minimum 1000 characters)", height=20)
     st.button("Submit Text", type='primary')
 
-    try_finley = st.button('Try with Elsie At Nantucket, by Martha Finley (1827-1909)', type='secondary')
-    if try_finley:
-        with open(r"example_texts/martha_finley_elsie_nantucket_ch7.txt", 'r') as f:
-            input_text = f.read()
+    r3c1p1, r3c1p2 = st.columns([1, 1])
+
+    with r3c1p1:
+        try_finley = st.button('Try Finley (b. 1827)', type='secondary')
+        if try_finley:
+            with open(r"example_texts/martha_finley_elsie_nantucket_ch7.txt", 'r') as f:
+                input_text = f.read()
+    with r3c1p2:
+        try_barnes = st.button('Try Barnes (b. 1654)', type='secondary')
+        if try_barnes:
+            with open(r"example_texts/joshua_barnes_gerania.txt", 'r') as f:
+                input_text = f.read()
 
 
 
@@ -111,4 +150,5 @@ with st.spinner('Processing'):
                 figure = plt.figure()
                 show_shap(features)
                 st.pyplot(figure)
+
 
