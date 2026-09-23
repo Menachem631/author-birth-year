@@ -1,4 +1,5 @@
 [theme]
 primaryColor = 'royalblue'
-borderColor = 'blue'
-metricValueFontSize = '20px'
+borderColor = 'royalblue'
+metricValueFontSize = '18px'
+headingFontSizes = ["1.4rem", "1.2rem", "1rem"]
