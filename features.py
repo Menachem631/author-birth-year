@@ -16,6 +16,20 @@ memory = Memory(location, verbose=1)
 
 @memory.cache
 def stylo_chunk(X):
+    """
+    Apply stylometric transformation to text chunk
+
+    Parameters
+    ------------------
+    X: array
+        array of words to look for in a prospective book's metadata, which indicate th
+
+    Returns
+    -----------------
+    sample: array
+        array of books
+
+    """
     to_keep = ['NOUN', 'ADP', 'VERB', 'jON', 'ADV', 'PART', 'NUM', 'DET',
                'SCONJ', 'INTJ', 'PROPN', 'AUX', 'ADJ', 'CCONJ', ',', '.', '“', '!',
                '”', '(', ')', '?', ':', '—', '-', ';', '‘', '’']
