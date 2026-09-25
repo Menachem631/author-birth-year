@@ -21,15 +21,17 @@ def stylo_chunk(X):
 
     Parameters
     ------------------
-    X: array
-        array of words to look for in a prospective book's metadata, which indicate th
+    X: pd.Series | pd.DataFrame
+        pandas Series with text passages, or pandas DataFrame with text column with the same.
 
     Returns
     -----------------
-    sample: array
-        array of books
+    sample: pd.DataFrame
+        pandas DataFrame with normalized parts of speech counts, punctuation counts, unique word counts and words
+        per sentence.
 
     """
+    #parts of speech of interest
     to_keep = ['NOUN', 'ADP', 'VERB', 'jON', 'ADV', 'PART', 'NUM', 'DET',
                'SCONJ', 'INTJ', 'PROPN', 'AUX', 'ADJ', 'CCONJ', ',', '.', '“', '!',
                '”', '(', ')', '?', ':', '—', '-', ';', '‘', '’']
@@ -49,11 +51,15 @@ def stylo_chunk(X):
         sent_count = sum([1 for _ in doc.sents])
         punct = Counter([token.text for token in doc if token.pos_ == 'PUNCT'])
         raw = dict(pos + punct)
+
+        #normalize counts
         row = {key: raw[key] / word_count for key in raw.keys() if key in to_keep}
         row['uwc'] = unique_count / word_count
         row['wps'] = word_count / sent_count
         rows.append(row)
         df = pd.DataFrame(rows)
+
+        #ensure all expected columns are present. If not, add and fill with 0.
         add_columns = set(to_keep) - set(df.columns)
         for col in add_columns:
             df[col] = np.nan
@@ -62,6 +68,23 @@ def stylo_chunk(X):
     return df
 
 def stylo(X, chunksize = 320):
+    """
+    Apply stylometric transformation to text chunk
+
+    Parameters
+    ------------------
+    X: pd.Series | pd.DataFrame
+        pandas Series with text passages, or pandas DataFrame with text column with the same.
+    chunksize: int
+        how many passages in each chunk
+
+    Returns
+    -----------------
+    sample: pd.DataFrame
+        pandas DataFrame with normalized parts of speech counts, punctuation counts, unique word counts and words
+        per sentence.
+
+    """
     chunks = np.array_split(X, np.ceil(len(X)/chunksize))
     results = pd.DataFrame()
     for chunk in chunks:
@@ -70,6 +93,10 @@ def stylo(X, chunksize = 320):
     return results
 
 class CleanText(BaseEstimator, TransformerMixin):
+    """
+    scikit-learn class to implement text cleaning as part of data preparation pipeline
+
+    """
     def fit(self, X, y=None):
         return self
 
@@ -80,6 +107,7 @@ class CleanText(BaseEstimator, TransformerMixin):
             iterable = X
         elif (type(X) == pd.DataFrame):
             iterable = X['text']
+        # remove cover and illustration and repeated empty lines
         for text in iterable:
             text = text.replace('\r\n', '\n', )
             text = text.replace('[Illustration]', '')
@@ -97,6 +125,9 @@ class CleanText(BaseEstimator, TransformerMixin):
 
 
 class StylometricFeatures(BaseEstimator, TransformerMixin):
+    """
+    scikit-learn class to implement stylometric feature extraction as part of data pipeline
+    """
     def fit(self, X, y=None):
         return self
 
@@ -105,5 +136,5 @@ class StylometricFeatures(BaseEstimator, TransformerMixin):
         self.feature_names = df.columns
         return csr_matrix(df.values)
 
-    def get_feature_names_out(self, input_features=None):
+    def get_feature_names_out(self):
         return np.array(self.feature_names)

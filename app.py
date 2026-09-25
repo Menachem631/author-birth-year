@@ -16,6 +16,8 @@ st.markdown("""
 padding-top:1.5rem
 </style>""", unsafe_allow_html=True)
 
+
+
 def get_row_count_from_folder(path=Path(r"C:\Users\menac\PycharmProjects\Text Analysis\stylo")):
     return sum([int(item.stem.split('_')[-1]) for item in path.iterdir()])
 
@@ -91,8 +93,9 @@ r1c1, r1c2, r1c3, r1c4 = st.columns([1.2, 0.8, 1,  3])
 with r1c1:
     st.header("Summary")
     st.write("We predict birth year of author based on the text. Since writing style is largely set early on in an author's life, with "
-             "changes later being relatively minor, we chose to predict birth year and not year of publication. \n\n"
-             "Try it with your own text down below, or use a demo.")
+             "changes later being relatively minor, we chose to predict birth year and not year of publication.")
+    st.link_button('Check out the Repo', 'https://github.com/Menachem631/author-birth-year')
+    st.write("Try it with your own text down below, or use a demo.")
 
 with r1c2:
     st.header("Details")
@@ -104,8 +107,7 @@ with r1c2:
                  "Gutenberg dataset.")
     with st.popover("Feature Engineering"):
         st.write("Books were split into parts, of approximately 20,000 characters each to enhance available training "
-                 "data. Books were then split into train, calibration, validation and test sets, ensuring no author "
-                 "appeared in more than one set. Features used included stylometric features of punctuation and parts"
+                 "data. Features used included stylometric features of punctuation and parts"
                  " of speech, as well as TFIDF on words and characters. Bayesian Hyperparameter Tuning was implemented.")
     with st.popover("Model Details"):
         st.write("A histogram-based gradient boosted regressor was fit, with a quantile loss of 50%, as well as two more "
@@ -113,16 +115,23 @@ with r1c2:
                  "Quantile Regression was then applied to the prediction intervals. Shap Analysis is provided, both "
                  "model-wide and at the prediction level.")
     with st.popover("Results Analysis"):
-        st.write("The model displays lowest error within the central band of data, between 1809 and 1876, with accuracy "
+        st.write("Books were split into train, calibration, validation and test sets, ensuring no author "
+                 "appeared in more than one set. \n\n The model displays lowest error within the central band of data, between 1809 and 1876, with accuracy "
                  "declining outside that scope, with the model displaying regression towards the mean, with the result that "
-                 "very early years are overestimated and very late years are underestimated. Prediction intervals are "
-                 "widest for the earliest years.\n\n The most predictive features, corpus-wide, are frequent use of the "
+                 "very early years are overestimated and very late years are underestimated. \n\nThe 80% prediction intervals are "
+                 "widest for the earliest years and represent almost 100% coverage between 1835 and 1860, but dip towards 0% at each end, "
+                 "yielding an overall coverage of 73.4%.\n\n The most predictive features, corpus-wide, are frequent use of the "
                  "semi-colon and the comma, both indicating early birth years, and frequent use of the period and the "
                  "word 'big', both indicating late birth years.")
     with st.popover("Tech Stack"):
         st.write("spaCy for stylometric features, pandas for data cleaning, matplotlib and seaborn for plotting, "
                  "scikit-learn for feature engineering and model training, Optuna for hyperparameter tuning, SHAP for "
                  "SHAP analysis, MAPIE for Conformalized Quantile Regression and MLflow for experiment tracking")
+    with st.popover("Future Work"):
+        st.write("1) Apply feature embeddings and/or transformers for use in the model, as well as a deep learning "
+                 "architecture to see if that improves model performance.\n\n"
+                 "2) Validate the assumption that author style is formed early on by obtaining publication years and "
+                 "comparing predictions between books written early and late in authors' careers.")
 
 with r1c3:
     st.header("Metrics")
