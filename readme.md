@@ -13,7 +13,7 @@ R2 = 0.505.
 
 MAE = 14.83 years, down from 24.36 from a naive median prediction.
 
-80% prediction intervals with Conformalized Quantile Regression achieves only 73.4% coverage, 
+80% prediction intervals with Conformalized Quantile Regression achieve only 73.4% coverage, 
 reaching 100% in the central band of data, but approaching 0% coverage at the data edges.
 
 The most predictive features, corpus-wide, are frequent use of the semi-colon and the comma, 
