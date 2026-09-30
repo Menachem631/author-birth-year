@@ -117,6 +117,7 @@ class CleanText(BaseEstimator, TransformerMixin):
             text = text.replace('\xa0', '')
             text = text.strip()
             texts.append(text)
+        #handle different input types
         if (type(X) == pd.Series):
             return pd.Series(texts)
         elif (type(X) == pd.DataFrame):
