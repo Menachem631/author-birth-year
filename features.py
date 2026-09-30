@@ -136,5 +136,5 @@ class StylometricFeatures(BaseEstimator, TransformerMixin):
         self.feature_names = df.columns
         return csr_matrix(df.values)
 
-    def get_feature_names_out(self):
+    def get_feature_names_out(self, input_features=None):
         return np.array(self.feature_names)
