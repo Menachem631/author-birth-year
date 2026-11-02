@@ -1,10 +1,13 @@
+import psutil, os
+def mem(tag):
+    print(f"{tag}: {psutil.Process(os.getpid()).memory_info().rss // 2**20} MB", flush=True)
+mem("start")
+
 import streamlit as st
 from PIL import Image
 import pandas as pd
-from pathlib import Path
+
 import spacy
-nlp = spacy.load('en_core_web_sm', disable=['parser', 'ner', 'lemmatizer'])
-nlp.add_pipe('sentencizer')
 import joblib
 import shap
 import numpy as np
@@ -16,19 +19,23 @@ st.markdown("""
 padding-top:1.5rem
 </style>""", unsafe_allow_html=True)
 
+mem('b4')
+@st.cache_resource
+def load_artifacts():
+    nlp = spacy.load('en_core_web_sm', exclude=['parser', 'ner', 'lemmatizer'])
+    nlp.add_pipe('sentencizer')
+    data_prep = joblib.load('data_prep.pkl')
+    names_raw = data_prep.named_steps['columns'].named_transformers_['features'].get_feature_names_out()
+    names = [name.replace('stylo__', '').replace('tfidf_char__', '').replace('tfidf__', '') for name in names_raw]
+    mqr = joblib.load('mqr.pkl')
+    median_model = mqr.estimators_[2]
+    explainer = shap.TreeExplainer(median_model, feature_names = names)
+    display_scaler = joblib.load('display_scaler.pkl')
+    return (data_prep, names_raw, names, mqr, median_model, explainer, display_scaler)
 
+data_prep, names_raw, names, mqr, median_model, explainer, display_scaler = load_artifacts()
 
-def get_row_count_from_folder(path=Path(r"C:\Users\menac\PycharmProjects\Text Analysis\stylo")):
-    return sum([int(item.stem.split('_')[-1]) for item in path.iterdir()])
-
-data_prep = joblib.load('data_prep.pkl')
-names_raw = data_prep.named_steps['columns'].named_transformers_['features'].get_feature_names_out()
-names = [name.replace('stylo__', '').replace('tfidf_char__', '').replace('tfidf__', '') for name in names_raw]
-mqr = joblib.load('mqr.pkl')
-median_model = mqr.estimators_[2]
-explainer = shap.TreeExplainer(median_model, feature_names = names)
-display_scaler = joblib.load('display_scaler.pkl')
-
+mem("after")
 def prep_input(x_raw):
     if len(x_raw)==0:
         return "Waiting for input"
@@ -195,29 +202,28 @@ with r3c1:
 
 
 
-with st.spinner('Processing'):
-    features = prep_input(input_text)
-    with r3c2:
-        if input_text:
-            if type(features) == np.ndarray:
-                pred, low, high = predict(features)
-                st.metric("Prediction", f"{round(pred)} ({round(low)} - {round(high)})")
-            else:
-                st.metric("Prediction", features)
+features = prep_input(input_text)
+with r3c2:
+    if input_text:
+        if type(features) == np.ndarray:
+            pred, low, high = predict(features)
+            st.metric("Prediction", f"{round(pred)} ({round(low)} - {round(high)})")
+        else:
+            st.metric("Prediction", features)
 
-            if try_barnes:
-                st.write("❌ 1654 is not within (1759-1827)")
+        if try_barnes:
+            st.write("❌ 1654 is not within (1759-1827)")
 
-            elif try_finley:
-                st.write("✅ 1827 is within (1807-1861)")
-
+        elif try_finley:
+            st.write("✅ 1827 is within (1807-1861)")
 
 
-    with r3c3:
-        if input_text:
-            if type(features) == np.ndarray:
-                figure = plt.figure()
-                show_shap(features)
-                st.pyplot(figure)
+
+with r3c3:
+    if input_text:
+        if type(features) == np.ndarray:
+            figure = plt.figure()
+            show_shap(features)
+            st.pyplot(figure)
 
 
