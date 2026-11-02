@@ -1,7 +1,3 @@
-import psutil, os
-def mem(tag):
-    print(f"{tag}: {psutil.Process(os.getpid()).memory_info().rss // 2**20} MB", flush=True)
-mem("start")
 
 import streamlit as st
 from PIL import Image
@@ -19,7 +15,6 @@ st.markdown("""
 padding-top:1.5rem
 </style>""", unsafe_allow_html=True)
 
-mem('b4')
 @st.cache_resource
 def load_artifacts():
     nlp = spacy.load('en_core_web_sm', exclude=['parser', 'ner', 'lemmatizer'])
@@ -35,7 +30,6 @@ def load_artifacts():
 
 data_prep, names_raw, names, mqr, median_model, explainer, display_scaler = load_artifacts()
 
-mem("after")
 def prep_input(x_raw):
     if len(x_raw)==0:
         return "Waiting for input"
